@@ -1,0 +1,9 @@
+.git
+tests
+fixtures
+snapshots
+*.db
+*.zip
+__pycache__
+.pytest_cache
+README.md

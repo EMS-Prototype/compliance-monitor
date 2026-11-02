@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: compliance-monitor
+    runtime: docker
+    plan: free
+    healthCheckPath: /healthz
+    autoDeploy: true
+    envVars:
+      - key: ADMIN_PASSWORD      # set this in the Render dashboard; never commit it
+        sync: false
+      - key: SEED_DEMO
+        value: "1"
+      - key: AUTO_RUN
+        value: "1"
