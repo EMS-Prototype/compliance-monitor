@@ -1,0 +1,603 @@
+English साइटमैप सहायता
+जीएसटी संबंधी जागरूकता
+जीएसटी के बारे में
+जीएसटी अधिनियम
+सेवाएं
+मीडिया
+डीजीजीएसटी
+लॉग-इन करें
+21/2022-केन्द्रीय कर- माह सितम्बर 2022 की प्ररूप जीएसटीआर-3ख में विवरणी प्रस्तुत करने की नितय तारीख का विस्तार करने के लिए। शुद्धिपत्र – अधिसूचना 20/2022- केन्द्रीय कर दिनांक 28.09.2022 का शुद्धिपत्र । 20/2022- केन्द्रीय कर - अधिसूचना 20/2018- केन्द्रीय कर दिनांक 28.03.2018 को विखण्डित करने के लिए । 19/2022- केन्द्रीय कर – सीजीएसटी नियम, 2017 में संशोधन (दूसरा संशोधन, 2022) करने के लिए । केंद्रीय माल एवं सेवा कर अधिनियम, 2017 की धारा 73 व 74 और एकीकृत माल एवं सेवा कर अधिनियम, 2017 के अधीन उचित अधिकारी के संबंध में परिपत्र अपलोड कर दिया गया है| ई-वे बिल नियम के कार्यान्वयन को स्थगित करने की अधिसूचना जारी कर दी गई है ई-वे बिल वेबसाइट और संशोधित सीजीएसटी नियमों के बारे अधिसूचित करने के लिए अधिसूचनाएँ अपलोड कर दी गई हैं। विभिन्न विवरणियों के लिए विलंब शुल्क में हुई कटौति के संबंध में भी अधिसूचनाएँ अपलोड कर दी गई हैं। दिसंबर, 2017 का प्ररुप जीएसटीआर-3B भरने की आखिरी तारीख 22 जनवरी, 2018 तक के लिए बढ़ा दी गई है जीएसटी आईटीसी प्रपत्र 01 - सीजीएसटी अधिनियम, 2017 की धारा 18 की उप-धारा (1) के तहत आईटीसी के दावे की घोषणा के लिए सुविधा, जीएसटी पोर्टल पर करदाताओं को प्रदान की गई है। (कृपया सीजीएसटी नियमावली 2017 के नियम 40(1) का संदर्भ लें।) जीएसटी अवधारणा व स्थिति एवं जीएसटी पर प्रस्तुति संबंधी नवीनीकृत संस्करण (केवल अंग्रेज़ी में) अपलोड किया जा चुका है। जीएसटी प्रपत्र GST REG 16 - नवीन करदाता द्वारा पंजीकरण रद्द करवाने के लिए आवेदन प्रपत्र , अब जीएसटी पोर्टल पर उपलब्ध है (सीजीएसटी नियमावली 2017 का नियम 20, देखें)। अनिवासी करदाता द्वारा जीएसटीआर 5 प्रपत्र का सृजन और प्रस्तुतिकरण उनके द्वारा किए गए आईटीसी के विवरण, संशोधन, आपूर्ति आदि के विवरण देने के लिए , अब जीएसटी पोर्टल पर उपलब्ध है। आईटीसी प्रपत्र आईटीसी जीएसटी 02 - सीजीएसटी अधिनियम, 2017 की धारा 18 की उप-धारा (3) के अधीन , बिक्री, विलय, पृथकता , एकीकरण, किसी व्यवसाय के पट्टे या हस्तांतरण के मामले में आईटीसी के हस्तांतरण की सुविधा के लिए घोषणा, जीएसटी पोर्टल पर पंजीकृत व्यक्ति को प्रदान की गयी है। (सीजीएसटी नियम, 2017 का नियम 41 (1) का संदर्भ लें।) ट्रांजिशन प्रपत्र ऑफ़लाइन टूल जीएसटी TRAN 2 के लिए -TRAN 2 के लिए डेटा को भरने और अपलोड करने के लिए एक ऑफ़लाइन टूल अब जीएसटी पोर्टल पर करदाताओं के लिए उपलब्ध है। Tकरदाताओं को सभी रिटर्न में 0.1% की दर से व्यापारी निर्यातकों को की गई आपूर्ति का विवरण देने की सुविधा प्रदान की गई है। ICEGATE को डेटा भेजते समय डेटा की अस्वीकृति से बचने के लिए, जीएसटी 3 बी और जीएसटी 1 प्रपत्र की तालिका 6 ए के आंकड़ों के बीच असंतुलन होने के कारण, 100 रूपये तक के अंतर को स्वीकार करने के लिए सॉफ्टवेयर में एक बदलाव किया गया है, जबकि इन तालिकाओं में डेटा मान्य है। जीएसटीआर 1 प्रपत्र के ऑफ़लाइन उपयोग में संशोधन सारणी को भरते समय करदाताओं के समक्ष आने वाली समस्याएं निर्दिष्ट की गयी हैं। अधिसूचना सं 72/2017 - केंद्रीय कर दिनांक 29 दिसंबर, के अनुसार (पंजीकृत व्यक्तियों के ऐसे वर्ग के लिए जिनका कुल कारोबार पूर्ववर्ती वित्तीय वर्ष में या मौजूदा वित्तीय वर्ष में 1.5 करोड़ रुपए से अधिक हो ) जुलाई 2017 से नवंबर 2017 माह तक के लिए जीएसटीआर -1 प्रपत्र दायर करने की तारीख बदलकर 10 जनवरी 2018 कर दी गई है । 08-11-2017 के बाद जीएसटी ट्रान -1 भरने वाले करदाताओं के लिए ट्रान-1 संशोधित करने की सुविधा सक्षम कर दी गई है। वे करदाता जिन्होंने अपना प्ररुप जीएसटी ट्रान-1 अब तक संशोधित नहीं किया वे भी इस सुविधा का फायदा उठा पाएँगे। अगर संशोधन के परिणामस्वरुप क्रेडिट ऋणात्मक हो जाएँ और उनके क्रेडिट बहीखाते में पर्याप्त शेषराशि नहीं हो तब भी करदाता संशोधित प्ररुप जीएसटी ट्रान-1 फाइल कर सकते हैं। ऐसी स्थिति में पुराने क्रेडिट और नए क्रेडिट के बीच के फर्क की रकम उनकी देयता में जोड़ दी जाएगी। अपने इलेक्ट्रॉनिक नकद बहीखाते में अतिरिक्त राशि का प्रतिदाय प्राप्त करने की सुविधा जीएसटी पोर्टल में उपलब्ध कर दी गई है। यह सुविधा जीएसटी पोर्टल पर लॉग-इन करने के बाद प्रतिदाय मेनू में इलेक्ट्रॉनिक नकद बहीखाते में अतिरिक्त शेषराशि के प्रतिदाय विकल्प पर जाकर एक्सेस की जा सकती है। प्ररुप जीएसटीआर 3B को देर से भरने पर लगने वाले शुल्क को 50 रुपये कम कर दिया गया है। कृपया केंद्रीय कर-अधिसूचना सं. 64/2017 देखें (दिनांक 15 नवंबर, 2017) संशोधित आईजीएसटी नियम, 2017 (15/11/2017) शून्य-दर वाले प्रदायों के संदर्भ में दावे मैन्युअल रुप से फाइल करने और प्रतिदाय संसाधित करने के लिए जारी परिपत्र जीएसटी अधिवक्ता का लोकेशन जानने और उससे संपर्क karne/संपर्क तोड़ने के लिए जीएसटी पोर्टल में एक नई सुविधा उपलब्ध है। जीएसटी अधिवक्ता को अपने डैशबोर्ड में करदाता को स्वीकार/अस्वीकार करने और सभी करदाता की सूची देखने की सुविधा प्रदान कर दी गई है। ज्यादा जानकारी के लिए gst.gov.in पर जाएँ
+Home / GST Acts / Central Tax (Rate) Notifications
+Central Tax (Rate) Notifications
+Notification No. & Date of Issue English हिन्दी Subject
+2022
+15/2022-Central Tax (Rate),dt. 30-12-2022 View (76 KB) देखें (84 KB) Seeks to amend notification No. 12/2017- Central Tax (Rate)
+14/2022-Central Tax (Rate),dt. 30-12-2022 View (120 KB) देखें (339 KB) Seeks to amend notification No. 4/2017- Central Tax (Rate)
+13/2022-Central Tax (Rate),dt. 30-12-2022 View (120 KB) देखें (242 KB) Seeks to amend notification No. 2/2017- Central Tax (Rate)
+12/2022-Central Tax (Rate),dt. 30-12-2022 View (258 KB) देखें (413 KB) Seeks to amend notification No. 1/2017- Central Tax (Rate)
+11/2022-Central Tax (Rate),dt. 13-07-2022 View (4 KB) देखें (91 KB) Rescinds notification No. 45/2017- Central Tax (Rate)
+10/2022-Central Tax (Rate),dt. 13-07-2022 View (102 KB) देखें (91 KB) Seeks to amend notification No. 2/2022- Central Tax (Rate)
+09/2022-Central Tax (Rate),dt. 13-07-2022 View (109 KB) देखें (162 KB) Seeks to amend notification No. 5/2017- Central Tax (Rate)
+08/2022-Central Tax (Rate),dt. 13-07-2022 View (112 KB) देखें (94 KB) Seeks to amend notification No. 3/2017- Central Tax (Rate)
+07/2022-Central Tax (Rate),dt. 13-07-2022 View (124 KB) देखें (152 KB) Seeks to amend notification No. 2/2017- Central Tax (Rate)
+06/2022-Central Tax (Rate),dt. 13-07-2022 View (172 KB) देखें (591 KB) Seeks to amend notification No. 1/2017- Central Tax (Rate)
+05/2022-Central Tax (Rate),dt. 13-07-2022 View (76 KB) देखें (103 KB) Seeks to amend Notification No 13/2017- Central Tax (Rate) dated 28.06.2017
+04/2022-Central Tax (Rate),dt. 13-07-2022 View (124 KB) देखें (118 KB) Seeks to amend Notification No 12/2017- Central Tax (Rate) dated 28.06.2017
+03/2022-Central Tax (Rate),dt. 13-07-2022 View (167 KB) देखें (205 KB) Seeks to amend Notification No 11/2017- Central Tax (Rate) dated 28.06.2017
+02/2022-Central Tax (Rate),dt. 31-03-2022 View (130 KB) देखें (477 KB) Seeks to provide for a concessional rate on intra state supply of bricks conditional to not availing the ITC, as recommended by 45 GSTC
+01/2022-Central Tax (Rate),dt. 31-03-2022 View (122 KB) देखें (499 KB) Seeks to amend notification No. 1/2017-Central Tax (Rate)
+2021
+22/2021-Central Tax [Rate] ,dt. 31-12-2021 View (64 KB) देखें (155 KB) Seeks to supersede notification 15/2021- CT(R) dated 18.11.2021 and amend Notification No 11/2017- CT (Rate) dated 28.06.2017.
+21/2021-Central Tax [Rate] ,dt. 31-12-2021 View (64 KB) देखें (155 KB) Seeks to supersede notification 14/2021- CT(R) dated 18.11.2021 and amend Notification No 1/2017- CT (Rate) dated 28.06.2017.
+20/2021-Central Tax (Rate) ,dt. 28-11-2021 View (117 KB) देखें (300 KB) Seeks to amend Notification No 21/2018- Central Tax (Rate) dated 26.07.2018
+19/2021-Central Tax (Rate) ,dt. 28-11-2021 View (115 KB) देखें (325 KB) Seeks to amend Notification No 2/2017- Central Tax (Rate) dated 28.06.2017.
+18/2021-Central Tax (Rate) ,dt. 28-12-2021 View (145 KB) देखें (374 KB) Seeks to amend Notification No 1/2017- Central Tax (Rate) dated 28.06.2017.
+17/2021-Central Tax (Rate) ,dt. 18-11-2021 View (437 KB) देखें (255 KB) Seeks to amend Notification No 17/2017- Central Tax (Rate) dated 28.06.2017
+16/2021-Central Tax (Rate) ,dt. 18-11-2021 View (370 KB) देखें (314 KB) Seeks to amend Notification No 12/2017- Central Tax (Rate) dated 28.06.2017
+15/2021-Central Tax (Rate) ,dt. 18-11-2021 View (255 KB) देखें (317 KB) Seeks to amend Notification No 11/2017- Central Tax (Rate) dated 28.06.2017.
+14/2021-Central Tax (Rate) ,dt. 18-11-2021 View (199 KB) देखें (522 KB) Seeks to further amend notification No. 01/2021-Central Tax (Rate) dated 28-06-2021
+13/2021-Central Tax (Rate) ,dt. 27-10-2021 View (114 KB) देखें (371 KB) Seeks to amend Notification No 1/2017- Central Tax (Rate) dated 28.06.2017.
+12/2021-Central Tax (Rate) ,dt. 30-09-2021 View (8 KB) देखें (34 KB) Seeks to exempt CGST on specified medicines used in COVID-19, up to 31st December, 2021
+11/2021-Central Tax (Rate) ,dt. 30-09-2021 View (7 KB) देखें (33 KB) Seeks to amend notification No. 39/2017- Central Tax (Rate)
+10/2021-Central Tax (Rate) ,dt. 30-09-2021 View (7 KB) देखें (51 KB) Seeks to amend notification No. 4/2017- Central Tax (Rate)
+09/2021-Central Tax (Rate) ,dt. 30-09-2021 View (7 KB) देखें (51 KB) Seeks to amend notification No. 2/2017- Central Tax (Rate)
+08/2021-Central Tax (Rate) ,dt. 30-09-2021 View (28 KB) देखें (176 KB) Seeks to amend notification No. 1/2017- Central Tax (Rate)
+07/2021-Central Tax (Rate) ,dt. 30-09-2021 View (275 KB) देखें (399 KB) Seeks to amend notification No. 12/2017- Central Tax (Rate) so as to implement recommendations made by GST Council in its 45th meeting held on 17.09.2021.
+06/2021-Central Tax (Rate),dt. 30-09-2021 View (245 KB) देखें (365 KB) Seeks to amend notification No. 11/2017- Central Tax (Rate) so as to notify CGST rates of various services as recommended by GST Council in its 45th meeting held on 17.09.2021.
+05/2021-Central Tax (Rate) ,dt. 14-06-2021 View (196 KB)
+Corrigendum देखें (252 KB)
+Corrigendum Seeks to provide the concessional rate of CGST on Covid-19 relief supplies, up to and inclusive of 30th September 2021
+04/2021-Central Tax (Rate) ,dt. 14-06-2021 View (265 KB) देखें (375 KB) Seeks to amend notification No. 11/2017- Central Tax (Rate) so as to notify GST rates of various services as recommended by GST Council in its 44th meeting held on 12.06.2021.
+03/2021-Central Tax (Rate) ,dt. 02-06-2020 View (158 KB) देखें (267 KB) Seeks to amend notification No. 06/2019- Central Tax (Rate) so as to give effect to the recommendations made by GST Council in its 43rd meeting held on 28.05.2021.
+02/2021-Central Tax (Rate) ,dt. 02-06-2020 View (179 KB) देखें (298 KB) Seeks to amend notification No. 11/2017- Central Tax (Rate) so as to notify CGST rates of various services as recommended by GST Council in its 43rd meeting held on 28.05.2021.
+01/2021-Central Tax (Rate) ,dt. 02-06-2020 View (147 KB) देखें (255 KB) Seeks to amend notification No. 1/2017-Central Tax (Rate) to prescribe change in CGST rate of goods.
+2020
+05/2020-Central Tax (Rate), dt. 16-10-2020 View (399 KB) देखें (384 KB) To amend notification No. 12/ 2017- Central Tax (Rate) so as to exempt satellite launch services provided by ISRO, Antrix Co. Ltd and NSIL as recommended by GST Council in its 42nd meeting held on 05.10.2020.
+04/2020-Central Tax (Rate) ,dt. 30-09-2020 View (399 KB) देखें (384 KB) Extension of CGST exemption on services by way of transportation of goods by air or by sea from customs station of clearance in India to a place outside India, by one year i.e. upto 30.09.2021.
+03/2020-Central Tax (Rate) ,dt. 25-03-2020 View (116 KB) देखें (530 KB) Seeks to amend notification No. 1/2017-Central Tax (Rate) to prescribe change in CGST rate of goods.
+02/2020-Central Tax (Rate) ,dt. 26-03-2020 View (117 KB) देखें (518 KB) Seeks to amend Notification No. 11/2017-Central Tax (Rate) dt. 28.06.2017 reducing CGST rate on Maintenance, Repair and Overhaul (MRO) services in respect of aircraft from 18% to 5% with full ITC.
+01/2020-Central Tax (Rate) ,dt. 21-02-2020 View (289 KB) देखें (533 KB) Seeks to amend notification No. 1/2017- Central Tax (Rate) dated 28.06.2017 so as to notify rate of GST on supply of lottery.
+2019
+29/2019-Central Tax (Rate) ,dt. 31-12-2019 View (118 KB) देखें (483 KB) To amend notification No. 13/ 2017- Central Tax (Rate) so as to notify certain services under reverse charge mechanism (RCM) as recommended by GST Council in its 38th meeting held on 18.12.2019.
+28/2019-Central Tax (Rate) ,dt. 31-12-2019 View (259 KB) देखें (175 KB) To amend notification No. 12/ 2017- Central Tax (Rate) so as to exempt certain services as recommended by GST Council in its 38th meeting held on 18.12.2019.
+27/2019-Central Tax (Rate), dt. 30-12-2019 View (119 KB) देखें (175 KB) Seeks to further amend notification No. 01/2017-Central Tax (Rate), to change the rate of GST on goods as per recommendations of the GST Council in its 38th Meeting.
+26/2019-Central Tax (Rate), dt. 22-11-2019 View (92 KB) देखें (412 KB) Seeks to insert explanation regarding Bus Body Building in Notification No. 11/2017-Central Tax (Rate) dt. 28.06.2017.
+25/2019-Central Tax (Rate) ,dt. 30-09-2019 View (250 KB) देखें (102 KB) Seeks to notify the grant of alcoholic liquor licence neither a supply of goods nor a supply of service as per Section 7(2) of CGST Act, 2017.
+24/2019-Central Tax (Rate) ,dt. 30-09-2019 View (251 KB) देखें (103 KB) Seeks to amend notification No. 7/2019 - Central Tax (Rate), dated the 29th March, 2019 by amending the entry related to cement.
+23/2019-Central Tax (Rate) ,dt. 30-09-2019 View (252 KB) देखें (104 KB) Seeks to amend notification No. 4/2018 - Central Tax (Rate), dated the 25th January, 2018, by adding an explanation on the applicability of provisions related to supply of development rights.
+22/2019-Central Tax (Rate) ,dt. 30-09-2019 View (137 KB) देखें (513 KB) Seeks to amend notification No. 13/2017- Central Tax (Rate) so as to notify services under reverse charge mechanism (RCM) as recommended by GST Council in its 37th meeting held on 20.09.2019.
+21/2019-Central Tax (Rate) ,dt. 30-09-2019 View (271 KB) देखें (297 KB) Seeks to amend notification No. 12/2017- Central Tax (Rate) to exempt services as recommended by GST Council in its 37th meeting held on 20.09.2019.
+20/2019-Central Tax (Rate) ,dt. 30-09-2019 View (281 KB) देखें (510 KB) Seeks to amend notification No. 11/2017- Central Tax (Rate) so as to notify CGST rates of various services as recommended by GST Council in its 37th meeting held on 20.09.2019.
+19/2019-Central Tax (Rate) ,dt. 30-09-2019 View (8 KB) देखें (433 KB) Seeks to exempt supply of goods for specified projects under FAO.
+18/2019-Central Tax (Rate) ,dt. 30-09-2019 View (155 KB) देखें (244 KB) Seeks to amend notification No 2/2019- Central Tax (Rate) dated 7.3.2019 so as to exclude manufacturers of aerated waters from the purview of composition scheme.
+17/2019-Central Tax (Rate) ,dt. 30-09-2019 View (156 KB) देखें (245 KB) Seeks to amend notification No 26/2018- Central Tax (Rate) dated 31.12.2018, so as to exempt CGST on supplies of silver and platinum by nominated agencies to registered persons.
+16/2019-Central Tax (Rate) ,dt. 30-09-2019 View (156 KB) देखें (250 KB) Seeks to amend notification No 3/2017- Central Tax (Rate) dated 28.6.2017 so as to extend concessional CGST rates to specified projects under HELP/OALP, and other changes.
+15/2019-Central Tax (Rate) ,dt. 30-09-2019 View (81 KB) देखें (248 KB) Seeks to amend notification No 2/2017- Central Tax (Rate) dated 28.6.2017 so as to grant exemption to dried tamarind and cups, plates made of leaves, bark and flowers of plants.
+14/2019-Central Tax (Rate) ,dt. 30-09-2019 View (201 KB) देखें (385 KB) Seeks to amend notification No 1/2017- Central Tax (Rate) dated 28.6.2017 so as to specify effective CGST rates for specified goods, to give effect to the recommendations of the GST Council in its 37th meeting dated 20.09.2019.
+13/2019-Central Tax (Rate) ,dt. 31-07-2019 View (72 KB) देखें (125 KB) which seeks to exempt the hiring of Electric buses by local authorities from GST.
+12/2019-Central Tax (Rate) ,dt. 31-07-2019 View (95 KB) देखें (135 KB) which seeks to reduce the GST rate on Electric Vehicles, and charger or charging stations for Electric vehicles.
+11/2019-Central Tax (Rate) ,dt. 29-06-2019 View (85 KB) देखें (95 KB) Seeks to specifies retail outlets established in the departure area of an international airport, beyond the immigrationcounters, making tax free supply of goods to an outgoing international tourist, as class of persons who shall be entitled to claim refund.
+10/2019-Central Tax (Rate) ,dt. 10-05-2019 View (254 KB) देखें (248 KB) To amend notification No. 11/ 2017- Central Tax (Rate) so as to extend the last date for exercising the option by promoters to pay tax at the old rates of 12%/ 8% with ITC.
+09/2019-Central Tax (Rate) ,dt. 29-03-2019 View (198 KB) देखें (514 KB) Seeks to amend notification No. 02/2019- Central Tax (Rate) so as to provide for application of Composition rules to persons opting to pay tax under notification no. 2/2019- Central Tax (Rate).
+08/2019-Central Tax (Rate) ,dt. 29-03-2019 View (202 KB) देखें (690 KB) Seeks to amend notification No. 1/2017- Central Tax (Rate) so as to notify CGST rate of certain goods as recommended by Goods and Services Tax Council for real estate sector.
+07/2019-Central Tax (Rate) ,dt. 29-03-2019 View (205 KB) देखें (768 KB) Seeks to notify certain services to be taxed under RCM under section 9(4) of CGST Act as recommended by Goods and Services Tax Council for real estate sector.
+06/2019-Central Tax (Rate) ,dt. 29-03-2019 View (203 KB) देखें (612 KB) Seeks to notify certain class of persons by exercising powers conferred under section 148 of CGST Act, 2017.
+05/2019-Central Tax (Rate) ,dt. 29-03-2019 View (203 KB) देखें (701 KB) Seeks to amend notification No. 13/2017- Central Tax (Rate) so as to specify services to be taxed under Reverse Charge Mechanism (RCM) as recommended by Goods and Services Tax Council for real estate sector.
+04/2019-Central Tax (Rate) ,dt. 29-03-2019 View (227 KB) देखें (547 KB) Seeks to amend notification No. 12/2017- Central Tax (Rate) so as to exempt certain services as recommended by Goods and Services Tax Council for real estate sector.
+03/2019-Central Tax (Rate) ,dt. 29-03-2019 View (536 KB)
+Corrigendum (112 KB) देखें (1564 KB)
+Corrigendum (485 KB) Seeks to amend notification No. 11/2017- Central Tax (Rate) so as to notify CGST rates of various services as recommended by Goods and Services Tax Council for real estate sector.
+02/2019-Central Tax (Rate) ,dt. 07-03-2019 View (171 KB) देखें (568 KB) To give composition scheme for supplier of services with a tax rate of 6% having annual turn over in preceding year upto Rs 50 lakhs.
+01/2019-Central Tax (Rate) ,dt. 29-01-2019 View (361 KB) देखें (529 KB) Seeks to rescind notification No. 8/2017-Central Tax (Rate) dated 28.06.2017 in view of bringing into effect the amendments (regarding RCM on supplies by unregistered persons) in the GST Acts
+2018
+30/2018-Central Tax (Rate), dt. 31-12-2018 View (284 KB) देखें (594 KB) Seeks to insert explanation in an item in notification No. 11/2017 – Central Tax (Rate) by exercising powers conferred under section 11(3) of CGST Act, 2017.
+29/2018-Central Tax (Rate), dt. 31-12-2018 View (293 KB) देखें (577 KB) Seeks to amend notification No. 13/2017- Central Tax (Rate) so as to specify services to be taxed under Reverse Charge Mechanism (RCM) as recommended by Goods and Services Tax Council in its 31st meeting held on 22.12.2018.
+28/2018-Central Tax (Rate), dt. 31-12-2018 View (294 KB) देखें (1055 KB) Seeks to amend notification No. 12/2017- Central Tax (Rate) so as to exempt certain services as recommended by Goods and Services Tax Council in its 31st meeting held on 22.12.2018.
+27/2018-Central Tax (Rate), dt. 31-12-2018 View (303 KB) देखें (702 KB) Seeks to amend notification No. 11/2017- Central Tax (Rate) so as to notify CGST rates of various services as recommended by Goods and Services Tax Council in its 31st meeting held on 22.12.2018.
+26/2018-Central Tax (Rate) ,dt. 31-12-2018 View (361 KB) देखें (529 KB) seeks to exempt central tax on supply of gold by nominated agencies to registered persons.
+25/2018-Central Tax (Rate) ,dt. 31-12-2018 View (112 KB) देखें (443 KB) Seeks to further amend notification No. 2/2017-Central Tax (Rate) dated 28.06.2017 to exempt GST on goods as per recommendations of the GST Council in its 31st meeting.
+24/2018-Central Tax (Rate) ,dt. 31-12-2018 View (282 KB) देखें (615 KB) Seeks to further amend notification No. 1/2017-Central Tax (Rate) dated 28.06.2017 to change GST rates on goods as per recommendations of the GST Council in its 31st meeting.
+23/2018-Central Tax (Rate) ,dt. 20-09-2018 View (361 KB) देखें (529 KB) Seeks to insert explanation in an entry in notification No. 12/2017 – Central Tax (Rate) by exercising powers conferred under section 11(3) of CGST Act, 2017.
+22/2018-Central Tax (Rate) ,dt. 06-08-2018 View (340 KB) देखें (587 KB) Seeks to exempt payment of tax under section 9(4) of the CGST Act, 2017 till 30.09.2019.
+21/2018-Central Tax (Rate) ,dt. 26-07-2018 View (147 KB) देखें (216 KB) Seeks to prescribe concessional CGST rate on specified handicraft items, to give effect to the recommendations of the GST Council in it’s 28th meeting held on 21.07.2018
+20/2018-Central Tax (Rate) ,dt. 26-07-2018 View (191 KB) देखें (110 KB) Seeks to amend Notification No 05/2017-Central Tax (Rate),dt. 28-06-2017 to give effect to the recommendations of the GST Council in it’s 28th meeting held on 21.07.2018
+19/2018-Central Tax (Rate) ,dt. 26-07-2018 View (122 KB) देखें (289 KB) Seeks to amend Notification No. 02/2017-Central Tax (Rate),dt. 28-06-2017 to give effect to the recommendations of the GST Council in it’s 28th meeting held on 21.07.2018
+18/2018-Central Tax (Rate) ,dt. 26-07-2018 View (259 KB) देखें (206 KB) Seeks to amend Notification No. 01/2017-Central Tax (Rate),dt. 28-06-2017 to give effect to the recommendations of the GST Council in it’s 28th meeting held on 21.07.2018
+17/2018-Central Tax (Rate) ,dt. 26-07-2018 View (147 KB) देखें (216 KB) Seeks to insert explanation in an item in notification No. 11/2017 – Central Tax (Rate) by exercising powers conferred under section 11(3) of CGST Act, 2017.
+16/2018-Central Tax (Rate) ,dt. 26-07-2018 View (191 KB) देखें (110 KB) Seeks to amend notification No. 14/2017- Central Tax (Rate) to notify that services by way of any activity in relation to a function entrusted to a municipality under Article 243W shall be treated neither as a supply of good nor a service.
+15/2018-Central Tax (Rate) ,dt. 26-07-2018 View (122 KB) देखें (289 KB) Seeks to amend notification No. 13/2017- Central Tax (Rate) so as to specify services supplied by individual Direct Selling Agents (DSAs) to banks/ non-banking financial company (NBFCs) to be taxed under Reverse Charge Mechanism (RCM).
+14/2018-Central Tax (Rate) ,dt. 26-07-2018 View (259 KB) देखें (206 KB) Seeks to amend notification No. 12/2017- Central Tax (Rate) so as to exempt certain services as recommended by Goods and Services Tax Council in its 28th meeting held on 21.07.2018
+13/2018-Central Tax (Rate) ,dt. 26-07-2018 View (259 KB) देखें (206 KB) Seeks to amend notification No. 11/2017- Central Tax (Rate) so as to notify CGST rates of various services as recommended by Goods and Services Tax Council in its 28th meeting held on 21.07.2018.
+12/2018-Central Tax (Rate) ,dt. 29-06-2018 View (340 KB) देखें (588 KB) Seeks to exempt payment of tax under section 9(4) of the CGST Act, 2017 till 30.09.2018.
+12/2018-Central Tax (Rate) ,dt. 29-06-2018 View (340 KB) देखें (588 KB) Seeks to exempt payment of tax under section 9(4) of the CGST Act, 2017 till 30.09.2018.
+11/2018-Central Tax (Rate) ,dt. 28-05-2018 View (17 KB) देखें (510 KB) Seeks to exempt payment of tax under section 9(4) of the CGST Act, 2017 till 30.06.2018.
+10/2018-Central Tax (Rate) ,dt. 23-03-2018 View (203 KB) देखें (510 KB) Seeks to exempt payment of tax under section 9(4) of the CGST Act, 2017 till 30.06.2018.
+09/2018-Central Tax (Rate) ,dt. 25-01-2018 View (120 KB) देखें (255 KB) Seeks to amend Notification No.45/2017-Central (Rate)
+08/2018-Central Tax (Rate) ,dt. 25-01-2018 View (84 KB) देखें (566 KB) seeks to amend Notification No.1/2017-CGST (Rate)
+07/2018-Central Tax (Rate) ,dt. 25-01-2018 View (261 KB) देखें (281 KB) seeks to amend Notification No.2/2017-CGST (Rate).
+06/2018-Central Tax (Rate) ,dt. 25-01-2018 View (163 KB) देखें (748 KB) seeks to amend Notification No.1/2017-CGST (Rate).
+05/2018-Central Tax (Rate) ,dt. 25-01-2018 View (110 KB) देखें (221 KB) Seeks to exempt Central Government’s share of Profit Petroleum from Central tax
+04/2018-Central Tax (Rate) ,dt. 25-01-2018 View (143 KB) देखें (284 KB) Seeks to provide special procedure with respect to payment of tax by registered person supplying service by way of construction against transfer of development right and vice versa.
+03/2018-Central Tax (Rate) ,dt. 25-01-2018 View (253 KB) देखें (300 KB) Seeks to amend notification No. 13/2017- Central Tax (Rate) so as to specify services supplied by the Central Government, State Government, Union territory or local authority by way of renting of immovable property to a registered person under CGST Act, 2017 to be taxed under Reverse Charge Mechanism (RCM).
+02/2018-Central Tax (Rate) ,dt. 25-01-2018 View (218 KB) देखें (339 KB) Seeks to amend notification No. 12/2017- Central Tax (Rate) so as to exempt certain services as recommended by Goods and Services Tax Council in its 25th meeting held on 18.01.2018.
+01/2018-Central Tax (Rate) ,dt. 25-01-2018 View (296 KB) देखें (368 KB) Seeks to amend notification No. 11/2017- Central Tax (Rate) so as to notify CGST rates of various services as recommended by Goods and Services Tax Council in its 25th meeting held on 18.01.2018.
+2017
+47/2017-Central Tax (Rate) ,dt. 14-11-2017 View (36 KB) देखें (221 KB) Seeks to amend notification No. 12/2017-CT(R) so as to extend exemption to admission to “protected monument” and to consolidate entry at Sl. No. 11A & 11B.
+46/2017-Central Tax (Rate) ,dt. 14-11-2017 View (36 KB) देखें (221 KB) Seeks to amend notification No. 11/2017-CT(R) so as to specify rate @ 2.5% for standalone restaurants and @9% for other restaurants, reduce rate of job work on “handicraft goods” @ 2.5% and to substitute “Services provided” in item (vi) against Sl No. 3 in table.
+45/2017-Central Tax (Rate) ,dt. 14-11-2017 View (36 KB) देखें (221 KB) seeks to provide concessional GST rate of 2.5% on scientific and technical equipments supplied to public funded research institutions.
+44/2017-Central Tax (Rate) ,dt. 14-11-2017 View (36 KB) देखें (221 KB) seeks to amend notification no. 5/2017- Central tax(rate) dated 28.06.2017 to give effect to gst council decisions regarding restriction of ITC on certain fabrics.
+43/2017-Central Tax (Rate) ,dt. 14-11-2017 View (36 KB) देखें (221 KB) seeks to amend notification no. 4/2017- Central tax(rate) dated 28.06.2017 to give effect to gst council decision regarding reverse charge on raw cotton.
+42/2017-Central Tax (Rate) ,dt. 14-11-2017 View (36 KB) देखें (221 KB) seeks to amend notification no. 2/2017- Central tax(rate) dated 28.06.2017 to give effect to gst council decisions regarding gst exemptions
+41/2017-Central Tax (Rate) ,dt. 14-11-2017 View (36 KB) देखें (221 KB) seeks to amend notification no. 1/2017- Central tax(rate) dated 28.06.2017 to give effect to gst council decisions regarding gst rates
+40/2017-Central Tax (Rate) ,dt. 23-10-2017 View (36 KB) देखें (221 KB) Seeks to prescribe Central Tax rate of 0.05% on intra-State supply of taxable goods by a registered supplier to a registered recipient for export subject to specified conditions.
+39/2017-Central Tax (Rate) ,dt. 18-10-2017 View (321 KB) देखें (162 KB) Seeks to reduce GST rate on Food preparations put up in unit containers and intended for free distribution to economically weaker sections of the society under a programme duly approved by the Central Government or any State Government.
+38/2017-Central Tax (Rate) ,dt. 13-10-2017 View (118 KB) देखें (50 KB) Seeks to exempt payment of tax under section 9(4) of the CGST Act, 2017 till 31.03.2017
+37/2017-Central Tax (Rate) ,dt. 13-10-2017 View (188 KB) देखें (396 KB) Seeks to prescribe Central Tax rate on the leasing of motor vehicles.
+36/2017-Central Tax (Rate) ,dt. 13-10-2017 View (11 KB) देखें (105 KB) Seeks to amend notification No. 4/2017-Central Tax (Rate).
+35/2017-Central Tax (Rate) ,dt. 13-10-2017 View (258 KB) देखें (119 KB) Seeks to amend notification No. 2/2017-Central Tax (Rate).
+34/2017-Central Tax (Rate) ,dt. 13-10-2017 View (153 KB) देखें (407 KB) The notification No. 34/2017-Central Tax (Rate) seeks to amend notification No. 1/2017-Central Tax (Rate).
+33/2017-Central Tax (Rate) ,dt. 13-10-2017 View (307 KB) देखें (320 KB) Seeks to amend notification No. 13/2017-CT(R) regarding services provided by Overseeing Committee members to RBI under RCM.
+32/2017-Central Tax (Rate) ,dt. 13-10-2017 View (307 KB) Seeks to amend notification No. 12/2017-CT(R).
+31/2017-Central Tax (Rate) ,dt. 13-10-2017 View (307 KB) देखें (320 KB) Seeks to amend notification No. 11/2017-CT(R).
+30/2017-Central Tax (Rate) ,dt. 29-09-2017 View (118 KB) देखें (50 KB) Exempting supply of services associated with transit cargo to Nepal and Bhutan.
+29/2017-Central Tax (Rate) ,dt. 22-09-2017 View (154 KB) देखें (221 KB) Seeks to amend notification no. 5/2017- central tax(rate) dated 28.06.2017 to give effect to gst council decisions regarding restriction of refund on corduroy fabrics.
+28/2017-Central Tax (Rate) ,dt. 22-09-2017 View (185 KB) देखें (298 KB) Seeks to amend notification no. 2/2017- central tax(rate) dated 28.06.2017 to give effect to gst council decisions regarding gst exemptions.
+27/2017-Central Tax (Rate) ,dt. 22-09-2017 View (212 KB) देखें (185 KB) Seeks to amend notification no. 1/2017- central tax(rate) dated 28.06.2017 to give effect to gst council decisions regarding gst rates.
+26/2017-Central Tax (Rate) ,dt. 21-09-2017 View (261 KB) देखें (497 KB) Exempt certain supplies to NPCIL.
+25/2017-Central Tax (Rate) ,dt. 21-09-2017 View (261 KB) Seeks to amend notification No. 12/2017-CT(R) to exempt right to admission to the events organised under FIFA U-17 World Cup 2017.
+24/2017-Central Tax (Rate) ,dt. 21-09-2017 View (261 KB) देखें (497 KB) Seeks to amend notification No. 11/2017-CT(R) to reduce CGST rate on specified supplies of Works Contract Services.
+23/2017-Central Tax (Rate) ,dt. 22-08-2017 View (117 KB) देखें (161 KB) Seeks to amend notification No. 17/2017-CT(R) to make ECO responsible for payment of GST on services provided by way of house-keeping such as plumbing, carpentering etc.
+22/2017-Central Tax (Rate) ,dt. 22-08-2017 View (253 KB) देखें (236 KB) Seeks to amend notification No. 13/2017-CT(R) to amend RCM provisions for GTA and to insert explanation for LLP.
+21/2017-Central Tax (Rate) ,dt. 22-08-2017 View (267 KB) देखें (255 KB) Seeks to amend notification No. 12/2017-CT(R) to exempt services provided by Fair Price Shops to Government and those provided by and to FIFA for FIFA U-17. Also to substitute RWCIS & PMFBY for MNAIS & NAIS, and insert explanation for LLP.
+20/2017-Central Tax (Rate) ,dt. 22-08-2017 View (300 KB) देखें (311 KB) Seeks to amend notification No. 11/2017-CT(R) to reduce CGST rate on specified supplies of Works Contract Services, job work for textile & textile products, printing service of books, newspapers etc, admission to planetarium, and, also to provide option to GTA & transport of passengers by motorcab service providers to avail full ITC & discharge CGST @ 6%
+19/2017-Central Tax (Rate) ,dt. 18-08-2017 View (261 KB) देखें (124 KB) Seeks to reduce CGST rate on specified parts of tractors from 14% to 9 %
+18/2017-Central Tax (Rate) ,dt. 30-06-2017 View (136 KB) देखें (37 KB) Seek to reduce the rate of Central Tax, Union Territory Tax, on fertilisers from 6% to 2.5% and Integrated Tax rate on fertilisers from 12% to 5%
+17/2017-Central Tax (Rate) ,dt. 28-06-2017 View (136 KB) देखें (585 KB) To notify the categories of services the tax on intra-State supplies of which shall be paid by the electronic commerce operator
+16/2017-Central Tax (Rate) ,dt. 28-06-2017 View (344 KB) देखें (385 KB) To notify specialised agencies entitled to claim a refund of taxes paid on the notified supplies of goods or services or both received by them under CGST Act
+15/2017-Central Tax (Rate) ,dt. 28-06-2017 View (142 KB) देखें (431 KB) To notify the supplies not eligible for refund of unutilized ITC under CGST Act
+14/2017-Central Tax (Rate) ,dt. 28-06-2017 View (248 KB) देखें (318 KB) To notify the supplies which shall be treated neither as a supply of goods nor a supply of service under the CGST Act
+13/2017-Central Tax (Rate) ,dt. 28-06-2017 View (274 KB)
+Corrigendum (116 KB) देखें (722 KB)
+Corrigendum (442 KB) To notify the categories of services on which tax will be payable under reverse charge mechanism under CGST Act
+12/2017-Central Tax (Rate), dt. 28-06-2017 View (440 KB) देखें (990 KB) To notify the exemptions on supply of services under CGST Act
+11/2017-Central Tax (Rate) ,dt. 28-06-2017 View (399 KB)
+Annexure (252KB) देखें (1.11 MB)
+Annexure (252KB) To notify the rates for supply of services under CGST Act
+10/2017-Central Tax (Rate),dt. 28-06-2017 View (143 KB) देखें (503 KB) CGST exemption for dealers operating under Margin Scheme notified under section 11 (1)
+09/2017-Central Tax (Rate),dt. 28-06-2017 View (143 KB) देखें (500 KB) Exempting supplies to a TDS deductor by a supplier, who is not registered, under section 11 (1)
+08/2017-Central Tax (Rate),dt. 28-06-2017 View (143 KB) देखें (500 KB) CGST exemption from reverse charge upto Rs.5000 per day under section 11 (1)
+07/2017-Central Tax (Rate),dt. 28-06-2017 View (254 KB) देखें (512 KB) Exemption from CGST supplies by CSD to Unit Run Canteens and supplies by CSD / Unit Run Canteens to authorised customers notified under section 11 (1) and section 55 CSD
+06/2017-Central Tax (Rate),dt. 28-06-2017 View (142 KB) देखें (498 KB) Refund of 50% of CGST on supplies to CSD under section 55
+05/2017-Central Tax (Rate),dt. 28-06-2017 View (269 KB) देखें (685 KB) Supplies of goods in respect of which no refund of unutilised input tax credit shall be allowed under section 54 (3)
+04/2017-Central Tax (Rate),dt. 28-06-2017 View (263 KB) देखें (739 KB) Reverse charge on certain specified supplies of goods under section 9 (3)
+03/2017-Central Tax (Rate),dt. 28-06-2017 View (299 KB) देखें (859 KB) 2.5% concessional CGST rate for supplies to Exploration and Production notified under section 11 (1)
+02/2017-Central Tax (Rate),dt. 28-06-2017 View (375 KB)
+Corrigendum (100 KB)
+Corrigendum (249 KB) dated 27-07-2017 देखें (856 KB)
+Corrigendum (100 KB)
+Corrigendum (234 KB) dated 27-07-2017 CGST exempt goods notified under section 11 (1)
+01/2017-Central Tax (Rate),dt. 28-06-2017 View (1506 KB)
+Corrigendum, (252 KB) dated 30-06-2017
+Corrigendum, (100 KB) dated 12-07-2017
+Corrigendum, (257 KB) dated 27-07-2017 देखें (3398 KB)
+Corrigendum, (488 KB) dated 30-06-2017
+Corrigendum, (85 KB) dated 12-07-2017
+Corrigendum, (333 KB) dated 27-07-2017 CGST Rate Schedule notified under section 9 (1)
+होम
+जीएसटी संबंधी जागरूकता
+साइटमैप
+सहायता
+हमसे संपर्क करें
+संबंधित लिंक
+© 2020 भारत सरकार. सर्वाधिकार सुरक्षित. नियम व शर्ते | गोपनीयता नीति | अस्वीकरण
+हमें फॉलो करें
+Last Updated: 05 जनवरी 2023
+Disclaimer:Information is being made available at this site purely as a measure of public facilitation. While every effort has been made to ensure that the information hosted in this website is accurate and up-to-date, Central Board of Indirect Taxes and Customs does not hold itself liable for any consequences, legal or otherwise, arising out of use or abuse of any such information.
+Go to Top
+LINK: English -> https://cbic-gst.gov.in/index.html
+LINK: -> https://cbic-gst.gov.in/hindi/sitemap.html
+LINK: साइटमैप -> https://cbic-gst.gov.in/hindi/sitemap.html
+LINK: -> https://cbic-gst.gov.in/hindi/help.html
+LINK: सहायता -> https://cbic-gst.gov.in/hindi/help.html
+LINK: -> https://cbic-gst.gov.in/hindi/central-tax-rate.html#
+LINK: -> https://cbic-gst.gov.in/hindi/central-tax-rate.html#
+LINK: -> https://cbic-gst.gov.in/hindi/central-tax-rate.html#
+LINK: -> https://cbic-gst.gov.in/hindi/central-tax-rate.html#
+LINK: -> https://cbic-gst.gov.in/hindi/central-tax-rate.html#
+LINK: -> https://cbic-gst.gov.in/hindi/index.html
+LINK: -> https://cbic-gst.gov.in/hindi/index.html
+LINK: जीएसटी संबंधी जागरूकता -> https://gstawareness.cbic.gov.in/
+LINK: जीएसटी के बारे में -> https://cbic-gst.gov.in/hindi/central-tax-rate.html#
+LINK: जीएसटी - अवधारणा व स्थिति (01.06.2019) -> https://cbic-gst.gov.in/pdf/01062019-GST-Concept-Status.pdf
+LINK: सविस्तार मार्गदर्शिका (01.06.2019) -> https://cbic-gst.gov.in/pdf/01062019-GST-An-Update.pdf
+LINK: संक्षिप्त मार्गदर्शिका -> https://cbic-gst.gov.in/hindi/pdf/ovw-short.pdf
+LINK: मीडिया संवाद हेतु जीएसटी की मार्गदर्शिका -> https://cbic-gst.gov.in/hindi/pdf/media-interaction-ppt.pdf
+LINK: नागरिक -> https://cbic-gst.gov.in/hindi/pdf/citizens.pdf
+LINK: व्यापार/उद्योग -> https://cbic-gst.gov.in/hindi/pdf/trade.pdf
+LINK: केंद्रीय/राज्य सरकार -> https://cbic-gst.gov.in/hindi/pdf/central.pdf
+LINK: जीएसटी संबंधी अक्सर पूछे जाने वाले प्रश्न (अंग्रेज़ी) -> https://cbic-gst.gov.in/hindi/pdf/new-faq-on-gst-second-edition.pdf
+LINK: जीएसटी संबंधी अक्सर पूछे जाने वाले प्रश्न (हिन्दी) -> https://cbic-gst.gov.in/hindi/pdf/faq-gst-hindi1.pdf
+LINK: नए जीएसटी रजिस्ट्रेशन पर अक्सर पूछे जाने वाले प्रश्न और यूजर मैन्युअल -> https://cbic-gst.gov.in/hindi/faqs-user-manual-new-gst-registration.html
+LINK: ट्विटर पर पूछे गए प्रश्नों के उत्तर -> https://cbic-gst.gov.in/hindi/pdf/faq-manual/faqs-cbec-twitter-handle.pdf
+LINK: कंपोजिशन लेवी संबंधी अक्सर पूछे जाने वाले प्रश्न -> https://cbic-gst.gov.in/hindi/pdf/faq-manual/faq-composition-levy-revised.pdf
+LINK: आईजीएसटी छूट, रियायत सूची (03.06.2017) -> https://cbic-gst.gov.in/hindi/pdf/igst-exemption-concession-list-03.06.2017.pdf
+LINK: कंपोजिशन स्कीम की संशोधित सीमारेखा (11.06.2017) -> https://cbic-gst.gov.in/hindi/pdf/revised_threshold_for_composition_scheme_11.06.2017.pdf
+LINK: विपरीत प्रभार के तहत सेवाओं की सूची -> https://cbic-gst.gov.in/hindi/pdf/List%20of%20Services%20under%20reverse%20charge.pdf
+LINK: जीएसटी के तहत सेवाओं के लिए वर्गीकृत योजना -> https://cbic-gst.gov.in/hindi/pdf/Classification%20Scheme%20for%20Services%20under%20GST.xlsx
+LINK: 16वीं बैठक में जीएसटी समिति द्वारा लिया गया निर्णय -> https://cbic-gst.gov.in/hindi/pdf/decisions_taken_gst_16th_meeting_11.06.2017.pdf
+LINK: जीएसटी अधिनियम -> javascript:void(0);
+LINK: सेवाएं -> https://cbic-gst.gov.in/hindi/central-tax-rate.html#
+LINK: जीएसटी दरें -> https://cbic-gst.gov.in/hindi/gst-goods-services-rates.html
+LINK: जीएसटी दरों से संबंधित अक्सर पूछे जाने वाले प्रश्न -> https://cbic-gst.gov.in/hindi/gst-rates-faq.html
+LINK: उद्योग क्षेत्र संबंधी अक्सर पूछे जाने वाले प्रश्न -> https://cbic-gst.gov.in/hindi/sectoral-faq.html
+LINK: अक्सर पूछे जाने वाले प्रश्न -> https://cbic-gst.gov.in/hindi/faq.html
+LINK: अपने क्षेत्राधिकार के बारे में जानें -> https://cbic-gst.gov.in/cbec-portal-ui/?knowYourJuris
+LINK: मीडिया -> https://cbic-gst.gov.in/hindi/central-tax-rate.html#
+LINK: जीएसटी पोर्टल पर विवरणी भरने से संबंधित लघु फिल्म -> https://www.youtube.com/watch?v=0dKdgpOOmRM
+LINK: ऑफलाइन उपयोगिता उपकरण के जरिए विवरणी भरने संबंधी तैयारी पर लघु फिल्म -> https://www.youtube.com/watch?v=S90kE81uThk
+LINK: जीएसटी पर सीबीईसी के अध्यक्ष का साक्षात्कार -> https://www.youtube.com/watch?v=S90kE81uThk
+LINK: जीएसटी पर सीबीईसी के अध्यक्ष का साक्षात्कार -> https://www.youtube.com/watch?v=S90kE81uThk
+LINK: जीएसटी इंडिया यूट्यूब चैनल -> https://www.youtube.com/channel/UC4Pwb1Utd_Pu3tEp09gMZlQ
+LINK: वर्तमान प्रेस विज्ञप्ति -> https://cbic-gst.gov.in/hindi/press-release.html
+LINK: जीएसटी माइग्रेशन/रजिस्ट्रेशन संबंधित अक्सर पूछे जाने प्रश्न -> https://cbic-gst.gov.in/hindi/advt-faq-relating-gst-migration-registration.html
+LINK: व्यापारियों से संबंधित अक्सर पूछे जाने वाले प्रश्न -> https://cbic-gst.gov.in/hindi/advt-faq-for-traders.html
+LINK: कंपोजिशन लेवी पर अक्सर पूछे जाने वाले प्रश्न (हिन्दी) -> https://cbic-gst.gov.in/hindi/advt-faq-on-composition-levy.html
+LINK: अक्सर पूछे जाने वाले प्रश्न (हिन्दी) -> https://cbic-gst.gov.in/hindi/advt-faq.html
+LINK: इनपुट टैक्स प्रत्यय (अंग्रेज़ी) -> https://cbic-gst.gov.in/hindi/advt-input-tax-credit-english.html
+LINK: इनपुट टैक्स प्रत्यय (हिन्दी) -> https://cbic-gst.gov.in/hindi/advt-input-tax-credit.html
+LINK: निर्यात (अंग्रेज़ी) -> https://cbic-gst.gov.in/hindi/export-ad-english.html
+LINK: निर्यात (हिन्दी) -> https://cbic-gst.gov.in/hindi/export-ad-hindi.html
+LINK: रेस्टोरेंट (अंग्रेज़ी) -> https://cbic-gst.gov.in/hindi/restaurant-ad-english.html
+LINK: रेस्टोरेंट (हिन्दी) -> https://cbic-gst.gov.in/hindi/restaurant-ad-hindi.html
+LINK: डीजीजीएसटी -> https://cbic-gst.gov.in/hindi/central-tax-rate.html#
+LINK: माल और सेवा कर महानिदेशालय के बारे में -> https://cbic-gst.gov.in/hindi/about-dggst.html
+LINK: संगठन -> https://cbic-gst.gov.in/hindi/dggst-organization.html
+LINK: डीजीजीएसटी के कार्य -> https://cbic-gst.gov.in/hindi/functions-dggst.html
+LINK: संगठनात्मक रेखाचित्र -> https://cbic-gst.gov.in/hindi/organizationchart.html
+LINK: लॉग-इन करें -> https://cbic-gst.gov.in/cbec-portal-ui/?sabs
+LINK: 21/2022-केन्द्रीय कर- माह सितम्बर 2022 की प्ररूप जीएसटीआर-3ख में विवरणी प्रस्तुत करने की नितय तारीख का विस्तार करने के लिए। -> https://cbic-gst.gov.in/pdf/central-tax/NN-21-2022-Hindi.pdf
+LINK: शुद्धिपत्र – अधिसूचना 20/2022- केन्द्रीय कर दिनांक 28.09.2022 का शुद्धिपत्र । -> https://cbic-gst.gov.in/pdf/central-tax/corrigendum-20-2022-hindi.pdf
+LINK: 20/2022- केन्द्रीय कर - अधिसूचना 20/2018- केन्द्रीय कर दिनांक 28.03.2018 को विखण्डित करने के लिए । -> https://cbic-gst.gov.in/pdf/central-tax/NN-20-2022-hindi.pdf
+LINK: 19/2022- केन्द्रीय कर – सीजीएसटी नियम, 2017 में संशोधन (दूसरा संशोधन, 2022) करने के लिए । -> https://cbic-gst.gov.in/pdf/central-tax/NN-19-2022-hindi.pdf
+LINK: दिसंबर, 2017 का प्ररुप जीएसटीआर-3B भरने की आखिरी तारीख 22 जनवरी, 2018 तक के लिए बढ़ा दी गई है -> https://cbic-gst.gov.in/hindi/central-tax-notifications.html
+LINK: जीएसटी अवधारणा व स्थिति -> https://cbic-gst.gov.in/pdf/01012018-GST-Concept-and-Status.pdf
+LINK: जीएसटी पर प्रस्तुति -> https://cbic-gst.gov.in/pdf/01012018-Updated%20PPT-on-GST.pdf
+LINK: ट्रांजिशन प्रपत्र ऑफ़लाइन टूल जीएसटी TRAN 2 के लिए -TRAN 2 के लिए डेटा को भरने और अपलोड करने के लिए एक ऑफ़लाइन टूल अब जीएसटी पोर्टल पर करदाताओं के लिए उपलब्ध है। -> https://www.gst.gov.in/download/trans2
+LINK: अधिसूचना सं 72/2017 - केंद्रीय कर दिनांक 29 दिसंबर, के अनुसार (पंजीकृत व्यक्तियों के ऐसे वर्ग के लिए जिनका कुल कारोबार पूर्ववर्ती वित्तीय वर्ष में या मौजूदा वित्तीय वर्ष में 1.5 करोड़ रुपए से अधिक हो ) जुलाई 2017 से नवंबर 2017 माह तक के लिए जीएसटीआर -1 प्रपत्र दायर करने की तारीख बदलकर 10 जनवरी 2018 कर दी गई है । -> https://cbec-gst.gov.in/pdf/central-tax/72of2017_Hindi.pdf
+LINK: gst.gov.in -> https://www.gst.gov.in/
+LINK: Home / -> https://cbic-gst.gov.in/hindi/index.html
+LINK: View (76 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/15_2022-ctr-eng.pdf
+LINK: देखें (84 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/15_2022-ctr-hindi.pdf
+LINK: View (120 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/14_2022-ctr-eng.pdf
+LINK: देखें (339 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/14_2022-ctr-hindi.pdf
+LINK: View (120 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/13_2022-ctr-eng.pdf
+LINK: देखें (242 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/13_2022-ctr-hindi.pdf
+LINK: View (258 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/12_2022-ctr-eng.pdf
+LINK: देखें (413 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/12_2022-ctr-hindi.pdf
+LINK: View (4 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/11_2022-ctr-eng.pdf
+LINK: देखें (91 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/11_2022-ctr-hindi.pdf
+LINK: View (102 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/10_2022-ctr-eng.pdf
+LINK: देखें (91 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/10_2022-ctr-hindi.pdf
+LINK: View (109 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/09_2022-ctr-eng.pdf
+LINK: देखें (162 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/09_2022-ctr-hindi.pdf
+LINK: View (112 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/08_2022-ctr-eng.pdf
+LINK: देखें (94 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/08_2022-ctr-hindi.pdf
+LINK: View (124 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/07_2022-ctr-eng.pdf
+LINK: देखें (152 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/07_2022-ctr-hindi.pdf
+LINK: View (172 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/06_2022-ctr-eng.pdf
+LINK: देखें (591 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/06_2022-ctr-hindi.pdf
+LINK: View (76 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/05_2022-ctr-eng.pdf
+LINK: देखें (103 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/05_2022-ctr-hindi.pdf
+LINK: View (124 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/04_2022-ctr-eng.pdf
+LINK: देखें (118 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/04_2022-ctr-hindi.pdf
+LINK: View (167 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/03_2022-ctr-eng.pdf
+LINK: देखें (205 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/03_2022-ctr-hindi.pdf
+LINK: View (130 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/02-2022-CTR-Eg.pdf
+LINK: देखें (477 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/02-2022-CTR-Hin.pdf
+LINK: View (122 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/01-2022-CTR-Eng.pdf
+LINK: देखें (499 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/01-2022-CTR-Hin.pdf
+LINK: View (64 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/22-2021-CT-Eng.pdf
+LINK: देखें (155 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/22-2021-CT-Hin.pdf
+LINK: View (64 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/21-2021-CT-Eng.pdf
+LINK: देखें (155 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/21-2021-CT-Hin.pdf
+LINK: View (117 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-20-2021-cgst-rate.pdf
+LINK: देखें (300 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-20-2021-cgst-rate-hindi.pdf
+LINK: View (115 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-19-2021-cgst-rate.pdf
+LINK: देखें (325 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-19-2021-cgst-rate-hindi.pdf
+LINK: View (145 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-18-2021-cgst-rate.pdf
+LINK: देखें (374 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-18-2021-cgst-rate-hindi.pdf
+LINK: View (437 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/Notf-17-2021-english-CGST.pdf
+LINK: देखें (255 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/Notf-17-2021-hindi-CGST.pdf
+LINK: View (370 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/Notf-16-2021-english-CGST.pdf
+LINK: देखें (314 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/Notf-16-2021-hindi-CGST.pdf
+LINK: View (255 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/Notf-15-2021-english-CGST.pdf
+LINK: देखें (317 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/Notf%20-15-2021-hindi-CGST.pdf
+LINK: View (199 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-14-2021-cgst-rate.pdf
+LINK: देखें (522 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-14-2021-cgst-rate-hindi.pdf
+LINK: View (114 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-13-2021-cgst-rate.pdf
+LINK: देखें (371 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-13-2021-cgst-rate-hindi.pdf
+LINK: View (8 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-12-2021-cgst-rate.pdf
+LINK: देखें (34 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-12-2021-cgst-rate-hindi.pdf
+LINK: View (7 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-11-2021-cgst-rate.pdf
+LINK: देखें (33 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-11-2021-cgst-rate-hindi.pdf
+LINK: View (7 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-10-2021-cgst-rate.pdf
+LINK: देखें (51 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-10-2021-cgst-rate-hindi.pdf
+LINK: View (7 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-09-2021-cgst-rate.pdf
+LINK: देखें (51 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-09-2021-cgst-rate-hindi.pdf
+LINK: View (28 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-08-2021-cgst-rate.pdf
+LINK: देखें (176 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-08-2021-cgst-rate-hindi.pdf
+LINK: View (275 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-07-2021-2020-cgst-rate.pdf
+LINK: देखें (399 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-07-2021-2020-cgst-rate-hindi.pdf
+LINK: View (245 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-06-2021-2020-cgst-rate.pdf
+LINK: देखें (365 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-06-2021-2020-cgst-rate-hindi.pdf
+LINK: View (196 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-05-2021-2020-cgst-rate.pdf
+LINK: Corrigendum -> https://cbic-gst.gov.in/pdf/central-tax-rate/corri-05-2021-2020-cgst-rate.pdf
+LINK: देखें (252 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-05-2021-2020-cgst-rate-hindi.pdf
+LINK: Corrigendum -> https://cbic-gst.gov.in/pdf/central-tax-rate/corri-05-2021-2020-cgst-rate-hindi.pdf
+LINK: View (265 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-04-2021-2020-cgst-rate.pdf
+LINK: देखें (375 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-04-2021-2020-cgst-rate-hindi.pdf
+LINK: View (158 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-03-2021-2020-cgst-rate.pdf
+LINK: देखें (267 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-03-2021-2020-cgst-rate-hindi.pdf
+LINK: View (179 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-02-2021-2020-cgst-rate.pdf
+LINK: देखें (298 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-02-2021-2020-cgst-rate-hindi.pdf
+LINK: View (147 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-01-2021-2020-cgst-rate.pdf
+LINK: देखें (255 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-01-2021-2020-cgst-rate-hindi.pdf
+LINK: View (399 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-05-2020-cgst-rate-english.pdf
+LINK: देखें (384 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-05-2020-cgst-rate-hindi.pdf
+LINK: View (399 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-04-2020-cgst-rate-english.pdf
+LINK: देखें (384 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-04-2020-cgst-rate-hindi.pdf
+LINK: View (116 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-03-2020-cgst-rate-english.pdf
+LINK: देखें (530 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-03-2020-cgst-rate-hindi.pdf
+LINK: View (117 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-02-2020-cgst-rate-english.pdf
+LINK: देखें (518 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-02-2020-cgst-rate-hindi.pdf
+LINK: View (289 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-01-2020-cgst-rate-english.pdf
+LINK: देखें (533 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-01-2020-cgst-rate-hindi.pdf
+LINK: View (118 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-29-2019-cgst-rate-english.pdf
+LINK: देखें (483 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-29-2019-cgst-rate-hindi.pdf
+LINK: View (259 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-28-2019-cgst-rate-english.pdf
+LINK: देखें (175 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-28-2019-cgst-rate-hindi.pdf
+LINK: View (119 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-27-2019-cgst-rate-english.pdf
+LINK: देखें (175 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-27-2019-cgst-rate-hindi.pdf
+LINK: View (92 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-26-2019-cgst-rate-english.pdf
+LINK: देखें (412 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-26-2019-cgst-rate-hindi.pdf
+LINK: View (250 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-25-2019-cgst-rate-english.pdf
+LINK: देखें (102 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-25-2019-cgst-rate-hindi.pdf
+LINK: View (251 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-24-2019-cgst-rate-english.pdf
+LINK: देखें (103 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-24-2019-cgst-rate-hindi.pdf
+LINK: View (252 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-23-2019-cgst-rate-english.pdf
+LINK: देखें (104 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-23-2019-cgst-rate-hindi.pdf
+LINK: View (137 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-22-2019-cgst-rate-english.pdf
+LINK: देखें (513 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-22-2019-cgst-rate-hindi.pdf
+LINK: View (271 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-21-2019-cgst-rate-english.pdf
+LINK: देखें (297 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-21-2019-cgst-rate-hindi.pdf
+LINK: View (281 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-20-2019-cgst-rate-english.pdf
+LINK: देखें (510 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-20-2019-cgst-rate-hindi.pdf
+LINK: View (8 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-19-2019-cgst-rate-english.pdf
+LINK: देखें (433 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-19-2019-cgst-rate-hindi.pdf
+LINK: View (155 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-18-2019-cgst-rate-english.pdf
+LINK: देखें (244 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-18-2019-cgst-rate-hindi.pdf
+LINK: View (156 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-17-2019-cgst-rate-english.pdf
+LINK: देखें (245 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-17-2019-cgst-rate-hindi.pdf
+LINK: View (156 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-16-2019-cgst-rate-english.pdf
+LINK: देखें (250 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-16-2019-cgst-rate-hindi.pdf
+LINK: View (81 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-15-2019-cgst-rate-english.pdf
+LINK: देखें (248 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-15-2019-cgst-rate-hindi.pdf
+LINK: View (201 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-14-2019-cgst-rate-english.pdf
+LINK: देखें (385 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-14-2019-cgst-rate-hindi.pdf
+LINK: View (72 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-13-2019-cgst-rate-englishn.pdf
+LINK: देखें (125 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-13-2019-cgst-rate-hindi.pdf
+LINK: View (95 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-12-2019-cgst-rate-englishn.pdf
+LINK: देखें (135 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-12-2019-cgst-rate-hindi.pdf
+LINK: View (85 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-11-2019-cgst-rate-englishn.pdf
+LINK: देखें (95 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-11-2019-cgst-rate-hindin.pdf
+LINK: View (254 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-10-2019-cgst-rate-english.pdf
+LINK: देखें (248 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-10-2019-cgst-rate-hindi.pdf
+LINK: View (198 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-9-2019-cgst-rate-english.pdf
+LINK: देखें (514 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-9-2019-cgst-rate-hindi.pdf
+LINK: View (202 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-8-2019-cgst-rate-english.pdf
+LINK: देखें (690 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-8-2019-cgst-rate-hindi.pdf
+LINK: View (205 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-7-2019-cgst-rate-english.pdf
+LINK: देखें (768 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-7-2019-cgst-rate-hindi.pdf
+LINK: View (203 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-6-2019-cgst-rate-english.pdf
+LINK: देखें (612 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-6-2019-cgst-rate-hindi.pdf
+LINK: View (203 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-5-2019-cgst-rate-english.pdf
+LINK: देखें (701 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-5-2019-cgst-rate-hindi.pdf
+LINK: View (227 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-4-2019-cgst-rate-english.pdf
+LINK: देखें (547 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-4-2019-cgst-rate-hindi.pdf
+LINK: View (536 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-3-2019-cgst-rate-english.pdf
+LINK: Corrigendum (112 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-03-2019-cgst-rate-corr.pdf
+LINK: देखें (1564 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-3-2019-cgst-rate-hindi.pdf
+LINK: Corrigendum (485 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-03-2019-cgst-rate-hindi-corr.pdf
+LINK: View (171 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-2-2019-cgst-rate-english.pdf
+LINK: देखें (568 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-2-2019-cgst-rate-hindi.pdf
+LINK: View (361 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-1-2019-cgst-rate-english.pdf
+LINK: देखें (529 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-1-2019-cgst-rate-hindi.pdf
+LINK: View (284 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/30-2018-%20CT_(Rate)_multimodal_scope_under_section.pdf
+LINK: देखें (594 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/Hindi_30-2018-CT_(Rate)_multimodal_scope_under_section.pdf
+LINK: View (293 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/29-2018-CT_(Rate)_Amendment_Notification_13-2017.pdf
+LINK: देखें (577 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/Hindi_29-2018-CT_(Rate)_Amendment_Notification_13-2017.pdf
+LINK: View (294 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/28-2018-CT_(Rate)_Amendment_Notification_12-2017.pdf
+LINK: देखें (1055 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/Hindi_28-2018-CT_(Rate)_Amendment_Notification_12-2017.pdf
+LINK: View (303 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/27-2018-CT_(Rate)_Amendment_Notification_11-17.pdf
+LINK: देखें (702 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/Hindi_27-2018-CT_(Rate)_Amendment_Notification_11-2017.pdf
+LINK: View (361 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-26-2018-cgst-rate-english.pdf
+LINK: देखें (529 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-26-2018-cgst-rate-hindi.pdf
+LINK: View (112 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-25-2018-cgst-rate-english.pdf
+LINK: देखें (443 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-25-2018-cgst-rate-hindi.pdf
+LINK: View (282 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-24-2018-cgst-rate-english1.pdf
+LINK: देखें (615 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-24-2018-cgst-rate-hindi1.pdf
+LINK: View (361 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-23-2018-cgst-rate-english.pdf
+LINK: देखें (529 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-23-2018-cgst-rate-hindi.pdf
+LINK: View (340 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-22-2018-cgst-rate-english.pdf
+LINK: देखें (587 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-22-2018-cgst-rate-hindi.pdf
+LINK: View (147 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-21-2018-cgst-rate-english.pdf
+LINK: देखें (216 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-21-2018-cgst-rate-hindi.pdf
+LINK: View (191 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-20-2018-cgst-rate-english.pdf
+LINK: देखें (110 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-20-2018-cgst-rate-hindi.pdf
+LINK: View (122 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-19-2018-cgst-rate-english.pdf
+LINK: देखें (289 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-19-2018-cgst-rate-hindi.pdf
+LINK: View (259 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-18-2018-cgst-rate-english.pdf
+LINK: देखें (206 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-18-2018-cgst-rate-hindi.pdf
+LINK: View (147 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-17-2018-cgst-rate-english.pdf
+LINK: देखें (216 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-17-2018-cgst-rate-hindi.pdf
+LINK: View (191 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-16-2018-cgst-rate-english.pdf
+LINK: देखें (110 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-16-2018-cgst-rate-hindi.pdf
+LINK: View (122 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-15-2018-cgst-rate-english.pdf
+LINK: देखें (289 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-15-2018-cgst-rate-hindi.pdf
+LINK: View (259 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-14-2018-cgst-rate-english.pdf
+LINK: देखें (206 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-14-2018-cgst-rate-hindi.pdf
+LINK: View (259 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-13-2018-cgst-rate-english.pdf
+LINK: देखें (206 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-13-2018-cgst-rate-hindi.pdf
+LINK: View (340 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-12-2018-cgst-rate-english.pdf
+LINK: देखें (588 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-12-2018-cgst-rate-hindi.pdf
+LINK: View (340 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-12-2018-cgst-rate-english.pdf
+LINK: देखें (588 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-12-2018-cgst-rate-hindi.pdf
+LINK: View (17 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-11-2018-cgst-rate-english.pdf
+LINK: देखें (510 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-11-2018-cgst-rate-hindi.pdf
+LINK: View (203 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-10-2018-cgst-rate-english.pdf
+LINK: देखें (510 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-10-2018-cgst-rate-hindi.pdf
+LINK: View (120 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-09-2018-cgst-rate-english.pdf
+LINK: देखें (255 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-09-2018-cgst-rate-hindi.pdf
+LINK: View (84 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-08-2018-cgst-rate-english.pdf
+LINK: देखें (566 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-08-2018-cgst-rate-hindi.pdf
+LINK: View (261 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-07-2018-cgst-rate-english.pdf
+LINK: देखें (281 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-07-2018-cgst-rate-hindi.pdf
+LINK: View (163 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-06-2018-cgst-rate-english.pdf
+LINK: देखें (748 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-06-2018-cgst-rate-hindi.pdf
+LINK: View (110 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-05-2018-cgst-rate-english.pdf
+LINK: देखें (221 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-05-2018-cgst-rate-hindi.pdf
+LINK: View (143 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-04-2018-cgst-rate-english.pdf
+LINK: देखें (284 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-04-2018-cgst-rate-hindi.pdf
+LINK: View (253 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-03-2018-cgst-rate-english.pdf
+LINK: देखें (300 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-03-2018-cgst-rate-hindi.pdf
+LINK: View (218 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-02-2018-cgst-rate-english.pdf
+LINK: देखें (339 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-02-2018-cgst-rate-hindi.pdf
+LINK: View (296 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-01-2018-cgst-rate-english.pdf
+LINK: देखें (368 KB) -> https://cbic-gst.gov.in/pdf/central-tax-rate/notfctn-01-2018-cgst-rate-hindi.pdf
+LINK: View (36 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-47-cgst-rate-english.pdf
+LINK: देखें (221 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-47-cgst-rate-hindi.pdf
+LINK: View (36 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-46-cgst-rate-english-i.pdf
+LINK: देखें (221 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-46-cgst-rate-hind-i.pdf
+LINK: View (36 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-45-cgst-rate-english.pdf
+LINK: देखें (221 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-45-cgst-rate-hindi.pdf
+LINK: View (36 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-44-cgst-rate-english.pdf
+LINK: देखें (221 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-44-cgst-rate-hindi.pdf
+LINK: View (36 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-43-cgst-rate-english.pdf
+LINK: देखें (221 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-43-cgst-rate-hindi.pdf
+LINK: View (36 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-42-cgst-rate-english.pdf
+LINK: देखें (221 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-42-cgst-rate-hindi.pdf
+LINK: View (36 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-41-cgst-rate-english.pdf
+LINK: देखें (221 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-41-cgst-rate-hindi.pdf
+LINK: View (36 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-40-cgst-rate-english.pdf
+LINK: देखें (221 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-40-cgst-rate-hindi.pdf
+LINK: View (321 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-39-CGST-rate-english.pdf
+LINK: देखें (162 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-39-CGST-rate-hindi.pdf
+LINK: View (118 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-38-cgst-rate-english.pdf
+LINK: देखें (50 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-38-cgst-rate-hindi.pdf
+LINK: View (188 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-37-CGST-rate-english.pdf
+LINK: देखें (396 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-37-CGST-rate-hindi.pdf
+LINK: View (11 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-36-CGST-rate-english.pdf
+LINK: देखें (105 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-36-CGST-rate-hindi.pdf
+LINK: View (258 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-35-CGST-rate-english.pdf
+LINK: देखें (119 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-35-CGST-rate-hindi.pdf
+LINK: View (153 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-34-CGST-rate-english.pdf
+LINK: देखें (407 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-34-CGST-rate-hindi.pdf
+LINK: View (307 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-33-CGST-rate-english.pdf
+LINK: देखें (320 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-33-CGST-rate-hindi.pdf
+LINK: View (307 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-32-CGST-rate-english.pdf
+LINK: View (307 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-31-CGST-rate-english.pdf
+LINK: देखें (320 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-31-CGST-rate-hindi.pdf
+LINK: View (118 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/notfctn-30-CGST-rate-english.pdf
+LINK: देखें (50 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/30-CGST-Rate-Hindi.pdf
+LINK: View (154 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification29-CGST.pdf
+LINK: देखें (221 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification29-CGST-hindi.pdf
+LINK: View (185 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification28-CGST.pdf
+LINK: देखें (298 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification28-CGST-hindi.pdf
+LINK: View (212 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification27-CGST.pdf
+LINK: देखें (185 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification27-CGST-hindi.pdf
+LINK: View (261 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification26-CGST.pdf
+LINK: देखें (497 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification26-CGST-hindi.pdf
+LINK: View (261 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification25-CGST.pdf
+LINK: View (261 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification24-CGST.pdf
+LINK: देखें (497 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification24-CGST-hindi.pdf
+LINK: View (117 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification23-CGST.pdf
+LINK: देखें (161 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification23-CGST-hindi.pdf
+LINK: View (253 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification22-CGST.pdf
+LINK: देखें (236 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification22-CGST-hindi.pdf
+LINK: View (267 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification21-CGST.pdf
+LINK: देखें (255 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification21-CGST-hindi.pdf
+LINK: View (300 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification20-CGST.pdf
+LINK: देखें (311 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification20-CGST-hindi.pdf
+LINK: View (261 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification19-CGST.pdf
+LINK: देखें (124 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification19-CGST-hindi.pdf
+LINK: View (136 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification18-CGST.pdf
+LINK: देखें (37 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification18-CGST-Hindi.pdf
+LINK: View (136 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification17-CGST.pdf
+LINK: देखें (585 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification17-CGST-Hindi.pdf
+LINK: View (344 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notifications16-CGST.pdf
+LINK: देखें (385 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification16-CGST-Hindi.pdf
+LINK: View (142 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification15-CGST.pdf
+LINK: देखें (431 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification15-CGST-Hindi.pdf
+LINK: View (248 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification14-CGST.pdf
+LINK: देखें (318 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification14-CGST-Hindi.pdf
+LINK: View (274 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification13-CGST.pdf
+LINK: Corrigendum (116 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/13Reverse_Charge_CGST_Corrigendum.pdf
+LINK: देखें (722 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification13-CGST-Hindi.pdf
+LINK: Corrigendum (442 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/corgndm_13ctr_hindi.pdf
+LINK: View (440 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification12-CGST.pdf
+LINK: देखें (990 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification12-CGST-Hindi.pdf
+LINK: View (399 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification11-CGST.pdf
+LINK: Annexure (252KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification11-CGST-Annexure.pdf
+LINK: देखें (1.11 MB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification11-CGST-Hindi.pdf
+LINK: Annexure (252KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification11-CGST-HIndi-Annexure.pdf
+LINK: View (143 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Margin-Scheme-Notification-CGST.pdf
+LINK: देखें (503 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Margin-Scheme-Notification-CGST-Hindi.pdf
+LINK: View (143 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Exemption-from-TDS-CGST.pdf
+LINK: देखें (500 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Exemption-to-TDS-registrant-CGST-Hindi.pdf
+LINK: View (143 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Exemption-from-reverse-charge-upto-Rs5000-per-day-CGST.pdf
+LINK: देखें (500 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Exemption-from-reverse-charge-upto-Rs5000-per-day-CGST-Hindi.pdf
+LINK: View (254 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification-for-refund-to-CSD-CGST.pdf
+LINK: देखें (512 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification-for-refund-to-CSD-CGST-Hindi.pdf
+LINK: View (142 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification-for-under-section-55-for-CSD.pdf
+LINK: देखें (498 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/CGST-CSD-Section-55-Hindi.pdf
+LINK: View (269 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification-for-restriction-of-ITC-CGST.pdf
+LINK: देखें (685 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification-for-restriction-of-ITC-CGST-Hindi.pdf
+LINK: View (263 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification-for-reverse-charge-CGST.pdf
+LINK: देखें (739 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Reverse-charge-CGST-Hindi.pdf
+LINK: View (299 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/25-Schedule-for-conditional-CGST-exemption.pdf
+LINK: देखें (859 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/25-concession-CGST-Hindi.pdf
+LINK: View (375 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification-for-CGST-exemption.pdf
+LINK: Corrigendum (100 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/corrigendum-02-cgst.pdf
+LINK: Corrigendum (249 KB) dated 27-07-2017 -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/corrigendum-2-CGST-2017-English.pdf
+LINK: देखें (856 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/CGST-Exemption-Hindi.pdf
+LINK: Corrigendum (100 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/corrigendum-02-cgst-hindi.pdf
+LINK: Corrigendum (234 KB) dated 27-07-2017 -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/corrigendum-2-CGST-2017-hindi.pdf
+LINK: View (1506 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/Notification-for-CGST-rate-Schedule.pdf
+LINK: Corrigendum, (252 KB) dated 30-06-2017 -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/corrigndm-ntfctn-1-cgst-rate.pdf
+LINK: Corrigendum, (100 KB) dated 12-07-2017 -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/corrigendum-01-cgst.pdf
+LINK: Corrigendum, (257 KB) dated 27-07-2017 -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/corrigendum-1-CGST-2017-English.pdf
+LINK: देखें (3398 KB) -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/CGST-rate-Schedule-Hindi.pdf
+LINK: Corrigendum, (488 KB) dated 30-06-2017 -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/ccorrigndm-ntfctn-1-cgst-rate-hindi.pdf
+LINK: Corrigendum, (85 KB) dated 12-07-2017 -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/corrigendum-01-cgst-hindi.pdf
+LINK: Corrigendum, (333 KB) dated 27-07-2017 -> https://cbic-gst.gov.in/hindi/pdf/central-tax-rate/corrigendum-1-CGST-2017-hindi.pdf
+LINK: होम -> https://cbic-gst.gov.in/hindi/index.html
+LINK: जीएसटी संबंधी जागरूकता -> https://gstawareness.cbic.gov.in/
+LINK: साइटमैप -> https://cbic-gst.gov.in/hindi/sitemap.html
+LINK: सहायता -> https://cbic-gst.gov.in/hindi/help.html
+LINK: हमसे संपर्क करें -> https://cbic-gst.gov.in/hindi/contactus.html
+LINK: संबंधित लिंक -> https://cbic-gst.gov.in/hindi/related-links.html
+LINK: होम -> https://cbic-gst.gov.in/hindi/index.html
+LINK: जीएसटी संबंधी जागरूकता -> https://gstawareness.cbic.gov.in/
+LINK: साइटमैप -> https://cbic-gst.gov.in/hindi/sitemap.html
+LINK: सहायता -> https://cbic-gst.gov.in/hindi/help.html
+LINK: हमसे संपर्क करें -> https://cbic-gst.gov.in/hindi/contactus.html
+LINK: संबंधित लिंक -> https://cbic-gst.gov.in/hindi/related-links.html
+LINK: फीडबैक -> https://cbic-gst.gov.in/hindi/feedback.html
+LINK: नियम व शर्ते -> https://cbic-gst.gov.in/hindi/terms.html
+LINK: गोपनीयता नीति -> https://cbic-gst.gov.in/hindi/privacy.html
+LINK: अस्वीकरण -> https://cbic-gst.gov.in/hindi/disclaimer.html
+LINK: -> javascript:void(0);
+LINK: -> javascript:void(0);
+LINK: -> javascript:void(0);
+LINK: -> javascript:void(0);
+LINK: -> https://cbic-gst.gov.in/hindi/central-tax-rate.html#
