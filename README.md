@@ -23,7 +23,7 @@ Environment: `MONITOR_DB` (default `monitor.db`), `MONITOR_SNAPSHOTS` (default `
 ## Test it
 
 ```bash
-python -m pytest tests -q    # 26 end-to-end tests: scraping, handoffs, login, CSRF, URL safety
+python -m pytest tests -q    # 33 end-to-end tests: scraping, handoffs, login, CSRF, URL safety, daily batch
 ```
 
 ## How it works
@@ -64,3 +64,26 @@ python -m pytest tests -q    # 26 end-to-end tests: scraping, handoffs, login, C
 | `MONITOR_DB`, `MONITOR_SNAPSHOTS` | Storage paths (the Dockerfile uses `/data`). |
 
 Pages: `/` results, `/sources`, `/review`, `/handoffs`, `/api/results` (JSON), `/healthz` (public), `/demo/*` (public).
+
+## Daily scrape on GitHub Actions (the main way to run it)
+
+```
+sources.toml ──▶ GitHub Actions, 10:00 AM IST daily ──▶ commits data/ + site/data/ ──▶ site/index.html
+ (what to watch)   (python -m monitor.batch)              (results.json, screenshots)     (static dashboard)
+```
+
+- **Add or change sources:** edit `sources.toml` and push. The workflow re-runs immediately.
+- **Schedule:** `.github/workflows/scrape.yml`, cron `30 4 * * *` (UTC) = 10:00 AM IST. GitHub may start it a few
+  minutes late. Use *Actions → Daily scrape → Run workflow* to run it on demand.
+- **State between runs** lives in git: `data/monitor.db` (so today's page is diffed against yesterday's) and
+  `site/data/` (what the dashboard reads). Only the newest 2 snapshots per source are kept.
+- **Dashboard:** `site/index.html` is a static page. It reads `results.json` from this repo on GitHub, so it is
+  always current without redeploying. Open it with `?data=local` to read its own `./data/` copy instead.
+- **Failures are visible:** a source that is blocked, CAPTCHA-gated or erroring shows that status and reason on
+  the dashboard and as a warning on the Actions run. Nothing is hidden or retried around a challenge.
+- Many Indian government sites are slow, JavaScript-heavy, or block overseas servers (GitHub runners are in the
+  US). Expect to tune `selector` per source after seeing real output.
+- GitHub pauses scheduled workflows in a repo with no activity for 60 days; the daily results commit counts as activity.
+
+The Docker/Flask app (`wsgi.py`, `Dockerfile`) is the interactive version: it adds a login, a review queue you can
+approve, and a manual "Check now". It keeps its own separate SQLite data.

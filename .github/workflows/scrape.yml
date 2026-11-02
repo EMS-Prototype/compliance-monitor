@@ -1,0 +1,67 @@
+name: Daily scrape
+
+on:
+  schedule:
+    - cron: "30 4 * * *"          # 04:30 UTC = 10:00 AM IST (GitHub cron is UTC; runs can start a few minutes late)
+  workflow_dispatch:               # "Run workflow" button in the Actions tab
+  push:
+    paths:                         # re-run right away when the source list or this workflow changes
+      - "sources.toml"
+      - ".github/workflows/scrape.yml"
+
+permissions:
+  contents: write                  # needed to commit the results back to the repo
+
+concurrency:
+  group: scrape                    # never two runs at once: they write the same files
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: requirements-scrape.txt
+
+      - name: Install Playwright and Chromium
+        run: |
+          pip install -r requirements-scrape.txt
+          playwright install --with-deps chromium
+
+      - name: Scrape every source in sources.toml
+        run: python -m monitor.batch
+
+      - name: Job summary
+        if: always()
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json, os
+          try:
+              d = json.load(open("site/data/results.json"))
+          except FileNotFoundError:
+              print("No results file was produced."); raise SystemExit
+          s = d["summary"]
+          print(f"**{s['sources']} sources:** {s['ok']} ok, {s['blocked']} need a human, {s['error']} errors, {s['pending_changes']} changes to review\n")
+          print("| Source | Status | Detail |\n|---|---|---|")
+          for x in d["sources"]:
+              print(f"| {x['name']} | {x['status']} | {(x['last_error'] or '').replace('|', '/')[:120]} |")
+          PY
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data site/data
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Daily scrape $(date -u +%F)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"   # in case someone pushed while this ran
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi

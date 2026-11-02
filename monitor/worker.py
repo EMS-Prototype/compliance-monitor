@@ -73,11 +73,16 @@ def is_due(source, at=None):
 class Checker:
     """Owns one Playwright browser. Use as a context manager."""
 
-    def __init__(self, conn, snap_dir, headless=True):
+    def __init__(self, conn, snap_dir, headless=True, shot_ext="png"):
         self.conn = conn
         self.snap_dir = Path(snap_dir)
         self.snap_dir.mkdir(parents=True, exist_ok=True)
         self.headless = headless
+        # "png" = full-page screenshots (admin app). "jpg" = small top-of-page JPEGs (daily batch,
+        # keeps the git repo light because screenshots are committed).
+        self.shot_ext = shot_ext
+        self.shot_kwargs = ({"type": "jpeg", "quality": 60, "full_page": False}
+                            if shot_ext == "jpg" else {"full_page": True})
 
     def __enter__(self):
         self._pw = sync_playwright().start()
@@ -118,8 +123,8 @@ class Checker:
         ts = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S%f")
         text_path = self.snap_dir / f"s{sid}_{ts}.txt"
         text_path.write_text("\n".join(lines), encoding="utf-8")
-        shot = self.snap_dir / f"s{sid}_{ts}.png"
-        page.screenshot(path=str(shot), full_page=True)
+        shot = self.snap_dir / f"s{sid}_{ts}.{self.shot_ext}"
+        page.screenshot(path=str(shot), **self.shot_kwargs)
         cur = self.conn.execute(
             "INSERT INTO snapshots (source_id, taken_at, content_hash, text_path, screenshot_path)"
             " VALUES (?,?,?,?,?)", (sid, now(), hash_, text_path.name, shot.name))
@@ -132,9 +137,9 @@ class Checker:
         if existing:
             return existing["id"]
         ts = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S%f")
-        shot = self.snap_dir / f"handoff_s{sid}_{ts}.png"
+        shot = self.snap_dir / f"handoff_s{sid}_{ts}.{self.shot_ext}"
         try:
-            page.screenshot(path=str(shot), full_page=True)  # for the human reviewer to look at
+            page.screenshot(path=str(shot), **self.shot_kwargs)  # for the human reviewer to look at
             shot_name = shot.name
         except Exception:
             shot_name = None
@@ -198,8 +203,10 @@ class Checker:
             self.conn.commit()
             return {"result": "changed", "source_id": sid, "change_id": cur.lastrowid}
         except Exception as e:
-            self._set_status(sid, "error", f"{type(e).__name__}: {e}"[:300])
-            return {"result": "error", "source_id": sid, "error": str(e)[:300]}
+            # First line only: Playwright appends a multi-line "Call log" that is noise on a dashboard.
+            msg = (str(e).strip().splitlines() or [""])[0]
+            self._set_status(sid, "error", f"{type(e).__name__}: {msg}"[:300])
+            return {"result": "error", "source_id": sid, "error": msg[:300]}
         finally:
             page.close()
 

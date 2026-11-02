@@ -1,0 +1,41 @@
+# Pages the daily scraper watches. To add coverage, add a [[source]] block and push:
+# the workflow re-runs automatically whenever this file changes.
+#
+#   name           unique label shown on the dashboard
+#   url            http(s) page to watch (must be public)
+#   authority      who publishes it (free text)
+#   state          "CENTRAL" or a state name
+#   selector       optional CSS selector for just the part of the page to watch.
+#                  Narrowing it stops banners and visitor counters from looking like "changes".
+#   respect_robots optional, default true. Pages that robots.txt disallows are skipped.
+#
+# Heads-up: many Indian government sites are JavaScript-heavy, slow, or block overseas servers
+# (GitHub's runners are in the US). A source that fails shows as "blocked" or "error" on the
+# dashboard with the reason; it is not silently dropped. Tune selectors once you see real output.
+
+[[source]]
+name = "FSSAI notifications"
+url = "https://www.fssai.gov.in/notifications.php"
+authority = "FSSAI"
+state = "CENTRAL"
+
+[[source]]
+name = "CBIC GST central tax (rate) notifications"
+url = "https://cbic-gst.gov.in/hindi/central-tax-rate.html"
+authority = "CBIC"
+state = "CENTRAL"
+
+[[source]]
+name = "RBI notifications"
+url = "https://www.rbi.org.in/Scripts/NotificationUser.aspx"
+authority = "RBI"
+state = "CENTRAL"
+
+# A reliably reachable, slow-changing page. If this one is "ok" but the government pages
+# are not, the scraper works and those sites are the problem.
+[[source]]
+name = "Reference: GST in India (Wikipedia)"
+url = "https://en.wikipedia.org/wiki/Goods_and_services_tax_(India)"
+authority = "Wikipedia"
+state = "CENTRAL"
+selector = "#mw-content-text"

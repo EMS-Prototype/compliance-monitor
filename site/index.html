@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Compliance Monitor</title>
+<style>
+  :root{
+    --bg:#f6f7f9; --panel:#fff; --ink:#1b1f24; --muted:#667085; --line:#e4e7ec;
+    --ok:#067647; --ok-bg:#e7f6ee; --warn:#b54708; --warn-bg:#fff4e5; --err:#b42318; --err-bg:#fdecea;
+    --new:#475467; --new-bg:#eef0f3; --accent:#2f5bea; --add:#067647; --add-bg:#e7f6ee; --del:#b42318; --del-bg:#fdecea;
+    --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#0f1216; --panel:#171b21; --ink:#e8eaee; --muted:#9aa3b2; --line:#2a303a;
+      --ok:#4ade80; --ok-bg:#12301f; --warn:#fbbf24; --warn-bg:#33270c; --err:#f87171; --err-bg:#3a1616;
+      --new:#aab2c0; --new-bg:#222832; --accent:#7c9cff; --add:#4ade80; --add-bg:#12301f; --del:#f87171; --del-bg:#3a1616;
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+  a{color:var(--accent)}
+  .wrap{max-width:1120px;margin:0 auto;padding:24px 16px 64px}
+  header{display:flex;flex-wrap:wrap;gap:12px 24px;align-items:flex-end;justify-content:space-between;margin-bottom:20px}
+  h1{margin:0;font-size:24px;letter-spacing:-.01em}
+  .sub{color:var(--muted);font-size:13px;margin-top:2px}
+  .btn{display:inline-block;padding:8px 14px;border:1px solid var(--line);border-radius:8px;background:var(--panel);
+       color:var(--ink);text-decoration:none;font-size:13px;font-weight:600}
+  .btn:hover{border-color:var(--accent)}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:18px}
+  .stat{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+  .stat b{display:block;font-size:26px;line-height:1.1;font-variant-numeric:tabular-nums}
+  .stat span{font-size:12px;color:var(--muted)}
+  .stat.ok b{color:var(--ok)} .stat.warn b{color:var(--warn)} .stat.err b{color:var(--err)}
+  .toolbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:20px 0 12px}
+  .chip{border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:999px;padding:5px 12px;font:inherit;font-size:13px;cursor:pointer}
+  .chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+  input[type=search]{margin-left:auto;min-width:200px;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);font:inherit;font-size:13px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(480px,1fr));gap:14px}
+  @media (max-width:560px){.grid{grid-template-columns:1fr}}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;display:flex;flex-direction:column;gap:8px;min-width:0}
+  .card h3{margin:0;font-size:16px}
+  .row{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center}
+  .tag{font-size:11px;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:1px 7px}
+  .status{font-size:12px;font-weight:700;border-radius:999px;padding:2px 10px}
+  .status.ok{color:var(--ok);background:var(--ok-bg)} .status.blocked{color:var(--warn);background:var(--warn-bg)}
+  .status.error{color:var(--err);background:var(--err-bg)} .status.new{color:var(--new);background:var(--new-bg)}
+  .url{font-size:12px;color:var(--muted);overflow-wrap:anywhere}
+  .note{font-size:13px;border-radius:8px;padding:8px 10px}
+  .note.warn{background:var(--warn-bg);color:var(--warn)} .note.err{background:var(--err-bg);color:var(--err)} .note.chg{background:var(--new-bg)}
+  pre{margin:0;font:12px/1.5 var(--mono);background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:8px 10px;white-space:pre-wrap;overflow-wrap:anywhere;max-height:260px;overflow:auto}
+  details summary{cursor:pointer;font-size:13px;color:var(--accent)}
+  .shot{width:100%;max-height:200px;object-fit:cover;object-position:top;border:1px solid var(--line);border-radius:8px;display:block}
+  h2{font-size:18px;margin:32px 0 10px}
+  .change{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:10px}
+  .diff .a{background:var(--add-bg);color:var(--add)} .diff .d{background:var(--del-bg);color:var(--del)} .diff .h{color:var(--muted)}
+  .empty{background:var(--panel);border:1px dashed var(--line);border-radius:12px;padding:28px;text-align:center;color:var(--muted)}
+  footer{margin-top:40px;color:var(--muted);font-size:12px}
+  .muted{color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Compliance Monitor</h1>
+      <div class="sub" id="freshness">Loading…</div>
+    </div>
+    <div class="row">
+      <a class="btn" id="runlink" href="#" target="_blank" rel="noopener noreferrer">Run scraper now</a>
+      <a class="btn" id="srclink" href="#" target="_blank" rel="noopener noreferrer">Edit sources</a>
+    </div>
+  </header>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="toolbar" id="toolbar" hidden>
+    <button class="chip" data-f="all" aria-pressed="true">All</button>
+    <button class="chip" data-f="ok" aria-pressed="false">OK</button>
+    <button class="chip" data-f="attention" aria-pressed="false">Needs attention</button>
+    <button class="chip" data-f="changed" aria-pressed="false">Has changes</button>
+    <input type="search" id="q" placeholder="Search sources" aria-label="Search sources">
+  </div>
+
+  <div class="grid" id="grid"></div>
+  <div id="empty" class="empty" hidden></div>
+
+  <h2 id="chg-h" hidden>Recent changes</h2>
+  <div id="changes"></div>
+
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const REPO = "llakshitt/compliance-monitor", BRANCH = "main";
+const RAW = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/site/data/`;
+const params = new URLSearchParams(location.search);
+// Default: always read the newest committed data straight from GitHub. "?data=local" reads ./data/ (preview/testing).
+const BASES = params.get("data") === "local" ? ["data/"] : [RAW, "data/"];
+
+const $ = id => document.getElementById(id);
+function el(tag, props = {}, ...kids) {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(props)) {
+    if (k === "class") n.className = v; else if (k === "text") n.textContent = v; else n.setAttribute(k, v);
+  }
+  for (const k of kids) if (k != null) n.append(k);
+  return n;
+}
+const safeHref = u => { try { const x = new URL(u); return /^https?:$/.test(x.protocol) ? x.href : "#"; } catch { return "#"; } };
+const fmt = new Intl.DateTimeFormat("en-IN", { dateStyle: "medium", timeStyle: "short", timeZone: "Asia/Kolkata" });
+const when = iso => iso ? fmt.format(new Date(iso)) + " IST" : "never";
+function ago(iso) {
+  if (!iso) return "never";
+  const s = Math.max(0, (Date.now() - new Date(iso)) / 1000);
+  if (s < 90) return "just now";
+  if (s < 5400) return Math.round(s / 60) + " min ago";
+  if (s < 129600) return Math.round(s / 3600) + " h ago";
+  return Math.round(s / 86400) + " days ago";
+}
+function nextRun() {                       // 10:00 IST = 04:30 UTC
+  const n = new Date(), t = new Date(Date.UTC(n.getUTCFullYear(), n.getUTCMonth(), n.getUTCDate(), 4, 30));
+  if (t <= n) t.setUTCDate(t.getUTCDate() + 1);
+  return t.toISOString();
+}
+const LABEL = { ok: "OK", blocked: "Needs a human", error: "Error", new: "Not run yet" };
+
+let DATA = null, BASE = BASES[0], filter = "all", query = "";
+
+async function load() {
+  for (const b of BASES) {
+    try {
+      const r = await fetch(b + "results.json", { cache: "no-store" });
+      if (r.ok) { DATA = await r.json(); BASE = b; return; }
+    } catch (_) { /* try the next base */ }
+  }
+}
+
+function stat(label, value, cls = "") { return el("div", { class: "stat " + cls }, el("b", { text: String(value) }), el("span", { text: label })); }
+
+function card(s) {
+  const c = el("div", { class: "card" });
+  c.append(el("div", { class: "row" },
+    el("h3", { text: s.name }),
+    el("span", { class: "status " + s.status, text: LABEL[s.status] || s.status })));
+  c.append(el("div", { class: "row" },
+    s.authority ? el("span", { class: "tag", text: s.authority }) : null,
+    el("span", { class: "tag", text: s.state }),
+    el("span", { class: "muted", style: "font-size:12px", text: "checked " + ago(s.last_checked_at) })));
+  c.append(el("a", { class: "url", href: safeHref(s.url), target: "_blank", rel: "noopener noreferrer", text: s.url }));
+
+  for (const h of s.handoffs || [])
+    c.append(el("div", { class: "note warn", text: `A person is needed: the page showed a ${h.kind}. The scraper stopped and did not try to get past it.` }));
+  if (s.status === "error" && s.last_error) c.append(el("div", { class: "note err", text: s.last_error }));
+  if (s.pending_changes) c.append(el("div", { class: "note chg", text: `${s.pending_changes} change(s) detected since the previous run. See Recent changes below.` }));
+
+  const lines = s.latest ? s.latest.lines : [];
+  if (lines.length) {
+    const head = lines.slice(0, 8).join("\n"), more = s.latest.line_count > 8;
+    const d = el("details", {}, el("summary", { text: `Latest scraped content (${s.latest.line_count} lines, ${when(s.latest.taken_at)})` }),
+      el("pre", { text: lines.join("\n") + (s.latest.line_count > lines.length ? "\n…" : "") }));
+    c.append(el("pre", { text: head + (more ? "\n…" : "") }));
+    if (more) c.append(d);
+  } else if (s.status !== "ok") {
+    c.append(el("div", { class: "muted", style: "font-size:13px", text: "Nothing scraped from this page yet." }));
+  }
+  const shot = (s.latest && s.latest.screenshot) || ((s.handoffs || [])[0] || {}).screenshot;
+  if (shot) {
+    const u = BASE + shot;
+    c.append(el("a", { href: u, target: "_blank", rel: "noopener noreferrer" }, el("img", { class: "shot", src: u, alt: "Screenshot of " + s.name, loading: "lazy" })));
+  }
+  return c;
+}
+
+function render() {
+  const grid = $("grid"); grid.replaceChildren();
+  const list = DATA.sources.filter(s => {
+    if (filter === "ok" && s.status !== "ok") return false;
+    if (filter === "attention" && !(s.status === "blocked" || s.status === "error")) return false;
+    if (filter === "changed" && !s.pending_changes) return false;
+    return !query || (s.name + " " + s.authority + " " + s.state + " " + s.url).toLowerCase().includes(query);
+  });
+  list.forEach(s => grid.append(card(s)));
+  const e = $("empty");
+  e.hidden = list.length > 0;
+  if (!list.length) e.textContent = "No sources match this filter.";
+}
+
+function renderChanges() {
+  const box = $("changes"); box.replaceChildren();
+  $("chg-h").hidden = !DATA.changes.length;
+  for (const c of DATA.changes.slice(0, 30)) {
+    const pre = el("pre", { class: "diff" });
+    for (const line of c.diff.split("\n")) {
+      const cls = line.startsWith("+++") || line.startsWith("---") || line.startsWith("@@") ? "h" : line.startsWith("+") ? "a" : line.startsWith("-") ? "d" : "";
+      pre.append(el("div", cls ? { class: cls, text: line || " " } : { text: line || " " }));
+    }
+    box.append(el("div", { class: "change" },
+      el("div", { class: "row" }, el("b", { text: c.source_name }), el("span", { class: "muted", style: "font-size:12px", text: when(c.detected_at) })),
+      el("p", { style: "margin:6px 0", text: c.summary }), pre));
+  }
+}
+
+async function main() {
+  $("runlink").href = `https://github.com/${REPO}/actions/workflows/scrape.yml`;
+  $("srclink").href = `https://github.com/${REPO}/edit/${BRANCH}/sources.toml`;
+  $("foot").append("Scraper runs daily at 10:00 AM IST on GitHub Actions. Results are committed to ",
+    el("a", { href: `https://github.com/${REPO}`, target: "_blank", rel: "noopener noreferrer", text: REPO }),
+    ". Detected changes are suggestions for a person to review, not verified legal updates.");
+  await load();
+  if (!DATA) {
+    $("freshness").textContent = "No results yet";
+    const e = $("empty"); e.hidden = false;
+    e.textContent = "The scraper has not produced results yet. It runs daily at 10:00 AM IST; use “Run scraper now” to start it.";
+    return;
+  }
+  const s = DATA.summary;
+  $("freshness").textContent = `Last run ${when(DATA.generated_at)} (${ago(DATA.generated_at)}) · next run ${when(nextRun())}`;
+  const st = $("stats");
+  st.append(stat("Sources", s.sources), stat("OK", s.ok, "ok"), stat("Needs a human", s.blocked, s.blocked ? "warn" : ""),
+            stat("Errors", s.error, s.error ? "err" : ""), stat("Changes to review", s.pending_changes, s.pending_changes ? "warn" : ""));
+  $("toolbar").hidden = false;
+  document.querySelectorAll(".chip").forEach(b => b.addEventListener("click", () => {
+    filter = b.dataset.f;
+    document.querySelectorAll(".chip").forEach(x => x.setAttribute("aria-pressed", String(x === b)));
+    render();
+  }));
+  $("q").addEventListener("input", e => { query = e.target.value.trim().toLowerCase(); render(); });
+  render(); renderChanges();
+  if (DATA.run_url) $("foot").append(" ", el("a", { href: safeHref(DATA.run_url), target: "_blank", rel: "noopener noreferrer", text: "View the latest run." }));
+}
+main();
+</script>
+</body>
+</html>
