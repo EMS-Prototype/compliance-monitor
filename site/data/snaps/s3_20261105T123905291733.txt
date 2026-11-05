@@ -53,8 +53,8 @@ Risk Management and Inter-Bank Dealings 312 kb
 2017
 Archives
 Back to previous page
-Last Updated On: Nov 03, 2026
-MORE LINKS
+Last Updated On: Nov 05, 2026
+MORE LINKS :
 Bank Holidays
 Banking Glossary
 Citizen's Charter
@@ -71,7 +71,7 @@ Important Websites
 Opportunities@RBI
 RBI Clarifications
 RBI Kehta Hai
-RBI’s Vision and Values (652 kb)
+RBI’s Vision and Values (652 KB)
 Right to Information Act
 Tenders
 FOLLOW RBI
@@ -84,7 +84,7 @@ LinkedIn
 © Reserve Bank of India. All Rights Reserved.
 Sitemap | Disclaimer
 Website owned and managed by Reserve Bank of India. Contact us on helpdoc[at]rbi[dot]org[dot]in
-Website last updated date: Nov 03, 2026
+Website last updated date: Nov 05, 2026
 Web Information Manager
 Accessibility Statement (133 KB) |Screen Reader and Accessibility Help
 Supports: Google Chrome 147+ | Firefox 150+ | Microsoft Edge Version 147+ | Safari 17+
@@ -744,7 +744,7 @@ LINK: Important Websites -> https://www.rbi.org.in/Scripts/OtherLinks.aspx
 LINK: Opportunities@RBI -> https://opportunities.rbi.org.in/scripts/index.aspx
 LINK: RBI Clarifications -> https://www.rbi.org.in/Scripts/rbi_clarification.aspx
 LINK: RBI Kehta Hai -> https://rbikehtahai.rbi.org.in/
-LINK: RBI’s Vision and Values (652 kb) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf
+LINK: RBI’s Vision and Values (652 KB) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf
 LINK: Right to Information Act -> https://www.rbi.org.in/Scripts/Righttoinfoact.aspx
 LINK: Tenders -> https://www.rbi.org.in/Scripts/BS_ViewTenders.aspx
 LINK: RSS -> https://www.rbi.org.in/Scripts/rss.aspx
