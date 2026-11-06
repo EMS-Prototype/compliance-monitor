@@ -20,6 +20,8 @@ Draft Notifications/ Guidelines
 Index to RBI Circulars
 Circulars Withdrawn
 NOTIFICATIONS
+Nov 05, 2026
+Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators 374 kb
 Nov 03, 2026
 Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026 132 kb
 Oct 30, 2026
@@ -38,9 +40,6 @@ Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions
 Reserve Bank of India (Commercial Banks - Miscellaneous) Second Amendment Directions, 2026 262 kb
 Oct 12, 2026
 Risk Management and Inter-Bank Dealings 282 kb
-Oct 10, 2026
-Risk Management and Inter-Bank Dealings - Foreign Exchange Risk Reserve 286 kb
-Risk Management and Inter-Bank Dealings 312 kb
 2026
 2025
 2024
@@ -53,7 +52,7 @@ Risk Management and Inter-Bank Dealings 312 kb
 2017
 Archives
 Back to previous page
-Last Updated On: Nov 04, 2026
+Last Updated On: Nov 05, 2026
 MORE LINKS
 Bank Holidays
 Banking Glossary
@@ -84,7 +83,7 @@ LinkedIn
 © Reserve Bank of India. All Rights Reserved.
 Sitemap | Disclaimer
 Website owned and managed by Reserve Bank of India. Contact us on helpdoc[at]rbi[dot]org[dot]in
-Website last updated date: Nov 04, 2026
+Website last updated date: Nov 06, 2026
 Web Information Manager
 Accessibility Statement (133 KB) |Screen Reader and Accessibility Help
 Supports: Google Chrome 147+ | Firefox 150+ | Microsoft Edge Version 147+ | Safari 17+
@@ -193,6 +192,7 @@ LINK: Draft Notifications/ Guidelines -> https://www.rbi.org.in/Scripts/DraftNot
 LINK: Draft Directions (RE-wise) -> https://www.rbi.org.in/Scripts/BS_ViewREwiseDraftDirections.aspx
 LINK: Index to RBI Circulars -> https://www.rbi.org.in/Scripts/BS_CircularIndexDisplay.aspx
 LINK: Circulars Withdrawn -> https://www.rbi.org.in/Scripts/NotificationUserWithdrawnCircular.aspx
+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/475MDA65A2A40240B4510BB6301A33C9ECBFE.PDF
 LINK: Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13750&Mode=0
 LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FEMA23RA03112026F5D7706996DD3493DAD9E0899C64D4793.PDF
 LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13749&Mode=0
@@ -217,10 +217,6 @@ LINK: Reserve Bank of India (Commercial Banks - Miscellaneous) Second Amendment 
 LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/294NT8A37BD7CAFB1463E8FCD9E5CC9F4D45B.PDF
 LINK: Risk Management and Inter-Bank Dealings -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13739&Mode=0
 LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI293D62A07A6EF394B75BAB6BEBA6F159565.PDF
-LINK: Risk Management and Inter-Bank Dealings - Foreign Exchange Risk Reserve -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13738&Mode=0
-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/292NT63009643AFA847A48C9A73F31E26175F.PDF
-LINK: Risk Management and Inter-Bank Dealings -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13737&Mode=0
-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/291NT8DE5483CA3F84609A0CA56720CD64103.PDF
 LINK: 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx#
 LINK: All Months -> https://www.rbi.org.in/Scripts/NotificationUser.aspx#
 LINK: January -> https://www.rbi.org.in/Scripts/NotificationUser.aspx#
