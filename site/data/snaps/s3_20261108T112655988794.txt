@@ -52,7 +52,7 @@ Risk Management and Inter-Bank Dealings 282 kb
 2017
 Archives
 Back to previous page
-Last Updated On: Nov 05, 2026
+Last Updated On: Nov 07, 2026
 MORE LINKS
 Bank Holidays
 Banking Glossary
@@ -83,7 +83,7 @@ LinkedIn
 © Reserve Bank of India. All Rights Reserved.
 Sitemap | Disclaimer
 Website owned and managed by Reserve Bank of India. Contact us on helpdoc[at]rbi[dot]org[dot]in
-Website last updated date: Nov 06, 2026
+Website last updated date: Nov 07, 2026
 Web Information Manager
 Accessibility Statement (133 KB) |Screen Reader and Accessibility Help
 Supports: Google Chrome 147+ | Firefox 150+ | Microsoft Edge Version 147+ | Safari 17+
@@ -192,6 +192,7 @@ LINK: Draft Notifications/ Guidelines -> https://www.rbi.org.in/Scripts/DraftNot
 LINK: Draft Directions (RE-wise) -> https://www.rbi.org.in/Scripts/BS_ViewREwiseDraftDirections.aspx
 LINK: Index to RBI Circulars -> https://www.rbi.org.in/Scripts/BS_CircularIndexDisplay.aspx
 LINK: Circulars Withdrawn -> https://www.rbi.org.in/Scripts/NotificationUserWithdrawnCircular.aspx
+LINK: Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13751&Mode=0
 LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/475MDA65A2A40240B4510BB6301A33C9ECBFE.PDF
 LINK: Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13750&Mode=0
 LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FEMA23RA03112026F5D7706996DD3493DAD9E0899C64D4793.PDF
