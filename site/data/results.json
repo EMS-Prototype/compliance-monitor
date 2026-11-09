@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-08T11:26:57+00:00",
-  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/42475735947",
+  "generated_at": "2026-11-09T13:13:42+00:00",
+  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/42623477608",
   "summary": {
     "sources": 4,
     "ok": 4,
     "blocked": 0,
     "error": 0,
-    "pending_changes": 12
+    "pending_changes": 14
   },
   "sources": [
     {
@@ -17,10 +17,10 @@
       "url": "https://www.fssai.gov.in/notifications.php",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-08T11:26:46+00:00",
+      "last_checked_at": "2026-11-09T13:13:31+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-08T11:26:46+00:00",
+        "taken_at": "2026-11-09T13:13:31+00:00",
         "line_count": 173,
         "lines": [
           "Menu",
@@ -64,9 +64,9 @@
           "2",
           "Draft Food Safety and Standards (Contaminants, Toxins and Residues) Amendment Regulations, 2026 relating to the MRLs of Pesticide Residues in Tea"
         ],
-        "screenshot": "snaps/s1_20261108T112646442753.jpg"
+        "screenshot": "snaps/s1_20261109T131331188290.jpg"
       },
-      "pending_changes": 5,
+      "pending_changes": 6,
       "handoffs": []
     },
     {
@@ -77,7 +77,7 @@
       "url": "https://cbic-gst.gov.in/hindi/central-tax-rate.html",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-08T11:26:53+00:00",
+      "last_checked_at": "2026-11-09T13:13:38+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-02T12:27:30+00:00",
@@ -137,10 +137,10 @@
       "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-08T11:26:56+00:00",
+      "last_checked_at": "2026-11-09T13:13:41+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-08T11:26:56+00:00",
+        "taken_at": "2026-11-09T13:13:41+00:00",
         "line_count": 758,
         "lines": [
           "Skip to main content",
@@ -184,9 +184,9 @@
           "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 255 kb",
           "Reserve Bank of India (Commercial Banks - Miscellaneous) Second Amendment Directions, 2026 262 kb"
         ],
-        "screenshot": "snaps/s3_20261108T112655988794.jpg"
+        "screenshot": "snaps/s3_20261109T131341737433.jpg"
       },
-      "pending_changes": 6,
+      "pending_changes": 7,
       "handoffs": []
     },
     {
@@ -197,7 +197,7 @@
       "url": "https://en.wikipedia.org/wiki/Goods_and_services_tax_(India)",
       "selector": "#mw-content-text",
       "status": "ok",
-      "last_checked_at": "2026-11-08T11:26:57+00:00",
+      "last_checked_at": "2026-11-09T13:13:42+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-08T11:26:57+00:00",
@@ -251,6 +251,24 @@
     }
   ],
   "changes": [
+    {
+      "id": 14,
+      "source_id": 3,
+      "source_name": "RBI notifications",
+      "detected_at": "2026-11-09T13:13:41+00:00",
+      "summary": "5 line(s) added, 5 removed. Added: Last Updated On: Nov 09, 2026 | MORE LINKS : | RBI’s Vision and Values (652 KB) Removed: Last Updated On: Nov 07, 2026 | MORE LINKS | RBI’s Vision and Values (652 kb)",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -54,4 +54,4 @@\n Back to previous page\n-Last Updated On: Nov 07, 2026\n-MORE LINKS\n+Last Updated On: Nov 09, 2026\n+MORE LINKS :\n Bank Holidays\n@@ -72,3 +72,3 @@\n RBI Kehta Hai\n-RBI’s Vision and Values (652 kb)\n+RBI’s Vision and Values (652 KB)\n Right to Information Act\n@@ -85,3 +85,3 @@\n Website owned and managed by Reserve Bank of India. Contact us on helpdoc[at]rbi[dot]org[dot]in\n-Website last updated date: Nov 07, 2026\n+Website last updated date: Nov 09, 2026\n Web Information Manager\n@@ -743,3 +743,3 @@\n LINK: RBI Kehta Hai -> https://rbikehtahai.rbi.org.in/\n-LINK: RBI’s Vision and Values (652 kb) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf\n+LINK: RBI’s Vision and Values (652 KB) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf\n LINK: Right to Information Act -> https://www.rbi.org.in/Scripts/Righttoinfoact.aspx"
+    },
+    {
+      "id": 13,
+      "source_id": 1,
+      "source_name": "FSSAI notifications",
+      "detected_at": "2026-11-09T13:13:31+00:00",
+      "summary": "1 line(s) added, 1 removed. Added: Last Updated: 09/11/2026 Removed: Last Updated: 08/11/2026",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -96,3 +96,3 @@\n Notice for Comments\n-Last Updated: 08/11/2026\n+Last Updated: 09/11/2026\n FSSAI – Ensuring Safe and Wholesome Food for Every Citizen of India"
+    },
     {
       "id": 12,
       "source_id": 4,
