@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T13:04:59+00:00",
-  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/43223745458",
+  "generated_at": "2026-11-13T12:29:54+00:00",
+  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/43425543660",
   "summary": {
     "sources": 4,
     "ok": 4,
     "blocked": 0,
     "error": 0,
-    "pending_changes": 19
+    "pending_changes": 21
   },
   "sources": [
     {
@@ -17,10 +17,10 @@
       "url": "https://www.fssai.gov.in/notifications.php",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-12T13:04:48+00:00",
+      "last_checked_at": "2026-11-13T12:29:42+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-12T13:04:48+00:00",
+        "taken_at": "2026-11-13T12:29:42+00:00",
         "line_count": 173,
         "lines": [
           "Menu",
@@ -57,16 +57,16 @@
           "DATE",
           "DOWNLOAD",
           "1",
-          "Draft Food Safety and Standards (Foods for Infant Nutrition) Amendment Regulations, 2026 relating to restriction of sucrose and fructose for infants up to the age of 6 months",
-          "15-10-2026",
-          "PDF [0.44 MB]",
-          "Format for sending the comments and suggestions",
+          "Food Safety and Standards (Labelling and Display) Second Amendment Regulations, 2026 relating to graphic specifications of milk logo",
+          "06-11-2026",
+          "PDF [0.77 MB]",
           "2",
-          "Draft Food Safety and Standards (Contaminants, Toxins and Residues) Amendment Regulations, 2026 relating to the MRLs of Pesticide Residues in Tea"
+          "Gazette Notification of NABL Accredited Laboratories under section 43(1) of FSS Act",
+          "05-11-2026"
         ],
-        "screenshot": "snaps/s1_20261112T130448104311.jpg"
+        "screenshot": "snaps/s1_20261113T122942809258.jpg"
       },
-      "pending_changes": 8,
+      "pending_changes": 9,
       "handoffs": []
     },
     {
@@ -77,7 +77,7 @@
       "url": "https://cbic-gst.gov.in/hindi/central-tax-rate.html",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-12T13:04:54+00:00",
+      "last_checked_at": "2026-11-13T12:29:49+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-02T12:27:30+00:00",
@@ -137,10 +137,10 @@
       "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-12T13:04:57+00:00",
+      "last_checked_at": "2026-11-13T12:29:53+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-12T13:04:57+00:00",
+        "taken_at": "2026-11-13T12:29:52+00:00",
         "line_count": 758,
         "lines": [
           "Skip to main content",
@@ -184,9 +184,9 @@
           "Oct 19, 2026",
           "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 273 kb"
         ],
-        "screenshot": "snaps/s3_20261112T130457794306.jpg"
+        "screenshot": "snaps/s3_20261113T122952906973.jpg"
       },
-      "pending_changes": 10,
+      "pending_changes": 11,
       "handoffs": []
     },
     {
@@ -197,7 +197,7 @@
       "url": "https://en.wikipedia.org/wiki/Goods_and_services_tax_(India)",
       "selector": "#mw-content-text",
       "status": "ok",
-      "last_checked_at": "2026-11-12T13:04:59+00:00",
+      "last_checked_at": "2026-11-13T12:29:54+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-08T11:26:57+00:00",
@@ -251,6 +251,24 @@
     }
   ],
   "changes": [
+    {
+      "id": 21,
+      "source_id": 3,
+      "source_name": "RBI notifications",
+      "detected_at": "2026-11-13T12:29:53+00:00",
+      "summary": "5 line(s) added, 5 removed. Added: Last Updated On: Nov 13, 2026 | MORE LINKS : | RBI’s Vision and Values (652 KB) Removed: Last Updated On: Nov 12, 2026 | MORE LINKS | RBI’s Vision and Values (652 kb)",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -54,4 +54,4 @@\n Back to previous page\n-Last Updated On: Nov 12, 2026\n-MORE LINKS\n+Last Updated On: Nov 13, 2026\n+MORE LINKS :\n Bank Holidays\n@@ -72,3 +72,3 @@\n RBI Kehta Hai\n-RBI’s Vision and Values (652 kb)\n+RBI’s Vision and Values (652 KB)\n Right to Information Act\n@@ -85,3 +85,3 @@\n Website owned and managed by Reserve Bank of India. Contact us on helpdoc[at]rbi[dot]org[dot]in\n-Website last updated date: Nov 12, 2026\n+Website last updated date: Nov 13, 2026\n Web Information Manager\n@@ -743,3 +743,3 @@\n LINK: RBI Kehta Hai -> https://rbikehtahai.rbi.org.in/\n-LINK: RBI’s Vision and Values (652 kb) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf\n+LINK: RBI’s Vision and Values (652 KB) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf\n LINK: Right to Information Act -> https://www.rbi.org.in/Scripts/Righttoinfoact.aspx"
+    },
+    {
+      "id": 20,
+      "source_id": 1,
+      "source_name": "FSSAI notifications",
+      "detected_at": "2026-11-13T12:29:42+00:00",
+      "summary": "11 line(s) added, 11 removed. Added: Food Safety and Standards (Labelling and Display) Second Amendment Regulations, 2026 relating to graphic specifications of milk logo | 06-11-2026 | PDF [0.77 MB] Removed: Gazette Notification of Food Analyst under sub-section 5 of section 10 read with section 45 of FSS Act | PDF [0.75 MB] | Gazette Notification of Central Food Safety Officer for the Airport under Sub-Section 5 of Section 10 read with Section 37 of FSS Act",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -34,2 +34,10 @@\n 1\n+Food Safety and Standards (Labelling and Display) Second Amendment Regulations, 2026 relating to graphic specifications of milk logo\n+06-11-2026\n+PDF [0.77 MB]\n+2\n+Gazette Notification of NABL Accredited Laboratories under section 43(1) of FSS Act\n+05-11-2026\n+PDF [0.73 MB]\n+3\n Draft Food Safety and Standards (Foods for Infant Nutrition) Amendment Regulations, 2026 relating to restriction of sucrose and fructose for infants up to the age of 6 months\n@@ -38,3 +46,3 @@\n Format for sending the comments and suggestions\n-2\n+4\n Draft Food Safety and Standards (Contaminants, Toxins and Residues) Amendment Regulations, 2026 relating to the MRLs of Pesticide Residues in Tea\n@@ -44,3 +52,3 @@\n Online Comments\n-3\n+5\n Gazette Notification of NABL Accredited Laboratories under section 43(1) of FSS Act\n@@ -48,3 +56,3 @@\n PDF [0.60 MB]\n-4\n+6\n Gazette Notification of the Food Safety and Standards (Vegan Foods) Amendment Regulations, 2026 relating to the certificate to be issued by the recognized authorities of the exporting countries for Vegan food products\n@@ -52,3 +60,3 @@\n PDF [0.79 MB]\n-5\n+7\n Gazette Notification regarding de-notification of Food Safety Officers notified for Fortified Rice Kernel under Sub-Section 5 of Section 10 read with Section 37 of FSS Act\n@@ -56,3 +64,3 @@\n PDF [0.58 MB]\n-6\n+8\n Gazette Notification regarding Central Advisory Committee\n@@ -60,3 +68,3 @@\n PDF [0.60 MB]\n-7\n+9\n Draft Food Safety and Standards (Prohibition and Restrictions on Sales) Amendment Regulations, 2026 relating to restriction of paneer made of constituents not derived from milk\n@@ -65,3 +73,3 @@\n Format for submitting the comments and suggestions\n-8\n+10\n Gazette Notification of the Food Safety and Standards (Laboratory and Sample Analysis) Amendment Regulations, 2026 relating to Timeline for Analysis of samples, Method of Analysis and testing report formats in alignment with FSS Act/Rules/Regulations\n@@ -69,11 +77,3 @@\n PDF [0.76 MB]\n-9\n-Gazette Notification of Food Analyst under sub-section 5 of section 10 read with section 45 of FSS Act\n-18-09-2026\n-PDF [0.75 MB]\n-10\n-Gazette Notification of Central Food Safety Officer for the Airport under Sub-Section 5 of Section 10 read with Section 37 of FSS Act\n-14-09-2026\n-PDF [0.55 MB]\n-Showing 1 to 10 of 1360 entries\n+Showing 1 to 10 of 1362 entries\n Previous\n@@ -82,3 +82,3 @@\n \"¦\n-136\n+137\n Next\n@@ -96,3 +96,3 @@\n Notice for Comments\n-Last Updated: 12/11/2026\n+Last Updated: 13/11/2026\n FSSAI – Ensuring Safe and Wholesome Food for Every Citizen of India\n@@ -124,3 +124,3 @@\n © 2026 FSSAI. All Rights Reserved.\n-Last Updated : 12 Nov 2026\n+Last Updated : 13 Nov 2026\n LINK: Consumers -> https://www.fssai.gov.in/consumers\n@@ -133,2 +133,4 @@\n LINK: Archive → -> https://www.fssai.gov.in/food-law/notifications-archive\n+LINK: PDF [0.77 MB] -> https://www.fssai.gov.in/docs/food-law/notice-comment/FSS(Labelling%20and%20Display)%20-%20Milk%20logo.pdf\n+LINK: PDF [0.73 MB] -> https://www.fssai.gov.in/docs/food-law/notice-comment/Notification%20dt%2005.11.2026.pdf\n LINK: PDF [0.44 MB] -> https://www.fssai.gov.in/docs/food-law/notice-comment/Notification%20dt%2015.10.2026_Infant%20Nutrition.pdf\n@@ -145,4 +147,2 @@\n LINK: PDF [0.76 MB] -> https://www.fssai.gov.in/docs/food-law/notice-comment/Notification%20dated%2014.09.2026_amendment.pdf\n-LINK: PDF [0.75 MB] -> https://www.fssai.gov.in/docs/food-law/notice-comment/Notification%20dated%2014.09.2026.pdf\n-LINK: PDF [0.55 MB] -> https://www.fssai.gov.in/docs/food-law/notice-comment/Notification%20dt%2007.09.2026.pdf\n LINK: † Back to Home -> https://www.fssai.gov.in/"
+    },
     {
       "id": 19,
       "source_id": 3,
