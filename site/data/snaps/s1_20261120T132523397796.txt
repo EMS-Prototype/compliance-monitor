@@ -72,7 +72,7 @@
 पीडीएफ [0.60 एमबी]
 टिप्पणियाँ और सुझाव प्रस्तुत करने के लिए प्रारूप
 10
-एफ. एस. एस. अधिनियम/नियमों/विनियमों के अनुरूप नमूनों के विश्लेषण के लिए समयरेखा, विश्लेषण की विधि और परीक्षण रिपोर्ट प्रारूपों से संबंधित खाद्य सुरक्षा और मानकों (प्रयोगशाला और नमूना विश्लेषण) संशोधन विनियम, 2026 की राजपत्र अधिसूचना
+एफ. एस. एस. अधिनियम/नियमों/विनियमों के अनुरूप नमूनों के विश्लेषण, विश्लेषण की विधि और परीक्षण रिपोर्ट प्रारूपों के लिए समय-सीमा से संबंधित खाद्य सुरक्षा और मानकों (प्रयोगशाला और नमूना विश्लेषण) संशोधन विनियम, 2026 की राजपत्र अधिसूचना
 18-09-2026
 पीडीएफ [0.76 एमबी]
 दिखा रहे हैं 1 को 10 में से 1362 प्रविष्टियाँ
@@ -94,35 +94,35 @@
 सलाह/आदेश
 ›
 टिप्पणियों के लिए नोटिस
-अंतिम बार अद्यतन किया गयाः 18/11/2026
+अंतिम बार अद्यतन किया गयाः 20/11/2026
 एफ. एस. एस. ए. आई.-भारत के प्रत्येक नागरिक के लिए सुरक्षित और संपूर्ण भोजन सुनिश्चित करना
-Knowledge Hub
-Myth Buster
-Annual Report
-Creative Catalogue
-Video Library
-Books, Reports & Manuals
-Resources
-Research & Development
-Jobs @ FSSAI (Careers)
-Internship @ FSSAI
-Tenders / EOI
-Contact Us
-1800112100 ( 09:00 AM To 06:00 PM)
+ज्ञान केंद्र
+मिथक बस्टर
+वार्षिक रिपोर्ट
+रचनात्मक सूचीपत्र
+वीडियो पुस्तकालय
+किताबें, रिपोर्ट और नियमावली
+संसाधन
+अनुसंधान और विकास
+नौकरियां @एफ. एस. एस. ए. आई. (करियर)
+इंटर्नशिप @एफएसएसएआई
+निविदा/ई. ओ. आई
+हमसे संपर्क करें
+1800112100 (सुबह 9.00 बजे से शाम 6.00 बजे तक)
 helpdesk-foscos[at]fssai[dot]gov[dot]in
-About Us
+हमारे बारे में
 |
-Contact Us
+हमसे संपर्क करें
 |
-Website Policies
+वेबसाइट नीतियाँ
 |
-Sitemap
+साइटमैप
 |
-Help
+मदद करें
 |
-Feedback
-© 2026 FSSAI. All Rights Reserved.
-Last Updated : 18 Nov 2026
+फीडबैक
+© 2026 एफएसएसएआई। सभी अधिकार सुरक्षित हैं।
+अंतिम बार अद्यतन किया गयाः 20 नवंबर 2026
 इस पृष्ठ का अनुवाद भाषिणी के ए. आई.-संचालित मॉडल का उपयोग करके किया गया है। स्रोत सामग्री अंग्रेजी में है। अनुवाद से संबंधित किसी भी प्रश्न के लिए, कृपया ceo-dibd@digitalindia.gov.in से संपर्क करें।
 इस पृष्ठ का अनुवाद भाषिणी के ए. आई.-संचालित मॉडल का उपयोग करके किया गया है। स्रोत सामग्री अंग्रेजी में है। अनुवाद से संबंधित किसी भी प्रश्न के लिए, कृपया ceo-dibd@digitalindia.gov.in से संपर्क करें।
 इस पृष्ठ का अनुवाद भाषिणी के ए. आई.-संचालित मॉडल का उपयोग करके किया गया है। स्रोत सामग्री अंग्रेजी में है। अनुवाद से संबंधित किसी भी प्रश्न के लिए, कृपया ceo-dibd@digitalindia.gov.in से संपर्क करें।
@@ -159,18 +159,18 @@ LINK: -> https://www.facebook.com/fssai
 LINK: -> https://www.instagram.com/fssai_safefood/
 LINK: -> https://www.youtube.com/user/FoodsafetyinIndia
 LINK: -> https://www.linkedin.com/company/food-safety-and-standards-authority-of-india/
-LINK: Myth Buster -> https://www.fssai.gov.in/myth-buster
-LINK: Annual Report -> https://www.fssai.gov.in/knowledge-hub?tab=annual-report
-LINK: Creative Catalogue -> https://www.fssai.gov.in/knowledge-hub/creative-catalogue
-LINK: Video Library -> https://www.fssai.gov.in/knowledge-hub?tab=video-library
-LINK: Books, Reports & Manuals -> https://www.fssai.gov.in/knowledge-hub?tab=books
-LINK: Research & Development -> https://www.fssai.gov.in/research-and-development
-LINK: Jobs @ FSSAI (Careers) -> https://www.fssai.gov.in/jobs-at-fssai
-LINK: Internship @ FSSAI -> https://www.fssai.gov.in/internship-at-fssai
-LINK: Tenders / EOI -> https://www.fssai.gov.in/tenders
-LINK: About Us -> https://www.fssai.gov.in/about-us
-LINK: Contact Us -> https://www.fssai.gov.in/contact-us
-LINK: Website Policies -> https://www.fssai.gov.in/website-policies
-LINK: Sitemap -> https://www.fssai.gov.in/sitemap
-LINK: Help -> https://www.fssai.gov.in/help
-LINK: Feedback -> https://www.fssai.gov.in/feedback
+LINK: मिथक बस्टर -> https://www.fssai.gov.in/myth-buster
+LINK: वार्षिक रिपोर्ट -> https://www.fssai.gov.in/knowledge-hub?tab=annual-report
+LINK: रचनात्मक सूचीपत्र -> https://www.fssai.gov.in/knowledge-hub/creative-catalogue
+LINK: वीडियो पुस्तकालय -> https://www.fssai.gov.in/knowledge-hub?tab=video-library
+LINK: किताबें, रिपोर्ट और नियमावली -> https://www.fssai.gov.in/knowledge-hub?tab=books
+LINK: अनुसंधान और विकास -> https://www.fssai.gov.in/research-and-development
+LINK: नौकरियां @एफ. एस. एस. ए. आई. (करियर) -> https://www.fssai.gov.in/jobs-at-fssai
+LINK: इंटर्नशिप @एफएसएसएआई -> https://www.fssai.gov.in/internship-at-fssai
+LINK: निविदा/ई. ओ. आई -> https://www.fssai.gov.in/tenders
+LINK: हमारे बारे में -> https://www.fssai.gov.in/about-us
+LINK: हमसे संपर्क करें -> https://www.fssai.gov.in/contact-us
+LINK: वेबसाइट नीतियाँ -> https://www.fssai.gov.in/website-policies
+LINK: साइटमैप -> https://www.fssai.gov.in/sitemap
+LINK: मदद करें -> https://www.fssai.gov.in/help
+LINK: फीडबैक -> https://www.fssai.gov.in/feedback
