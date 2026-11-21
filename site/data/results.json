@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-20T13:25:34+00:00",
-  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/44744072753",
+  "generated_at": "2026-11-21T12:54:05+00:00",
+  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/44906112063",
   "summary": {
     "sources": 4,
     "ok": 4,
     "blocked": 0,
     "error": 0,
-    "pending_changes": 35
+    "pending_changes": 37
   },
   "sources": [
     {
@@ -17,10 +17,10 @@
       "url": "https://www.fssai.gov.in/notifications.php",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-20T13:25:23+00:00",
+      "last_checked_at": "2026-11-21T12:53:53+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-20T13:25:23+00:00",
+        "taken_at": "2026-11-21T12:53:53+00:00",
         "line_count": 176,
         "lines": [
           "मेन्यू",
@@ -64,9 +64,9 @@
           "एफ. एस. एस. अधिनियम की धारा 43 (1) के तहत एन. ए. बी. एल. मान्यता प्राप्त प्रयोगशालाओं की राजपत्र अधिसूचना",
           "05-11-2026"
         ],
-        "screenshot": "snaps/s1_20261120T132523397796.jpg"
+        "screenshot": "snaps/s1_20261121T125353419393.jpg"
       },
-      "pending_changes": 16,
+      "pending_changes": 17,
       "handoffs": []
     },
     {
@@ -77,7 +77,7 @@
       "url": "https://cbic-gst.gov.in/hindi/central-tax-rate.html",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-20T13:25:30+00:00",
+      "last_checked_at": "2026-11-21T12:53:59+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-02T12:27:30+00:00",
@@ -137,10 +137,10 @@
       "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-20T13:25:33+00:00",
+      "last_checked_at": "2026-11-21T12:54:04+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-20T13:25:33+00:00",
+        "taken_at": "2026-11-21T12:54:04+00:00",
         "line_count": 758,
         "lines": [
           "Skip to main content",
@@ -184,9 +184,9 @@
           "Oct 19, 2026",
           "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 273 kb"
         ],
-        "screenshot": "snaps/s3_20261120T132533555839.jpg"
+        "screenshot": "snaps/s3_20261121T125404035053.jpg"
       },
-      "pending_changes": 18,
+      "pending_changes": 19,
       "handoffs": []
     },
     {
@@ -197,7 +197,7 @@
       "url": "https://en.wikipedia.org/wiki/Goods_and_services_tax_(India)",
       "selector": "#mw-content-text",
       "status": "ok",
-      "last_checked_at": "2026-11-20T13:25:34+00:00",
+      "last_checked_at": "2026-11-21T12:54:05+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-08T11:26:57+00:00",
@@ -251,6 +251,24 @@
     }
   ],
   "changes": [
+    {
+      "id": 37,
+      "source_id": 3,
+      "source_name": "RBI notifications",
+      "detected_at": "2026-11-21T12:54:04+00:00",
+      "summary": "4 line(s) added, 4 removed. Added: MORE LINKS | RBI’s Vision and Values (652 kb) | Website last updated date: Nov 21, 2026 Removed: MORE LINKS : | RBI’s Vision and Values (652 KB) | Website last updated date: Nov 20, 2026",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -55,3 +55,3 @@\n Last Updated On: Nov 16, 2026\n-MORE LINKS :\n+MORE LINKS\n Bank Holidays\n@@ -72,3 +72,3 @@\n RBI Kehta Hai\n-RBI’s Vision and Values (652 KB)\n+RBI’s Vision and Values (652 kb)\n Right to Information Act\n@@ -85,3 +85,3 @@\n Website owned and managed by Reserve Bank of India. Contact us on helpdoc[at]rbi[dot]org[dot]in\n-Website last updated date: Nov 20, 2026\n+Website last updated date: Nov 21, 2026\n Web Information Manager\n@@ -743,3 +743,3 @@\n LINK: RBI Kehta Hai -> https://rbikehtahai.rbi.org.in/\n-LINK: RBI’s Vision and Values (652 KB) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf\n+LINK: RBI’s Vision and Values (652 kb) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf\n LINK: Right to Information Act -> https://www.rbi.org.in/Scripts/Righttoinfoact.aspx"
+    },
+    {
+      "id": 36,
+      "source_id": 1,
+      "source_name": "FSSAI notifications",
+      "detected_at": "2026-11-21T12:53:53+00:00",
+      "summary": "37 line(s) added, 37 removed. Added: अंतिम बार अद्यतन किया गयाः 21/11/2026 | Knowledge Hub | Myth Buster Removed: अंतिम बार अद्यतन किया गयाः 20/11/2026 | ज्ञान केंद्र | मिथक बस्टर",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -96,31 +96,31 @@\n टिप्पणियों के लिए नोटिस\n-अंतिम बार अद्यतन किया गयाः 20/11/2026\n+अंतिम बार अद्यतन किया गयाः 21/11/2026\n एफ. एस. एस. ए. आई.-भारत के प्रत्येक नागरिक के लिए सुरक्षित और संपूर्ण भोजन सुनिश्चित करना\n-ज्ञान केंद्र\n-मिथक बस्टर\n-वार्षिक रिपोर्ट\n-रचनात्मक सूचीपत्र\n-वीडियो पुस्तकालय\n-किताबें, रिपोर्ट और नियमावली\n-संसाधन\n-अनुसंधान और विकास\n-नौकरियां @एफ. एस. एस. ए. आई. (करियर)\n-इंटर्नशिप @एफएसएसएआई\n-निविदा/ई. ओ. आई\n-हमसे संपर्क करें\n-1800112100 (सुबह 9.00 बजे से शाम 6.00 बजे तक)\n+Knowledge Hub\n+Myth Buster\n+Annual Report\n+Creative Catalogue\n+Video Library\n+Books, Reports & Manuals\n+Resources\n+Research & Development\n+Jobs @ FSSAI (Careers)\n+Internship @ FSSAI\n+Tenders / EOI\n+Contact Us\n+1800112100 ( 09:00 AM To 06:00 PM)\n helpdesk-foscos[at]fssai[dot]gov[dot]in\n-हमारे बारे में\n+About Us\n |\n-हमसे संपर्क करें\n+Contact Us\n |\n-वेबसाइट नीतियाँ\n+Website Policies\n |\n-साइटमैप\n+Sitemap\n |\n-मदद करें\n+Help\n |\n-फीडबैक\n-© 2026 एफएसएसएआई। सभी अधिकार सुरक्षित हैं।\n-अंतिम बार अद्यतन किया गयाः 20 नवंबर 2026\n+Feedback\n+© 2026 FSSAI. All Rights Reserved.\n+Last Updated : 20 Nov 2026\n इस पृष्ठ का अनुवाद भाषिणी के ए. आई.-संचालित मॉडल का उपयोग करके किया गया है। स्रोत सामग्री अंग्रेजी में है। अनुवाद से संबंधित किसी भी प्रश्न के लिए, कृपया ceo-dibd@digitalindia.gov.in से संपर्क करें।\n@@ -161,16 +161,16 @@\n LINK: -> https://www.linkedin.com/company/food-safety-and-standards-authority-of-india/\n-LINK: मिथक बस्टर -> https://www.fssai.gov.in/myth-buster\n-LINK: वार्षिक रिपोर्ट -> https://www.fssai.gov.in/knowledge-hub?tab=annual-report\n-LINK: रचनात्मक सूचीपत्र -> https://www.fssai.gov.in/knowledge-hub/creative-catalogue\n-LINK: वीडियो पुस्तकालय -> https://www.fssai.gov.in/knowledge-hub?tab=video-library\n-LINK: किताबें, रिपोर्ट और नियमावली -> https://www.fssai.gov.in/knowledge-hub?tab=books\n-LINK: अनुसंधान और विकास -> https://www.fssai.gov.in/research-and-development\n-LINK: नौकरियां @एफ. एस. एस. ए. आई. (करियर) -> https://www.fssai.gov.in/jobs-at-fssai\n-LINK: इंटर्नशिप @एफएसएसएआई -> https://www.fssai.gov.in/internship-at-fssai\n-LINK: निविदा/ई. ओ. आई -> https://www.fssai.gov.in/tenders\n-LINK: हमारे बारे में -> https://www.fssai.gov.in/about-us\n-LINK: हमसे संपर्क करें -> https://www.fssai.gov.in/contact-us\n-LINK: वेबसाइट नीतियाँ -> https://www.fssai.gov.in/website-policies\n-LINK: साइटमैप -> https://www.fssai.gov.in/sitemap\n-LINK: मदद करें -> https://www.fssai.gov.in/help\n-LINK: फीडबैक -> https://www.fssai.gov.in/feedback\n+LINK: Myth Buster -> https://www.fssai.gov.in/myth-buster\n+LINK: Annual Report -> https://www.fssai.gov.in/knowledge-hub?tab=annual-report\n+LINK: Creative Catalogue -> https://www.fssai.gov.in/knowledge-hub/creative-catalogue\n+LINK: Video Library -> https://www.fssai.gov.in/knowledge-hub?tab=video-library\n+LINK: Books, Reports & Manuals -> https://www.fssai.gov.in/knowledge-hub?tab=books\n+LINK: Research & Development -> https://www.fssai.gov.in/research-and-development\n+LINK: Jobs @ FSSAI (Careers) -> https://www.fssai.gov.in/jobs-at-fssai\n+LINK: Internship @ FSSAI -> https://www.fssai.gov.in/internship-at-fssai\n+LINK: Tenders / EOI -> https://www.fssai.gov.in/tenders\n+LINK: About Us -> https://www.fssai.gov.in/about-us\n+LINK: Contact Us -> https://www.fssai.gov.in/contact-us\n+LINK: Website Policies -> https://www.fssai.gov.in/website-policies\n+LINK: Sitemap -> https://www.fssai.gov.in/sitemap\n+LINK: Help -> https://www.fssai.gov.in/help\n+LINK: Feedback -> https://www.fssai.gov.in/feedback"
+    },
     {
       "id": 35,
       "source_id": 3,
