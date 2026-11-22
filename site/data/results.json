@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T12:54:05+00:00",
-  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/44906112063",
+  "generated_at": "2026-11-22T12:47:08+00:00",
+  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/45024011214",
   "summary": {
     "sources": 4,
     "ok": 4,
     "blocked": 0,
     "error": 0,
-    "pending_changes": 37
+    "pending_changes": 39
   },
   "sources": [
     {
@@ -17,10 +17,10 @@
       "url": "https://www.fssai.gov.in/notifications.php",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-21T12:53:53+00:00",
+      "last_checked_at": "2026-11-22T12:46:57+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-21T12:53:53+00:00",
+        "taken_at": "2026-11-22T12:46:57+00:00",
         "line_count": 176,
         "lines": [
           "मेन्यू",
@@ -64,9 +64,9 @@
           "एफ. एस. एस. अधिनियम की धारा 43 (1) के तहत एन. ए. बी. एल. मान्यता प्राप्त प्रयोगशालाओं की राजपत्र अधिसूचना",
           "05-11-2026"
         ],
-        "screenshot": "snaps/s1_20261121T125353419393.jpg"
+        "screenshot": "snaps/s1_20261122T124657709004.jpg"
       },
-      "pending_changes": 17,
+      "pending_changes": 18,
       "handoffs": []
     },
     {
@@ -77,7 +77,7 @@
       "url": "https://cbic-gst.gov.in/hindi/central-tax-rate.html",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-21T12:53:59+00:00",
+      "last_checked_at": "2026-11-22T12:47:04+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-02T12:27:30+00:00",
@@ -137,10 +137,10 @@
       "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-21T12:54:04+00:00",
+      "last_checked_at": "2026-11-22T12:47:07+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-21T12:54:04+00:00",
+        "taken_at": "2026-11-22T12:47:07+00:00",
         "line_count": 758,
         "lines": [
           "Skip to main content",
@@ -184,9 +184,9 @@
           "Oct 19, 2026",
           "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 273 kb"
         ],
-        "screenshot": "snaps/s3_20261121T125404035053.jpg"
+        "screenshot": "snaps/s3_20261122T124707445825.jpg"
       },
-      "pending_changes": 19,
+      "pending_changes": 20,
       "handoffs": []
     },
     {
@@ -197,7 +197,7 @@
       "url": "https://en.wikipedia.org/wiki/Goods_and_services_tax_(India)",
       "selector": "#mw-content-text",
       "status": "ok",
-      "last_checked_at": "2026-11-21T12:54:05+00:00",
+      "last_checked_at": "2026-11-22T12:47:08+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-08T11:26:57+00:00",
@@ -251,6 +251,24 @@
     }
   ],
   "changes": [
+    {
+      "id": 39,
+      "source_id": 3,
+      "source_name": "RBI notifications",
+      "detected_at": "2026-11-22T12:47:07+00:00",
+      "summary": "3 line(s) added, 3 removed. Added: MORE LINKS : | RBI’s Vision and Values (652 KB) | LINK: RBI’s Vision and Values (652 KB) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf Removed: MORE LINKS | RBI’s Vision and Values (652 kb) | LINK: RBI’s Vision and Values (652 kb) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -55,3 +55,3 @@\n Last Updated On: Nov 16, 2026\n-MORE LINKS\n+MORE LINKS :\n Bank Holidays\n@@ -72,3 +72,3 @@\n RBI Kehta Hai\n-RBI’s Vision and Values (652 kb)\n+RBI’s Vision and Values (652 KB)\n Right to Information Act\n@@ -743,3 +743,3 @@\n LINK: RBI Kehta Hai -> https://rbikehtahai.rbi.org.in/\n-LINK: RBI’s Vision and Values (652 kb) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf\n+LINK: RBI’s Vision and Values (652 KB) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf\n LINK: Right to Information Act -> https://www.rbi.org.in/Scripts/Righttoinfoact.aspx"
+    },
+    {
+      "id": 38,
+      "source_id": 1,
+      "source_name": "FSSAI notifications",
+      "detected_at": "2026-11-22T12:46:57+00:00",
+      "summary": "1 line(s) added, 1 removed. Added: अंतिम बार अद्यतन किया गयाः 22/11/2026 Removed: अंतिम बार अद्यतन किया गयाः 21/11/2026",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -96,3 +96,3 @@\n टिप्पणियों के लिए नोटिस\n-अंतिम बार अद्यतन किया गयाः 21/11/2026\n+अंतिम बार अद्यतन किया गयाः 22/11/2026\n एफ. एस. एस. ए. आई.-भारत के प्रत्येक नागरिक के लिए सुरक्षित और संपूर्ण भोजन सुनिश्चित करना"
+    },
     {
       "id": 37,
       "source_id": 3,
