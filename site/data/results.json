@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-22T12:47:08+00:00",
-  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/45024011214",
+  "generated_at": "2026-11-23T15:09:12+00:00",
+  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/45201802474",
   "summary": {
     "sources": 4,
     "ok": 4,
     "blocked": 0,
     "error": 0,
-    "pending_changes": 39
+    "pending_changes": 41
   },
   "sources": [
     {
@@ -17,10 +17,10 @@
       "url": "https://www.fssai.gov.in/notifications.php",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-22T12:46:57+00:00",
+      "last_checked_at": "2026-11-23T15:09:00+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-22T12:46:57+00:00",
+        "taken_at": "2026-11-23T15:09:00+00:00",
         "line_count": 176,
         "lines": [
           "मेन्यू",
@@ -64,9 +64,9 @@
           "एफ. एस. एस. अधिनियम की धारा 43 (1) के तहत एन. ए. बी. एल. मान्यता प्राप्त प्रयोगशालाओं की राजपत्र अधिसूचना",
           "05-11-2026"
         ],
-        "screenshot": "snaps/s1_20261122T124657709004.jpg"
+        "screenshot": "snaps/s1_20261123T150900248611.jpg"
       },
-      "pending_changes": 18,
+      "pending_changes": 19,
       "handoffs": []
     },
     {
@@ -77,7 +77,7 @@
       "url": "https://cbic-gst.gov.in/hindi/central-tax-rate.html",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-22T12:47:04+00:00",
+      "last_checked_at": "2026-11-23T15:09:06+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-02T12:27:30+00:00",
@@ -137,11 +137,11 @@
       "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-22T12:47:07+00:00",
+      "last_checked_at": "2026-11-23T15:09:10+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-22T12:47:07+00:00",
-        "line_count": 758,
+        "taken_at": "2026-11-23T15:09:10+00:00",
+        "line_count": 761,
         "lines": [
           "Skip to main content",
           "Not Pressed",
@@ -165,6 +165,11 @@
           "Index to RBI Circulars",
           "Circulars Withdrawn",
           "NOTIFICATIONS",
+          "Nov 23, 2026",
+          "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 416 kb",
+          "Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026 419 kb",
+          "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 408 kb",
+          "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026 394 kb",
           "Nov 11, 2026",
           "Reserve Bank of India (Domestic Money Transfer) Directions, 2026 189 kb",
           "Nov 05, 2026",
@@ -177,16 +182,11 @@
           "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 262 kb",
           "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Removal of 03 Entries 285 kb",
           "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility 391 kb",
-          "Oct 23, 2026",
-          "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 245 kb",
-          "Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank 287 kb",
-          "Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026 567 kb",
-          "Oct 19, 2026",
-          "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 273 kb"
+          "Oct 23, 2026"
         ],
-        "screenshot": "snaps/s3_20261122T124707445825.jpg"
+        "screenshot": "snaps/s3_20261123T150910625854.jpg"
       },
-      "pending_changes": 20,
+      "pending_changes": 21,
       "handoffs": []
     },
     {
@@ -197,7 +197,7 @@
       "url": "https://en.wikipedia.org/wiki/Goods_and_services_tax_(India)",
       "selector": "#mw-content-text",
       "status": "ok",
-      "last_checked_at": "2026-11-22T12:47:08+00:00",
+      "last_checked_at": "2026-11-23T15:09:11+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-08T11:26:57+00:00",
@@ -251,6 +251,24 @@
     }
   ],
   "changes": [
+    {
+      "id": 41,
+      "source_id": 3,
+      "source_name": "RBI notifications",
+      "detected_at": "2026-11-23T15:09:10+00:00",
+      "summary": "15 line(s) added, 12 removed. Added: Nov 23, 2026 | Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 416 kb | Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026 419 kb Removed: Oct 19, 2026 | Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 273 kb | Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 255 kb",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -22,2 +22,7 @@\n NOTIFICATIONS\n+Nov 23, 2026\n+Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 416 kb\n+Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026 419 kb\n+Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 408 kb\n+Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026 394 kb\n Nov 11, 2026\n@@ -38,6 +43,2 @@\n Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026 567 kb\n-Oct 19, 2026\n-Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 273 kb\n-Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 255 kb\n-Reserve Bank of India (Commercial Banks - Miscellaneous) Second Amendment Directions, 2026 262 kb\n 2026\n@@ -54,3 +55,3 @@\n Back to previous page\n-Last Updated On: Nov 16, 2026\n+Last Updated On: Nov 23, 2026\n MORE LINKS :\n@@ -85,3 +86,3 @@\n Website owned and managed by Reserve Bank of India. Contact us on helpdoc[at]rbi[dot]org[dot]in\n-Website last updated date: Nov 21, 2026\n+Website last updated date: Nov 23, 2026\n Web Information Manager\n@@ -194,2 +195,10 @@\n LINK: Circulars Withdrawn -> https://www.rbi.org.in/Scripts/NotificationUserWithdrawnCircular.aspx\n+LINK: Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13756&Mode=0\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT307C0BF88BB07734852972E54F8B576AAC7.PDF\n+LINK: Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13755&Mode=0\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3067514ABFAA5774374811512162FA39EB4.PDF\n+LINK: Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13754&Mode=0\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT30511C215AE336743B58993F87C02ECC002.PDF\n+LINK: Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13753&Mode=0\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3043637FDEB03CF4D13A0F337D17BF78F0B.PDF\n LINK: Reserve Bank of India (Domestic Money Transfer) Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752&Mode=0\n@@ -214,8 +223,2 @@\n LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/297NTF24A93A6BC7943F2A35FACCE28E4ABC3.PDF\n-LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13742&Mode=0\n-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI2964177D6F8B5FA4B0A917BA90749E2394E.PDF\n-LINK: Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13741&Mode=0\n-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT29576C2A2CDED3247308333EE2DE9383863.PDF\n-LINK: Reserve Bank of India (Commercial Banks - Miscellaneous) Second Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13740&Mode=0\n-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/294NT8A37BD7CAFB1463E8FCD9E5CC9F4D45B.PDF\n LINK: 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx#"
+    },
+    {
+      "id": 40,
+      "source_id": 1,
+      "source_name": "FSSAI notifications",
+      "detected_at": "2026-11-23T15:09:00+00:00",
+      "summary": "2 line(s) added, 2 removed. Added: अंतिम बार अद्यतन किया गयाः 23/11/2026 | Last Updated : 23 Nov 2026 Removed: अंतिम बार अद्यतन किया गयाः 22/11/2026 | Last Updated : 20 Nov 2026",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -96,3 +96,3 @@\n टिप्पणियों के लिए नोटिस\n-अंतिम बार अद्यतन किया गयाः 22/11/2026\n+अंतिम बार अद्यतन किया गयाः 23/11/2026\n एफ. एस. एस. ए. आई.-भारत के प्रत्येक नागरिक के लिए सुरक्षित और संपूर्ण भोजन सुनिश्चित करना\n@@ -124,3 +124,3 @@\n © 2026 FSSAI. All Rights Reserved.\n-Last Updated : 20 Nov 2026\n+Last Updated : 23 Nov 2026\n इस पृष्ठ का अनुवाद भाषिणी के ए. आई.-संचालित मॉडल का उपयोग करके किया गया है। स्रोत सामग्री अंग्रेजी में है। अनुवाद से संबंधित किसी भी प्रश्न के लिए, कृपया ceo-dibd@digitalindia.gov.in से संपर्क करें।"
+    },
     {
       "id": 39,
       "source_id": 3,
