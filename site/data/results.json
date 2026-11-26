@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T14:47:55+00:00",
-  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/45637844492",
+  "generated_at": "2026-11-26T14:11:29+00:00",
+  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/45836381089",
   "summary": {
     "sources": 4,
     "ok": 4,
     "blocked": 0,
     "error": 0,
-    "pending_changes": 45
+    "pending_changes": 47
   },
   "sources": [
     {
@@ -17,10 +17,10 @@
       "url": "https://www.fssai.gov.in/notifications.php",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-25T14:47:43+00:00",
+      "last_checked_at": "2026-11-26T14:11:20+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-25T14:47:43+00:00",
+        "taken_at": "2026-11-26T14:11:20+00:00",
         "line_count": 176,
         "lines": [
           "मेन्यू",
@@ -64,9 +64,9 @@
           "एफ. एस. एस. अधिनियम की धारा 43 (1) के तहत एन. ए. बी. एल. मान्यता प्राप्त प्रयोगशालाओं की राजपत्र अधिसूचना",
           "05-11-2026"
         ],
-        "screenshot": "snaps/s1_20261125T144743651814.jpg"
+        "screenshot": "snaps/s1_20261126T141120010236.jpg"
       },
-      "pending_changes": 21,
+      "pending_changes": 22,
       "handoffs": []
     },
     {
@@ -77,7 +77,7 @@
       "url": "https://cbic-gst.gov.in/hindi/central-tax-rate.html",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-25T14:47:49+00:00",
+      "last_checked_at": "2026-11-26T14:11:25+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-02T12:27:30+00:00",
@@ -137,11 +137,11 @@
       "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-25T14:47:53+00:00",
+      "last_checked_at": "2026-11-26T14:11:28+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-25T14:47:53+00:00",
-        "line_count": 761,
+        "taken_at": "2026-11-26T14:11:28+00:00",
+        "line_count": 758,
         "lines": [
           "Skip to main content",
           "Not Pressed",
@@ -165,6 +165,9 @@
           "Index to RBI Circulars",
           "Circulars Withdrawn",
           "NOTIFICATIONS",
+          "Nov 26, 2026",
+          "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry 270 kb",
+          "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries 222 kb",
           "Nov 23, 2026",
           "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 416 kb",
           "Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026 419 kb",
@@ -179,14 +182,11 @@
           "Oct 30, 2026",
           "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries 255 kb",
           "Oct 27, 2026",
-          "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 262 kb",
-          "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Removal of 03 Entries 285 kb",
-          "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility 391 kb",
-          "Oct 23, 2026"
+          "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 262 kb"
         ],
-        "screenshot": "snaps/s3_20261125T144753758685.jpg"
+        "screenshot": "snaps/s3_20261126T141128246581.jpg"
       },
-      "pending_changes": 23,
+      "pending_changes": 24,
       "handoffs": []
     },
     {
@@ -197,7 +197,7 @@
       "url": "https://en.wikipedia.org/wiki/Goods_and_services_tax_(India)",
       "selector": "#mw-content-text",
       "status": "ok",
-      "last_checked_at": "2026-11-25T14:47:55+00:00",
+      "last_checked_at": "2026-11-26T14:11:29+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-08T11:26:57+00:00",
@@ -251,6 +251,24 @@
     }
   ],
   "changes": [
+    {
+      "id": 47,
+      "source_id": 3,
+      "source_name": "RBI notifications",
+      "detected_at": "2026-11-26T14:11:28+00:00",
+      "summary": "12 line(s) added, 15 removed. Added: Nov 26, 2026 | Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry 270 kb | Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries 222 kb Removed: Oct 23, 2026 | Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 245 kb | Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank 287 kb",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -22,2 +22,5 @@\n NOTIFICATIONS\n+Nov 26, 2026\n+Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry 270 kb\n+Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries 222 kb\n Nov 23, 2026\n@@ -39,6 +42,2 @@\n Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility 391 kb\n-Oct 23, 2026\n-Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 245 kb\n-Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank 287 kb\n-Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026 567 kb\n 2026\n@@ -55,4 +54,4 @@\n Back to previous page\n-Last Updated On: Nov 25, 2026\n-MORE LINKS\n+Last Updated On: Nov 26, 2026\n+MORE LINKS :\n Bank Holidays\n@@ -73,3 +72,3 @@\n RBI Kehta Hai\n-RBI’s Vision and Values (652 kb)\n+RBI’s Vision and Values (652 KB)\n Right to Information Act\n@@ -86,3 +85,3 @@\n Website owned and managed by Reserve Bank of India. Contact us on helpdoc[at]rbi[dot]org[dot]in\n-Website last updated date: Nov 25, 2026\n+Website last updated date: Nov 26, 2026\n Web Information Manager\n@@ -195,2 +194,6 @@\n LINK: Circulars Withdrawn -> https://www.rbi.org.in/Scripts/NotificationUserWithdrawnCircular.aspx\n+LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13758&Mode=0\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT309904E5207ECC44B5E833622063BA14EB2.PDF\n+LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13757&Mode=0\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT308C7580D31685C4B3689358B1095DA928F.PDF\n LINK: Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13756&Mode=0\n@@ -217,8 +220,2 @@\n LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT300F305FBB8AB71472391BE6B9C2D74EB35.PDF\n-LINK: Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13744&Mode=0\n-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT298343573D91EA4465B8CFF54B27EC977D5.PDF\n-LINK: Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13745&Mode=0\n-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT298AC9CBAC4415B41D5B6CE45FF58A5AB54.PDF\n-LINK: Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13743&Mode=0\n-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/297NTF24A93A6BC7943F2A35FACCE28E4ABC3.PDF\n LINK: 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx#\n@@ -746,3 +743,3 @@\n LINK: RBI Kehta Hai -> https://rbikehtahai.rbi.org.in/\n-LINK: RBI’s Vision and Values (652 kb) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf\n+LINK: RBI’s Vision and Values (652 KB) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf\n LINK: Right to Information Act -> https://www.rbi.org.in/Scripts/Righttoinfoact.aspx"
+    },
+    {
+      "id": 46,
+      "source_id": 1,
+      "source_name": "FSSAI notifications",
+      "detected_at": "2026-11-26T14:11:20+00:00",
+      "summary": "37 line(s) added, 37 removed. Added: अंतिम बार अद्यतन किया गयाः 26/11/2026 | ज्ञान केंद्र | मिथक बस्टर Removed: अंतिम बार अद्यतन किया गयाः 25/11/2026 | Knowledge Hub | Myth Buster",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -96,31 +96,31 @@\n टिप्पणियों के लिए नोटिस\n-अंतिम बार अद्यतन किया गयाः 25/11/2026\n+अंतिम बार अद्यतन किया गयाः 26/11/2026\n एफ. एस. एस. ए. आई.-भारत के प्रत्येक नागरिक के लिए सुरक्षित और संपूर्ण भोजन सुनिश्चित करना\n-Knowledge Hub\n-Myth Buster\n-Annual Report\n-Creative Catalogue\n-Video Library\n-Books, Reports & Manuals\n-Resources\n-Research & Development\n-Jobs @ FSSAI (Careers)\n-Internship @ FSSAI\n-Tenders / EOI\n-Contact Us\n-1800112100 ( 09:00 AM To 06:00 PM)\n+ज्ञान केंद्र\n+मिथक बस्टर\n+वार्षिक रिपोर्ट\n+रचनात्मक सूचीपत्र\n+वीडियो पुस्तकालय\n+किताबें, रिपोर्ट और नियमावली\n+संसाधन\n+अनुसंधान और विकास\n+नौकरियां @एफएसएसएआई (करियर)\n+इंटर्नशिप @एफएसएसएआई\n+निविदा/ई. ओ. आई\n+हमसे संपर्क करें\n+1800112100 (सुबह 9.00 बजे से शाम 6.00 बजे तक)\n helpdesk-foscos[at]fssai[dot]gov[dot]in\n-About Us\n+हमारे बारे में\n |\n-Contact Us\n+हमसे संपर्क करें\n |\n-Website Policies\n+वेबसाइट नीतियाँ\n |\n-Sitemap\n+साइटमैप\n |\n-Help\n+मदद करें\n |\n-Feedback\n-© 2026 FSSAI. All Rights Reserved.\n-Last Updated : 25 Nov 2026\n+फीडबैक\n+© 2026 एफएसएसएआई। सभी अधिकार सुरक्षित हैं।\n+अंतिम बार अद्यतन किया गयाः 25 नवंबर 2026\n इस पृष्ठ का अनुवाद भाषिणी के ए. आई.-संचालित मॉडल का उपयोग करके किया गया है। स्रोत सामग्री अंग्रेजी में है। अनुवाद से संबंधित किसी भी प्रश्न के लिए, कृपया ceo-dibd@digitalindia.gov.in से संपर्क करें।\n@@ -161,16 +161,16 @@\n LINK: -> https://www.linkedin.com/company/food-safety-and-standards-authority-of-india/\n-LINK: Myth Buster -> https://www.fssai.gov.in/myth-buster\n-LINK: Annual Report -> https://www.fssai.gov.in/knowledge-hub?tab=annual-report\n-LINK: Creative Catalogue -> https://www.fssai.gov.in/knowledge-hub/creative-catalogue\n-LINK: Video Library -> https://www.fssai.gov.in/knowledge-hub?tab=video-library\n-LINK: Books, Reports & Manuals -> https://www.fssai.gov.in/knowledge-hub?tab=books\n-LINK: Research & Development -> https://www.fssai.gov.in/research-and-development\n-LINK: Jobs @ FSSAI (Careers) -> https://www.fssai.gov.in/jobs-at-fssai\n-LINK: Internship @ FSSAI -> https://www.fssai.gov.in/internship-at-fssai\n-LINK: Tenders / EOI -> https://www.fssai.gov.in/tenders\n-LINK: About Us -> https://www.fssai.gov.in/about-us\n-LINK: Contact Us -> https://www.fssai.gov.in/contact-us\n-LINK: Website Policies -> https://www.fssai.gov.in/website-policies\n-LINK: Sitemap -> https://www.fssai.gov.in/sitemap\n-LINK: Help -> https://www.fssai.gov.in/help\n-LINK: Feedback -> https://www.fssai.gov.in/feedback\n+LINK: मिथक बस्टर -> https://www.fssai.gov.in/myth-buster\n+LINK: वार्षिक रिपोर्ट -> https://www.fssai.gov.in/knowledge-hub?tab=annual-report\n+LINK: रचनात्मक सूचीपत्र -> https://www.fssai.gov.in/knowledge-hub/creative-catalogue\n+LINK: वीडियो पुस्तकालय -> https://www.fssai.gov.in/knowledge-hub?tab=video-library\n+LINK: किताबें, रिपोर्ट और नियमावली -> https://www.fssai.gov.in/knowledge-hub?tab=books\n+LINK: अनुसंधान और विकास -> https://www.fssai.gov.in/research-and-development\n+LINK: नौकरियां @एफएसएसएआई (करियर) -> https://www.fssai.gov.in/jobs-at-fssai\n+LINK: इंटर्नशिप @एफएसएसएआई -> https://www.fssai.gov.in/internship-at-fssai\n+LINK: निविदा/ई. ओ. आई -> https://www.fssai.gov.in/tenders\n+LINK: हमारे बारे में -> https://www.fssai.gov.in/about-us\n+LINK: हमसे संपर्क करें -> https://www.fssai.gov.in/contact-us\n+LINK: वेबसाइट नीतियाँ -> https://www.fssai.gov.in/website-policies\n+LINK: साइटमैप -> https://www.fssai.gov.in/sitemap\n+LINK: मदद करें -> https://www.fssai.gov.in/help\n+LINK: फीडबैक -> https://www.fssai.gov.in/feedback"
+    },
     {
       "id": 45,
       "source_id": 3,

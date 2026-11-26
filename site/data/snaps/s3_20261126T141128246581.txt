@@ -20,6 +20,9 @@ Draft Notifications/ Guidelines
 Index to RBI Circulars
 Circulars Withdrawn
 NOTIFICATIONS
+Nov 26, 2026
+Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry 270 kb
+Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries 222 kb
 Nov 23, 2026
 Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 416 kb
 Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026 419 kb
@@ -37,10 +40,6 @@ Oct 27, 2026
 Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 262 kb
 Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Removal of 03 Entries 285 kb
 Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility 391 kb
-Oct 23, 2026
-Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 245 kb
-Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank 287 kb
-Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026 567 kb
 2026
 2025
 2024
@@ -53,7 +52,7 @@ Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy
 2017
 Archives
 Back to previous page
-Last Updated On: Nov 23, 2026
+Last Updated On: Nov 26, 2026
 MORE LINKS :
 Bank Holidays
 Banking Glossary
@@ -84,7 +83,7 @@ LinkedIn
 © Reserve Bank of India. All Rights Reserved.
 Sitemap | Disclaimer and Website Policies
 Website owned and managed by Reserve Bank of India. Contact us on helpdoc[at]rbi[dot]org[dot]in
-Website last updated date: Nov 24, 2026
+Website last updated date: Nov 26, 2026
 Web Information Manager
 Accessibility Statement (133 KB) |Screen Reader and Accessibility Help
 Supports: Google Chrome 147+ | Firefox 150+ | Microsoft Edge Version 147+ | Safari 17+
@@ -193,6 +192,10 @@ LINK: Draft Notifications/ Guidelines -> https://www.rbi.org.in/Scripts/DraftNot
 LINK: Draft Directions (RE-wise) -> https://www.rbi.org.in/Scripts/BS_ViewREwiseDraftDirections.aspx
 LINK: Index to RBI Circulars -> https://www.rbi.org.in/Scripts/BS_CircularIndexDisplay.aspx
 LINK: Circulars Withdrawn -> https://www.rbi.org.in/Scripts/NotificationUserWithdrawnCircular.aspx
+LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13758&Mode=0
+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT309904E5207ECC44B5E833622063BA14EB2.PDF
+LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13757&Mode=0
+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT308C7580D31685C4B3689358B1095DA928F.PDF
 LINK: Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13756&Mode=0
 LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT307C0BF88BB07734852972E54F8B576AAC7.PDF
 LINK: Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13755&Mode=0
@@ -215,12 +218,6 @@ LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 198
 LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3013F135D4783BE47B18D037114D5923B44.PDF
 LINK: Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13746&Mode=0
 LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT300F305FBB8AB71472391BE6B9C2D74EB35.PDF
-LINK: Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13744&Mode=0
-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT298343573D91EA4465B8CFF54B27EC977D5.PDF
-LINK: Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13745&Mode=0
-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT298AC9CBAC4415B41D5B6CE45FF58A5AB54.PDF
-LINK: Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13743&Mode=0
-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/297NTF24A93A6BC7943F2A35FACCE28E4ABC3.PDF
 LINK: 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx#
 LINK: All Months -> https://www.rbi.org.in/Scripts/NotificationUser.aspx#
 LINK: January -> https://www.rbi.org.in/Scripts/NotificationUser.aspx#
