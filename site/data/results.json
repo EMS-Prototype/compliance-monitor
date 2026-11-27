@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T14:11:29+00:00",
-  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/45836381089",
+  "generated_at": "2026-11-27T14:09:02+00:00",
+  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/46013161032",
   "summary": {
     "sources": 4,
     "ok": 4,
     "blocked": 0,
     "error": 0,
-    "pending_changes": 47
+    "pending_changes": 49
   },
   "sources": [
     {
@@ -17,10 +17,10 @@
       "url": "https://www.fssai.gov.in/notifications.php",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-26T14:11:20+00:00",
+      "last_checked_at": "2026-11-27T14:08:50+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-26T14:11:20+00:00",
+        "taken_at": "2026-11-27T14:08:50+00:00",
         "line_count": 176,
         "lines": [
           "मेन्यू",
@@ -64,9 +64,9 @@
           "एफ. एस. एस. अधिनियम की धारा 43 (1) के तहत एन. ए. बी. एल. मान्यता प्राप्त प्रयोगशालाओं की राजपत्र अधिसूचना",
           "05-11-2026"
         ],
-        "screenshot": "snaps/s1_20261126T141120010236.jpg"
+        "screenshot": "snaps/s1_20261127T140850478704.jpg"
       },
-      "pending_changes": 22,
+      "pending_changes": 23,
       "handoffs": []
     },
     {
@@ -77,7 +77,7 @@
       "url": "https://cbic-gst.gov.in/hindi/central-tax-rate.html",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-26T14:11:25+00:00",
+      "last_checked_at": "2026-11-27T14:08:57+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-02T12:27:30+00:00",
@@ -137,10 +137,10 @@
       "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-26T14:11:28+00:00",
+      "last_checked_at": "2026-11-27T14:09:01+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-26T14:11:28+00:00",
+        "taken_at": "2026-11-27T14:09:01+00:00",
         "line_count": 758,
         "lines": [
           "Skip to main content",
@@ -165,6 +165,11 @@
           "Index to RBI Circulars",
           "Circulars Withdrawn",
           "NOTIFICATIONS",
+          "Nov 27, 2026",
+          "Reserve Bank of India (White Label ATM Operators) Directions, 2026 230 kb",
+          "Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026 309 kb",
+          "Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026 370 kb",
+          "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement 223 kb",
           "Nov 26, 2026",
           "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry 270 kb",
           "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries 222 kb",
@@ -177,16 +182,11 @@
           "Reserve Bank of India (Domestic Money Transfer) Directions, 2026 189 kb",
           "Nov 05, 2026",
           "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators 374 kb",
-          "Nov 03, 2026",
-          "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026 132 kb",
-          "Oct 30, 2026",
-          "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries 255 kb",
-          "Oct 27, 2026",
-          "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 262 kb"
+          "Nov 03, 2026"
         ],
-        "screenshot": "snaps/s3_20261126T141128246581.jpg"
+        "screenshot": "snaps/s3_20261127T140901488529.jpg"
       },
-      "pending_changes": 24,
+      "pending_changes": 25,
       "handoffs": []
     },
     {
@@ -197,7 +197,7 @@
       "url": "https://en.wikipedia.org/wiki/Goods_and_services_tax_(India)",
       "selector": "#mw-content-text",
       "status": "ok",
-      "last_checked_at": "2026-11-26T14:11:29+00:00",
+      "last_checked_at": "2026-11-27T14:09:02+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-08T11:26:57+00:00",
@@ -251,6 +251,24 @@
     }
   ],
   "changes": [
+    {
+      "id": 49,
+      "source_id": 3,
+      "source_name": "RBI notifications",
+      "detected_at": "2026-11-27T14:09:01+00:00",
+      "summary": "12 line(s) added, 12 removed. Added: Nov 27, 2026 | Reserve Bank of India (White Label ATM Operators) Directions, 2026 230 kb | Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026 309 kb Removed: Oct 27, 2026 | Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 262 kb | Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Removal of 03 Entries 285 kb",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -22,2 +22,7 @@\n NOTIFICATIONS\n+Nov 27, 2026\n+Reserve Bank of India (White Label ATM Operators) Directions, 2026 230 kb\n+Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026 309 kb\n+Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026 370 kb\n+Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement 223 kb\n Nov 26, 2026\n@@ -38,6 +43,2 @@\n Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries 255 kb\n-Oct 27, 2026\n-Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 262 kb\n-Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Removal of 03 Entries 285 kb\n-Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility 391 kb\n 2026\n@@ -54,3 +55,3 @@\n Back to previous page\n-Last Updated On: Nov 26, 2026\n+Last Updated On: Nov 27, 2026\n MORE LINKS :\n@@ -85,3 +86,3 @@\n Website owned and managed by Reserve Bank of India. Contact us on helpdoc[at]rbi[dot]org[dot]in\n-Website last updated date: Nov 26, 2026\n+Website last updated date: Nov 27, 2026\n Web Information Manager\n@@ -194,2 +195,7 @@\n LINK: Circulars Withdrawn -> https://www.rbi.org.in/Scripts/NotificationUserWithdrawnCircular.aspx\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MD4797B5FE2A6E13040789D13068AEBF7A964.PDF\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MD478B97A8B21B85D417E96D2FA9EDC2A2A8E.PDF\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/477MD27112026EF6EF971FB54489288F4B731B409D9CE.PDF\n+LINK: Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13759&Mode=0\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/310NTFF0FFDF6AF554020849CBE9D36E4E36E.PDF\n LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13758&Mode=0\n@@ -214,8 +220,2 @@\n LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT30314AC275308034E98A5E239A91CEAA5A7.PDF\n-LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13748&Mode=0\n-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT302E49744F98EB44A8EACBC0B6D70E470B8.PDF\n-LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Removal of 03 Entries -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13747&Mode=0\n-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3013F135D4783BE47B18D037114D5923B44.PDF\n-LINK: Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13746&Mode=0\n-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT300F305FBB8AB71472391BE6B9C2D74EB35.PDF\n LINK: 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx#"
+    },
+    {
+      "id": 48,
+      "source_id": 1,
+      "source_name": "FSSAI notifications",
+      "detected_at": "2026-11-27T14:08:50+00:00",
+      "summary": "4 line(s) added, 4 removed. Added: एफ. एस. एस. अधिनियम/नियमों/विनियमों के अनुरूप नमूनों के विश्लेषण के लिए समयरेखा, विश्लेषण की विधि और परीक्षण रिपोर्ट प्रारूपों से संबंधित खाद्य सुरक्षा और मानकों (प्रयोगशाला और नमूना विश्लेषण) संशोधन विनियम, 2026 की राजपत्र अधिसूचना | अंतिम बार अद्यतन किया गयाः 27/11/2026 | वीडियो लाइब्रेरी Removed: एफ. एस. एस. अधिनियम/नियमों/विनियमों के अनुरूप नमूनों के विश्लेषण, विश्लेषण की विधि और परीक्षण रिपोर्ट प्रारूपों के लिए समय-सीमा से संबंधित खाद्य सुरक्षा और मानकों (प्रयोगशाला और नमूना विश्लेषण) संशोधन विनियम, 2026 की राजपत्र अधिसूचना | अंतिम बार अद्यतन किया गयाः 26/11/2026 | वीडियो पुस्तकालय",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -74,3 +74,3 @@\n 10\n-एफ. एस. एस. अधिनियम/नियमों/विनियमों के अनुरूप नमूनों के विश्लेषण, विश्लेषण की विधि और परीक्षण रिपोर्ट प्रारूपों के लिए समय-सीमा से संबंधित खाद्य सुरक्षा और मानकों (प्रयोगशाला और नमूना विश्लेषण) संशोधन विनियम, 2026 की राजपत्र अधिसूचना\n+एफ. एस. एस. अधिनियम/नियमों/विनियमों के अनुरूप नमूनों के विश्लेषण के लिए समयरेखा, विश्लेषण की विधि और परीक्षण रिपोर्ट प्रारूपों से संबंधित खाद्य सुरक्षा और मानकों (प्रयोगशाला और नमूना विश्लेषण) संशोधन विनियम, 2026 की राजपत्र अधिसूचना\n 18-09-2026\n@@ -96,3 +96,3 @@\n टिप्पणियों के लिए नोटिस\n-अंतिम बार अद्यतन किया गयाः 26/11/2026\n+अंतिम बार अद्यतन किया गयाः 27/11/2026\n एफ. एस. एस. ए. आई.-भारत के प्रत्येक नागरिक के लिए सुरक्षित और संपूर्ण भोजन सुनिश्चित करना\n@@ -102,3 +102,3 @@\n रचनात्मक सूचीपत्र\n-वीडियो पुस्तकालय\n+वीडियो लाइब्रेरी\n किताबें, रिपोर्ट और नियमावली\n@@ -164,3 +164,3 @@\n LINK: रचनात्मक सूचीपत्र -> https://www.fssai.gov.in/knowledge-hub/creative-catalogue\n-LINK: वीडियो पुस्तकालय -> https://www.fssai.gov.in/knowledge-hub?tab=video-library\n+LINK: वीडियो लाइब्रेरी -> https://www.fssai.gov.in/knowledge-hub?tab=video-library\n LINK: किताबें, रिपोर्ट और नियमावली -> https://www.fssai.gov.in/knowledge-hub?tab=books"
+    },
     {
       "id": 47,
       "source_id": 3,
