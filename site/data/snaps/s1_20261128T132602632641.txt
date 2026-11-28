@@ -94,17 +94,17 @@
 सलाह/आदेश
 ›
 टिप्पणियों के लिए नोटिस
-अंतिम बार अद्यतन किया गयाः 26/11/2026
+अंतिम बार अद्यतन किया गयाः 28/11/2026
 एफ. एस. एस. ए. आई.-भारत के प्रत्येक नागरिक के लिए सुरक्षित और संपूर्ण भोजन सुनिश्चित करना
 ज्ञान केंद्र
 मिथक बस्टर
 वार्षिक रिपोर्ट
 रचनात्मक सूचीपत्र
-वीडियो पुस्तकालय
+वीडियो लाइब्रेरी
 किताबें, रिपोर्ट और नियमावली
 संसाधन
 अनुसंधान और विकास
-नौकरियां @एफएसएसएआई (करियर)
+नौकरियां @एफ. एस. एस. ए. आई. (करियर)
 इंटर्नशिप @एफएसएसएआई
 निविदा/ई. ओ. आई
 हमसे संपर्क करें
@@ -162,10 +162,10 @@ LINK: -> https://www.linkedin.com/company/food-safety-and-standards-authority-of
 LINK: मिथक बस्टर -> https://www.fssai.gov.in/myth-buster
 LINK: वार्षिक रिपोर्ट -> https://www.fssai.gov.in/knowledge-hub?tab=annual-report
 LINK: रचनात्मक सूचीपत्र -> https://www.fssai.gov.in/knowledge-hub/creative-catalogue
-LINK: वीडियो पुस्तकालय -> https://www.fssai.gov.in/knowledge-hub?tab=video-library
+LINK: वीडियो लाइब्रेरी -> https://www.fssai.gov.in/knowledge-hub?tab=video-library
 LINK: किताबें, रिपोर्ट और नियमावली -> https://www.fssai.gov.in/knowledge-hub?tab=books
 LINK: अनुसंधान और विकास -> https://www.fssai.gov.in/research-and-development
-LINK: नौकरियां @एफएसएसएआई (करियर) -> https://www.fssai.gov.in/jobs-at-fssai
+LINK: नौकरियां @एफ. एस. एस. ए. आई. (करियर) -> https://www.fssai.gov.in/jobs-at-fssai
 LINK: इंटर्नशिप @एफएसएसएआई -> https://www.fssai.gov.in/internship-at-fssai
 LINK: निविदा/ई. ओ. आई -> https://www.fssai.gov.in/tenders
 LINK: हमारे बारे में -> https://www.fssai.gov.in/about-us

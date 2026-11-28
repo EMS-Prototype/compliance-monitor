@@ -20,6 +20,17 @@ Draft Notifications/ Guidelines
 Index to RBI Circulars
 Circulars Withdrawn
 NOTIFICATIONS
+Nov 27, 2026
+Reserve Bank of India (Payment Banks - Know Your Customer) Amendment Directions, 2026 242 kb
+Reserve Bank of India (Urban Co-operative Banks - Know Your Customer) Second Amendment Directions, 2026 242 kb
+Reserve Bank of India (Regional Rural Banks - Know Your Customer) Second Amendment Directions, 2026 246 kb
+Reserve Bank of India (Local Area Banks - Know Your Customer) Second Amendment Directions, 2026 246 kb
+Reserve Bank of India (Small Finance Banks - Know Your Customer) Second Amendment Directions, 2026 246 kb
+Reserve Bank of India (Commercial Banks - Know Your Customer) Second Amendment Directions, 2026 242 kb
+Reserve Bank of India (White Label ATM Operators) Directions, 2026 230 kb
+Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026 310 kb
+Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026 433 kb
+Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement 223 kb
 Nov 26, 2026
 Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry 270 kb
 Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries 222 kb
@@ -36,10 +47,6 @@ Nov 03, 2026
 Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026 132 kb
 Oct 30, 2026
 Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries 255 kb
-Oct 27, 2026
-Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries 262 kb
-Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Removal of 03 Entries 285 kb
-Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility 391 kb
 2026
 2025
 2024
@@ -52,8 +59,8 @@ Re-organisation of districts in the NCT of Delhi – Assignment and Review of Le
 2017
 Archives
 Back to previous page
-Last Updated On: Nov 26, 2026
-MORE LINKS :
+Last Updated On: Nov 28, 2026
+MORE LINKS
 Bank Holidays
 Banking Glossary
 Citizen's Charter
@@ -70,7 +77,7 @@ Important Websites
 Opportunities@RBI
 RBI Clarifications
 RBI Kehta Hai
-RBI’s Vision and Values (652 KB)
+RBI’s Vision and Values (652 kb)
 Right to Information Act
 Tenders
 FOLLOW RBI
@@ -83,7 +90,7 @@ LinkedIn
 © Reserve Bank of India. All Rights Reserved.
 Sitemap | Disclaimer and Website Policies
 Website owned and managed by Reserve Bank of India. Contact us on helpdoc[at]rbi[dot]org[dot]in
-Website last updated date: Nov 26, 2026
+Website last updated date: Nov 28, 2026
 Web Information Manager
 Accessibility Statement (133 KB) |Screen Reader and Accessibility Help
 Supports: Google Chrome 147+ | Firefox 150+ | Microsoft Edge Version 147+ | Safari 17+
@@ -192,6 +199,26 @@ LINK: Draft Notifications/ Guidelines -> https://www.rbi.org.in/Scripts/DraftNot
 LINK: Draft Directions (RE-wise) -> https://www.rbi.org.in/Scripts/BS_ViewREwiseDraftDirections.aspx
 LINK: Index to RBI Circulars -> https://www.rbi.org.in/Scripts/BS_CircularIndexDisplay.aspx
 LINK: Circulars Withdrawn -> https://www.rbi.org.in/Scripts/NotificationUserWithdrawnCircular.aspx
+LINK: Reserve Bank of India (Payment Banks - Know Your Customer) Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13768&Mode=0
+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI3160034F4085AC24678A877596FB6913F30.PDF
+LINK: Reserve Bank of India (Urban Co-operative Banks - Know Your Customer) Second Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13767&Mode=0
+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT31549F0D9FEE2FD4B3F82B48E08FEE4C6FD.PDF
+LINK: Reserve Bank of India (Regional Rural Banks - Know Your Customer) Second Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13766&Mode=0
+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI3145E619244785C4FBD902150185BB9994F.PDF
+LINK: Reserve Bank of India (Local Area Banks - Know Your Customer) Second Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13765&Mode=0
+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3131A6E10F0F2D948FA91ED1E6CB60D6772.PDF
+LINK: Reserve Bank of India (Small Finance Banks - Know Your Customer) Second Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13764&Mode=0
+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI3124A40B3EDFBCF4DAA920AC3E218C451BB.PDF
+LINK: Reserve Bank of India (Commercial Banks - Know Your Customer) Second Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13763&Mode=0
+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT311F735490DD0924A92AEB17144557F391A.PDF
+LINK: Reserve Bank of India (White Label ATM Operators) Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13762&Mode=0
+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MD4797B5FE2A6E13040789D13068AEBF7A964.PDF
+LINK: Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13761&Mode=0
+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MD478B97A8B21B85D417E96D2FA9EDC2A2A8E.PDF
+LINK: Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13760&Mode=0
+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/477MD27112026EF6EF971FB54489288F4B731B409D9CE.PDF
+LINK: Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13759&Mode=0
+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/310NTFF0FFDF6AF554020849CBE9D36E4E36E.PDF
 LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13758&Mode=0
 LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT309904E5207ECC44B5E833622063BA14EB2.PDF
 LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13757&Mode=0
@@ -212,12 +239,6 @@ LINK: Foreign Exchange Management (Export and Import of Goods and Services) (Sec
 LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FEMA23RA03112026F5D7706996DD3493DAD9E0899C64D4793.PDF
 LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13749&Mode=0
 LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT30314AC275308034E98A5E239A91CEAA5A7.PDF
-LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13748&Mode=0
-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT302E49744F98EB44A8EACBC0B6D70E470B8.PDF
-LINK: Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Removal of 03 Entries -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13747&Mode=0
-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3013F135D4783BE47B18D037114D5923B44.PDF
-LINK: Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13746&Mode=0
-LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT300F305FBB8AB71472391BE6B9C2D74EB35.PDF
 LINK: 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx#
 LINK: All Months -> https://www.rbi.org.in/Scripts/NotificationUser.aspx#
 LINK: January -> https://www.rbi.org.in/Scripts/NotificationUser.aspx#
@@ -741,7 +762,7 @@ LINK: Important Websites -> https://www.rbi.org.in/Scripts/OtherLinks.aspx
 LINK: Opportunities@RBI -> https://opportunities.rbi.org.in/scripts/index.aspx
 LINK: RBI Clarifications -> https://www.rbi.org.in/Scripts/rbi_clarification.aspx
 LINK: RBI Kehta Hai -> https://rbikehtahai.rbi.org.in/
-LINK: RBI’s Vision and Values (652 KB) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf
+LINK: RBI’s Vision and Values (652 kb) -> https://rbidocs.rbi.org.in/rdocs/content/pdfs/Utkarsh202910042026.pdf
 LINK: Right to Information Act -> https://www.rbi.org.in/Scripts/Righttoinfoact.aspx
 LINK: Tenders -> https://www.rbi.org.in/Scripts/BS_ViewTenders.aspx
 LINK: RSS -> https://www.rbi.org.in/Scripts/rss.aspx

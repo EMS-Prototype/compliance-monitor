@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T14:09:02+00:00",
-  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/46013161032",
+  "generated_at": "2026-11-28T13:26:13+00:00",
+  "run_url": "https://github.com/EMS-Prototype/compliance-monitor/actions/runs/46149546604",
   "summary": {
     "sources": 4,
     "ok": 4,
     "blocked": 0,
     "error": 0,
-    "pending_changes": 49
+    "pending_changes": 52
   },
   "sources": [
     {
@@ -17,10 +17,10 @@
       "url": "https://www.fssai.gov.in/notifications.php",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-27T14:08:50+00:00",
+      "last_checked_at": "2026-11-28T13:26:02+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-27T14:08:50+00:00",
+        "taken_at": "2026-11-28T13:26:02+00:00",
         "line_count": 176,
         "lines": [
           "मेन्यू",
@@ -64,9 +64,9 @@
           "एफ. एस. एस. अधिनियम की धारा 43 (1) के तहत एन. ए. बी. एल. मान्यता प्राप्त प्रयोगशालाओं की राजपत्र अधिसूचना",
           "05-11-2026"
         ],
-        "screenshot": "snaps/s1_20261127T140850478704.jpg"
+        "screenshot": "snaps/s1_20261128T132602632641.jpg"
       },
-      "pending_changes": 23,
+      "pending_changes": 24,
       "handoffs": []
     },
     {
@@ -77,7 +77,7 @@
       "url": "https://cbic-gst.gov.in/hindi/central-tax-rate.html",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-27T14:08:57+00:00",
+      "last_checked_at": "2026-11-28T13:26:08+00:00",
       "last_error": null,
       "latest": {
         "taken_at": "2026-11-02T12:27:30+00:00",
@@ -137,11 +137,11 @@
       "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
       "selector": "",
       "status": "ok",
-      "last_checked_at": "2026-11-27T14:09:01+00:00",
+      "last_checked_at": "2026-11-28T13:26:12+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-27T14:09:01+00:00",
-        "line_count": 758,
+        "taken_at": "2026-11-28T13:26:12+00:00",
+        "line_count": 779,
         "lines": [
           "Skip to main content",
           "Not Pressed",
@@ -166,9 +166,15 @@
           "Circulars Withdrawn",
           "NOTIFICATIONS",
           "Nov 27, 2026",
+          "Reserve Bank of India (Payment Banks - Know Your Customer) Amendment Directions, 2026 242 kb",
+          "Reserve Bank of India (Urban Co-operative Banks - Know Your Customer) Second Amendment Directions, 2026 242 kb",
+          "Reserve Bank of India (Regional Rural Banks - Know Your Customer) Second Amendment Directions, 2026 246 kb",
+          "Reserve Bank of India (Local Area Banks - Know Your Customer) Second Amendment Directions, 2026 246 kb",
+          "Reserve Bank of India (Small Finance Banks - Know Your Customer) Second Amendment Directions, 2026 246 kb",
+          "Reserve Bank of India (Commercial Banks - Know Your Customer) Second Amendment Directions, 2026 242 kb",
           "Reserve Bank of India (White Label ATM Operators) Directions, 2026 230 kb",
-          "Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026 309 kb",
-          "Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026 370 kb",
+          "Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026 310 kb",
+          "Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026 433 kb",
           "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement 223 kb",
           "Nov 26, 2026",
           "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry 270 kb",
@@ -176,17 +182,11 @@
           "Nov 23, 2026",
           "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 416 kb",
           "Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026 419 kb",
-          "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 408 kb",
-          "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026 394 kb",
-          "Nov 11, 2026",
-          "Reserve Bank of India (Domestic Money Transfer) Directions, 2026 189 kb",
-          "Nov 05, 2026",
-          "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators 374 kb",
-          "Nov 03, 2026"
+          "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 408 kb"
         ],
-        "screenshot": "snaps/s3_20261127T140901488529.jpg"
+        "screenshot": "snaps/s3_20261128T132611712056.jpg"
       },
-      "pending_changes": 25,
+      "pending_changes": 26,
       "handoffs": []
     },
     {
@@ -197,11 +197,11 @@
       "url": "https://en.wikipedia.org/wiki/Goods_and_services_tax_(India)",
       "selector": "#mw-content-text",
       "status": "ok",
-      "last_checked_at": "2026-11-27T14:09:02+00:00",
+      "last_checked_at": "2026-11-28T13:26:13+00:00",
       "last_error": null,
       "latest": {
-        "taken_at": "2026-11-08T11:26:57+00:00",
-        "line_count": 47,
+        "taken_at": "2026-11-28T13:26:13+00:00",
+        "line_count": 46,
         "lines": [
           "Look for Goods and services tax (India) on one of Wikipedia's sister projects:",
           "Wiktionary (dictionary)",
@@ -213,13 +213,13 @@
           "Wikivoyage (travel guide)",
           "Wikidata (linked database)",
           "Wikispecies (species directory)",
-          "Wikipedia does not have an article with this exact name. Please search for Goods and services tax (India) in Wikipedia to check for alternative titles or spellings.",
+          "Wikipedia does not have an article with this exact name.",
           "You need to log in or create an account and be autoconfirmed to create new articles. Alternatively, you can use the article wizard to submit a draft for review, or request a new article.",
           "Search for \"Goods and services tax (India)\" in existing articles.",
           "Look for pages within Wikipedia that link to this title.",
           "Other reasons this message may be displayed:",
-          "Titles on Wikipedia are case sensitive except for the first character; please check alternative capitalizations and consider adding a redirect here to the correct title.",
-          "If the page has been deleted, check the deletion log, and see Why was the page I created deleted?",
+          "Page titles are case sensitive; please search for this title to check if alternative capitalizations exist and consider adding a redirect here to the correct title.",
+          "If you created this page, check the deletion log and see Why was the page I created deleted?",
           "LINK: sister projects -> https://en.wikipedia.org/wiki/Special:SiteMatrix",
           "LINK: -> https://en.wikipedia.org/wiki/File:Wiktionary-logo-en-v2.svg",
           "LINK: Wiktionary -> https://en.wiktionary.org/wiki/Special:Search/Goods_and_services_tax_(India)",
@@ -237,20 +237,47 @@
           "LINK: Wikidata -> https://www.wikidata.org/wiki/Special:Search/Goods_and_services_tax_(India)",
           "LINK: -> https://en.wikipedia.org/wiki/File:Wikispecies-logo.svg",
           "LINK: Wikispecies -> https://species.wikimedia.org/wiki/Special:Search/Goods_and_services_tax_(India)",
-          "LINK: search for Goods and services tax (India) in Wikipedia -> https://en.wikipedia.org/w/index.php?search=Goods+and+services+tax+%28India%29&title=Special%3ASearch&fulltext=1",
           "LINK: log in or create an account -> https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Goods+and+services+tax+%28India%29",
           "LINK: autoconfirmed -> https://en.wikipedia.org/wiki/Wikipedia:User_access_levels#Autoconfirmed_users",
           "LINK: article wizard -> https://en.wikipedia.org/wiki/Wikipedia:Article_wizard",
           "LINK: request a new article -> https://en.wikipedia.org/wiki/Wikipedia:Requested_articles",
-          "LINK: Search for \"Goods and services tax (India)\" -> https://en.wikipedia.org/w/index.php?search=Goods+and+services+tax+%28India%29&title=Special%3ASearch&fulltext=1&ns0=1"
+          "LINK: Search for \"Goods and services tax (India)\" -> https://en.wikipedia.org/w/index.php?search=Goods+and+services+tax+%28India%29&title=Special%3ASearch&fulltext=1&ns0=1",
+          "LINK: Look for pages within Wikipedia that link to this title -> https://en.wikipedia.org/wiki/Special:WhatLinksHere/Goods_and_services_tax_(India)"
         ],
-        "screenshot": "snaps/s4_20261108T112657180308.jpg"
+        "screenshot": "snaps/s4_20261128T132613840570.jpg"
       },
-      "pending_changes": 1,
+      "pending_changes": 2,
       "handoffs": []
     }
   ],
   "changes": [
+    {
+      "id": 52,
+      "source_id": 4,
+      "source_name": "Reference: GST in India (Wikipedia)",
+      "detected_at": "2026-11-28T13:26:13+00:00",
+      "summary": "4 line(s) added, 5 removed. Added: Wikipedia does not have an article with this exact name. | Page titles are case sensitive; please search for this title to check if alternative capitalizations exist and consider adding a redirect here to the correct title. | If you created this page, check the deletion log and see Why was the page I created deleted? Removed: Wikipedia does not have an article with this exact name. Please search for Goods and services tax (India) in Wikipedia to check for alternative titles or spellings. | Titles on Wikipedia are case sensitive except for the first character; please check alternative capitalizations and consider adding a redirect here to the correct title. | If the page has been deleted, check the deletion log, and see Why was the page I created deleted?",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -10,3 +10,3 @@\n Wikispecies (species directory)\n-Wikipedia does not have an article with this exact name. Please search for Goods and services tax (India) in Wikipedia to check for alternative titles or spellings.\n+Wikipedia does not have an article with this exact name.\n You need to log in or create an account and be autoconfirmed to create new articles. Alternatively, you can use the article wizard to submit a draft for review, or request a new article.\n@@ -15,4 +15,4 @@\n Other reasons this message may be displayed:\n-Titles on Wikipedia are case sensitive except for the first character; please check alternative capitalizations and consider adding a redirect here to the correct title.\n-If the page has been deleted, check the deletion log, and see Why was the page I created deleted?\n+Page titles are case sensitive; please search for this title to check if alternative capitalizations exist and consider adding a redirect here to the correct title.\n+If you created this page, check the deletion log and see Why was the page I created deleted?\n LINK: sister projects -> https://en.wikipedia.org/wiki/Special:SiteMatrix\n@@ -34,3 +34,2 @@\n LINK: Wikispecies -> https://species.wikimedia.org/wiki/Special:Search/Goods_and_services_tax_(India)\n-LINK: search for Goods and services tax (India) in Wikipedia -> https://en.wikipedia.org/w/index.php?search=Goods+and+services+tax+%28India%29&title=Special%3ASearch&fulltext=1\n LINK: log in or create an account -> https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Goods+and+services+tax+%28India%29\n@@ -42,3 +41,3 @@\n LINK: case sensitive -> https://en.wikipedia.org/wiki/Case_sensitivity\n-LINK: check alternative capitalizations -> https://en.wikipedia.org/w/index.php?search=Goods+and+services+tax+%28India%29&title=Special%3ASearch&fulltext=1\n+LINK: search for this title -> https://en.wikipedia.org/w/index.php?search=Goods+and+services+tax+%28India%29&title=Special:Search&fulltext=1&ns0=1\n LINK: redirect -> https://en.wikipedia.org/wiki/Wikipedia:Redirect"
+    },
+    {
+      "id": 51,
+      "source_id": 3,
+      "source_name": "RBI notifications",
+      "detected_at": "2026-11-28T13:26:12+00:00",
+      "summary": "28 line(s) added, 7 removed. Added: Reserve Bank of India (Payment Banks - Know Your Customer) Amendment Directions, 2026 242 kb | Reserve Bank of India (Urban Co-operative Banks - Know Your Customer) Second Amendment Directions, 2026 242 kb | Reserve Bank of India (Regional Rural Banks - Know Your Customer) Second Amendment Directions, 2026 246 kb Removed: Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026 309 kb | Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026 370 kb | Last Updated On: Nov 27, 2026",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -23,5 +23,11 @@\n Nov 27, 2026\n+Reserve Bank of India (Payment Banks - Know Your Customer) Amendment Directions, 2026 242 kb\n+Reserve Bank of India (Urban Co-operative Banks - Know Your Customer) Second Amendment Directions, 2026 242 kb\n+Reserve Bank of India (Regional Rural Banks - Know Your Customer) Second Amendment Directions, 2026 246 kb\n+Reserve Bank of India (Local Area Banks - Know Your Customer) Second Amendment Directions, 2026 246 kb\n+Reserve Bank of India (Small Finance Banks - Know Your Customer) Second Amendment Directions, 2026 246 kb\n+Reserve Bank of India (Commercial Banks - Know Your Customer) Second Amendment Directions, 2026 242 kb\n Reserve Bank of India (White Label ATM Operators) Directions, 2026 230 kb\n-Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026 309 kb\n-Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026 370 kb\n+Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026 310 kb\n+Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026 433 kb\n Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement 223 kb\n@@ -55,4 +61,4 @@\n Back to previous page\n-Last Updated On: Nov 27, 2026\n-MORE LINKS :\n+Last Updated On: Nov 28, 2026\n+MORE LINKS\n Bank Holidays\n@@ -73,3 +79,3 @@\n RBI Kehta Hai\n-RBI’s Vision and Values (652 KB)\n+RBI’s Vision and Values (652 kb)\n Right to Information Act\n@@ -86,3 +92,3 @@\n Website owned and managed by Reserve Bank of India. Contact us on helpdoc[at]rbi[dot]org[dot]in\n-Website last updated date: Nov 27, 2026\n+Website last updated date: Nov 28, 2026\n Web Information Manager\n@@ -195,4 +201,19 @@\n LINK: Circulars Withdrawn -> https://www.rbi.org.in/Scripts/NotificationUserWithdrawnCircular.aspx\n+LINK: Reserve Bank of India (Payment Banks - Know Your Customer) Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13768&Mode=0\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI3160034F4085AC24678A877596FB6913F30.PDF\n+LINK: Reserve Bank of India (Urban Co-operative Banks - Know Your Customer) Second Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13767&Mode=0\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT31549F0D9FEE2FD4B3F82B48E08FEE4C6FD.PDF\n+LINK: Reserve Bank of India (Regional Rural Banks - Know Your Customer) Second Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13766&Mode=0\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI3145E619244785C4FBD902150185BB9994F.PDF\n+LINK: Reserve Bank of India (Local Area Banks - Know Your Customer) Second Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13765&Mode=0\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3131A6E10F0F2D948FA91ED1E6CB60D6772.PDF\n+LINK: Reserve Bank of India (Small Finance Banks - Know Your Customer) Second Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13764&Mode=0\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI3124A40B3EDFBCF4DAA920AC3E218C451BB.PDF\n+LINK: Reserve Bank of India (Commercial Banks - Know Your Customer) Second Amendment Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13763&Mode=0\n+LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT311F735490DD0924A92AEB17144557F391A.PDF\n+LINK: Reserve Bank of India (White Label ATM Operators) Directions, 2026 -> https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13762&Mode=0\n LINK: -> https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MD4797B5FE2A6E13040789D13068AEBF7A964.PDF\n+LINK: Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale"
+    },
+    {
+      "id": 50,
+      "source_id": 1,
+      "source_name": "FSSAI notifications",
+      "detected_at": "2026-11-28T13:26:02+00:00",
+      "summary": "4 line(s) added, 4 removed. Added: एफ. एस. एस. अधिनियम/नियमों/विनियमों के अनुरूप नमूनों के विश्लेषण, विश्लेषण की विधि और परीक्षण रिपोर्ट प्रारूपों के लिए समय-सीमा से संबंधित खाद्य सुरक्षा और मानकों (प्रयोगशाला और नमूना विश्लेषण) संशोधन विनियम, 2026 की राजपत्र अधिसूचना | अंतिम बार अद्यतन किया गयाः 28/11/2026 | नौकरियां @एफ. एस. एस. ए. आई. (करियर) Removed: एफ. एस. एस. अधिनियम/नियमों/विनियमों के अनुरूप नमूनों के विश्लेषण के लिए समयरेखा, विश्लेषण की विधि और परीक्षण रिपोर्ट प्रारूपों से संबंधित खाद्य सुरक्षा और मानकों (प्रयोगशाला और नमूना विश्लेषण) संशोधन विनियम, 2026 की राजपत्र अधिसूचना | अंतिम बार अद्यतन किया गयाः 27/11/2026 | नौकरियां @एफएसएसएआई (करियर)",
+      "status": "pending",
+      "diff": "--- previous\n+++ current\n@@ -74,3 +74,3 @@\n 10\n-एफ. एस. एस. अधिनियम/नियमों/विनियमों के अनुरूप नमूनों के विश्लेषण के लिए समयरेखा, विश्लेषण की विधि और परीक्षण रिपोर्ट प्रारूपों से संबंधित खाद्य सुरक्षा और मानकों (प्रयोगशाला और नमूना विश्लेषण) संशोधन विनियम, 2026 की राजपत्र अधिसूचना\n+एफ. एस. एस. अधिनियम/नियमों/विनियमों के अनुरूप नमूनों के विश्लेषण, विश्लेषण की विधि और परीक्षण रिपोर्ट प्रारूपों के लिए समय-सीमा से संबंधित खाद्य सुरक्षा और मानकों (प्रयोगशाला और नमूना विश्लेषण) संशोधन विनियम, 2026 की राजपत्र अधिसूचना\n 18-09-2026\n@@ -96,3 +96,3 @@\n टिप्पणियों के लिए नोटिस\n-अंतिम बार अद्यतन किया गयाः 27/11/2026\n+अंतिम बार अद्यतन किया गयाः 28/11/2026\n एफ. एस. एस. ए. आई.-भारत के प्रत्येक नागरिक के लिए सुरक्षित और संपूर्ण भोजन सुनिश्चित करना\n@@ -106,3 +106,3 @@\n अनुसंधान और विकास\n-नौकरियां @एफएसएसएआई (करियर)\n+नौकरियां @एफ. एस. एस. ए. आई. (करियर)\n इंटर्नशिप @एफएसएसएआई\n@@ -167,3 +167,3 @@\n LINK: अनुसंधान और विकास -> https://www.fssai.gov.in/research-and-development\n-LINK: नौकरियां @एफएसएसएआई (करियर) -> https://www.fssai.gov.in/jobs-at-fssai\n+LINK: नौकरियां @एफ. एस. एस. ए. आई. (करियर) -> https://www.fssai.gov.in/jobs-at-fssai\n LINK: इंटर्नशिप @एफएसएसएआई -> https://www.fssai.gov.in/internship-at-fssai"
+    },
     {
       "id": 49,
       "source_id": 3,
